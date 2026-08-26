@@ -105,6 +105,20 @@ or just open the .csv in Google Sheets), then build a Looker Studio
 report on top. Because `job_history.csv` grows every day, trend charts
 over weeks/months come for free.
 
+## Live dashboard (Google Sheets)
+
+View the live dashboard here:
+https://docs.google.com/spreadsheets/d/1lytBBMa1yk0I-2F4WUoC7el9EH1ch5h7KsUm1-XNr48/edit?usp=sharing
+
+Note: set the sheet's sharing to **Anyone with the link -> Viewer** so visitors
+can open it from this repo.
+
+The three tabs (`current_jobs`, `job_history`, `jobs_by_day`) auto-refresh
+every day from the CSVs in `export/` via the bound Apps Script
+(`google_apps_script/refresh_sheet.gs`). Charts and pivot tables you add in
+the sheet follow the data automatically. The full pipeline is then:
+**local cron 9 AM -> GitHub export CSVs -> Google Sheets tabs -> charts/dashboard.**
+
 ## Project structure
 
 ```
