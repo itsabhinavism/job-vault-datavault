@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 jobvault.db
 staging/
-export/
 batch_*.log
 batch_*.log.*
 .DS_Store

@@ -14,4 +14,15 @@ env -u PYTHONPATH .venv/bin/python load_dv.py || exit 1
 echo ""
 env -u PYTHONPATH .venv/bin/python export.py || exit 1
 echo ""
+# Push the freshly exported CSVs to GitHub so they stay current + downloadable.
+GIT_ASKPASS=~/.hermes/scripts/git_askpass.sh
+export GIT_ASKPASS
+git add export/
+if git diff --cached --quiet; then
+  echo "export: no changes to commit"
+else
+  git commit -m "data: refresh export CSVs $(date +%F)" >/dev/null && \
+  git push origin main >> "$LOG" 2>&1 && echo "export: pushed CSVs to GitHub" \
+  || echo "export: commit/push failed (see log)"
+fi
 echo "=== Batch finished ==="
