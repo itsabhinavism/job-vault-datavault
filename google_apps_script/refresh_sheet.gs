@@ -26,12 +26,12 @@ function refreshAll() {
   }
 }
 
-// Install once, then the refresh runs automatically every day at 09:00.
+// Install once, then the refresh runs automatically every day at 21:00 (9 PM).
 function installDailyTrigger() {
   ScriptApp.newTrigger("refreshAll")
     .timeBased()
     .everyDays(1)
-    .atHour(9)
+    .atHour(21)
     .create();
 }
 
