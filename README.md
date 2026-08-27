@@ -3,6 +3,7 @@
 > **Scrape real job postings from multiple websites → normalize them into one schema → keep full change history → push to a live Google Sheets dashboard. All on your laptop, no cloud.**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey) ![Data Vault 2.0](https://img.shields.io/badge/Modeling-Data%20Vault%202.0-brightgreen) ![Google Sheets](https://img.shields.io/badge/Frontend-Google%20Sheets-green) ![Cron](https://img.shields.io/badge/Automation-Daily%20Cron-orange)
+![CI](https://github.com/itsabhinavism/job-vault-datavault/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -70,7 +71,7 @@ Scraping alone isn't enough. You need to **normalize**, **join reliably**, and *
 🚀 GitHub push ──▶ Google Apps Script ──▶ Google Sheets ──▶ 📈 charts auto-update
 ```
 
-**Currently tracking: 159 live jobs** across Razorpay, CRED, Zeta & Freshworks.
+**Currently tracking: 150+ live jobs** across Razorpay, CRED, Zeta & Freshworks.
 
 ---
 
@@ -121,6 +122,28 @@ Beyond append-only storage, the loader **captures** every change event:
 This is the difference between *appending versions* and *capturing changes*:
 the append-only satellites store the what, the change log captures the delta.
 
+## 💡 Extracted signals (salary · skills · work mode · level)
+
+Each job's description is parsed for structured signals:
+
+- `s_job_salary` — salary range + currency + period. Only stored **when the
+  employer actually publishes a salary** (honest note: today's 4 boards print
+  no ranges in these postings, so the table is empty but armed — sources like
+  Internshala that always show stipends will fill it).
+- `h_skill` + `l_job_skill` — skill hub + job→skill links. Right now:
+  Salesforce 31, Excel 4, Python 4, Agile 4 open jobs and more (`skills.csv`).
+- `s_job_meta` — work mode (remote/hybrid/onsite) + seniority level
+  (associate → management) per job version (`jobs_by_mode.csv`).
+- Locations are alias-normalized (`Bangalore`/`bengaluru` → `Bengaluru, India`).
+
+New exports: `skills.csv`, `salary_data.csv`, `jobs_by_mode.csv`.
+
+## 🧪 Tests & CI
+
+A `pytest` suite covers the MD5 key scheme, the salary/skills/mode/level
+parsers, and the loader's change-capture + versioning logic. It runs on every
+push via GitHub Actions (green badge above) — `python -m pytest tests/ -q`.
+
 ## ⚙️ How to Run It
 
 ```bash
@@ -148,8 +171,12 @@ JobVault/
 ├── load_dv.py             # Data Vault load with append-only history + diff
 ├── export.py              # CSV export for the frontend
 ├── verify.py              # self-check / report of warehouse state
+├── features.py            # salary / skills / work-mode / level extraction
+├── notify_telegram.py     # daily batch summary -> Telegram DM
 ├── schema.sql             # the Data Vault schema (hubs / links / satellites)
 ├── run_batch.sh           # one batch: scrape -> normalize -> load -> export; also backs up db/staging/export to Google Drive
+├── tests/                 # pytest suite (keys, parsers, loader)
+├── .github/workflows/     # GitHub Actions CI
 ├── google_apps_script/
 │   └── refresh_sheet.gs   # auto-refreshes the Google Sheets tabs daily
 ├── media/
@@ -177,10 +204,12 @@ JobVault/
 - [x] Data Vault schema + MD5 keys
 - [x] Append-only history + closed detection
 - [x] Daily automated batch + Google Sheets dashboard
-- [ ] 💰 Salary extraction as its own satellite (chart "salary by role" over time)
-- [ ] 🎓 Qualification / skills extraction
-- [ ] 🗣️ Daily "what changed since yesterday" summary message
+- [x] 💰 Salary + skills extraction into their own satellites
+- [x] 🎓 Skills extraction + location/work-mode normalization (data quality)
+- [x] 🗣️ Daily Telegram "what changed today" summary
+- [x] 🧪 Tests + GitHub Actions CI
 - [ ] 🏦 PostgreSQL + Airflow for the "real deployment" version
+- [ ] 🎓 Qualification parsing (degrees, years of experience)
 
 ---
 

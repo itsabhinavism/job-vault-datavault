@@ -1,4 +1,160 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
-3,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 07:26:22.920169
-2,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,NEW,,2026-08-27 07:26:22.920169
-1,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,UPDATED,"{""updated_at"": {""from"": ""2026-08-24T04:08:30-04:00"", ""to"": ""2026-08-27T02:55:02-04:00""}}",2026-08-27 07:26:22.920169
+159,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,NEW,,2026-08-27 08:15:09.744354
+158,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-08-27 08:15:09.744354
+157,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",NEW,,2026-08-27 08:15:09.744354
+156,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-08-27 08:15:09.744354
+155,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-08-27 08:15:09.744354
+154,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Community Manager,NEW,,2026-08-27 08:15:09.744354
+153,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,NEW,,2026-08-27 08:15:09.744354
+152,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-08-27 08:15:09.744354
+151,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-08-27 08:15:09.744354
+150,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Director - Product Design,NEW,,2026-08-27 08:15:09.744354
+149,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Employee Relations,NEW,,2026-08-27 08:15:09.744354
+148,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),NEW,,2026-08-27 08:15:09.744354
+147,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,NEW,,2026-08-27 08:15:09.744354
+146,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,NEW,,2026-08-27 08:15:09.744354
+145,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,NEW,,2026-08-27 08:15:09.744354
+144,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,NEW,,2026-08-27 08:15:09.744354
+143,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
+142,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Scientist,NEW,,2026-08-27 08:15:09.744354
+141,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),NEW,,2026-08-27 08:15:09.744354
+140,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Strategic Sourcing,NEW,,2026-08-27 08:15:09.744354
+139,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Sr. Solution Architect (SA) ,NEW,,2026-08-27 08:15:09.744354
+138,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Sr. Solution Architect (SA) ,NEW,,2026-08-27 08:15:09.744354
+137,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,NEW,,2026-08-27 08:15:09.744354
+136,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Services Sourcing,NEW,,2026-08-27 08:15:09.744354
+135,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Vendor Management,NEW,,2026-08-27 08:15:09.744354
+134,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
+133,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
+132,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
+131,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal Customer Success Engineer,NEW,,2026-08-27 08:15:09.744354
+130,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,NEW,,2026-08-27 08:15:09.744354
+129,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,NEW,,2026-08-27 08:15:09.744354
+128,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,NEW,,2026-08-27 08:15:09.744354
+127,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Senior Product Marketing Manager, Freshservice",NEW,,2026-08-27 08:15:09.744354
+126,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"FP&A Manager, Product & Engineering",NEW,,2026-08-27 08:15:09.744354
+125,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Business Development Manager,NEW,,2026-08-27 08:15:09.744354
+124,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
+123,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
+122,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Account Executive(Swedish/Finnish/Danish/Norwegian speaking),NEW,,2026-08-27 08:15:09.744354
+121,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Solution Architect,NEW,,2026-08-27 08:15:09.744354
+120,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid Market,NEW,,2026-08-27 08:15:09.744354
+119,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Data Platform Engineering,NEW,,2026-08-27 08:15:09.744354
+118,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Manager, Lifecycle Marketing",NEW,,2026-08-27 08:15:09.744354
+117,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lifecycle Marketing Specialist,NEW,,2026-08-27 08:15:09.744354
+116,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-08-27 08:15:09.744354
+115,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Mobile (Android),NEW,,2026-08-27 08:15:09.744354
+114,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-08-27 08:15:09.744354
+113,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management,NEW,,2026-08-27 08:15:09.744354
+112,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,NEW,,2026-08-27 08:15:09.744354
+111,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Platform Engineering,NEW,,2026-08-27 08:15:09.744354
+110,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - UK,NEW,,2026-08-27 08:15:09.744354
+109,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - Germany (m/f/d),NEW,,2026-08-27 08:15:09.744354
+108,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist (UKI & Nordics),NEW,,2026-08-27 08:15:09.744354
+107,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,NEW,,2026-08-27 08:15:09.744354
+106,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Product Adoption (US Shift),NEW,,2026-08-27 08:15:09.744354
+105,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise (SLED),NEW,,2026-08-27 08:15:09.744354
+104,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise (SLED),NEW,,2026-08-27 08:15:09.744354
+103,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise (SLED),NEW,,2026-08-27 08:15:09.744354
+102,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist,NEW,,2026-08-27 08:15:09.744354
+101,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer(Dutch speaking),NEW,,2026-08-27 08:15:09.744354
+100,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering(Dutch speaking),NEW,,2026-08-27 08:15:09.744354
+99,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Corporate PR Manager,NEW,,2026-08-27 08:15:09.744354
+98,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lifecycle Marketing Specialist,NEW,,2026-08-27 08:15:09.744354
+97,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,NEW,,2026-08-27 08:15:09.744354
+96,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Program Manager - Voice of the Customer Programs,NEW,,2026-08-27 08:15:09.744354
+95,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Machine Learning,NEW,,2026-08-27 08:15:09.744354
+94,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Software Engineer - Full Stack,NEW,,2026-08-27 08:15:09.744354
+93,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Systems,NEW,,2026-08-27 08:15:09.744354
+92,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management - Process Transformation & Automation,NEW,,2026-08-27 08:15:09.744354
+91,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategist ,NEW,,2026-08-27 08:15:09.744354
+90,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Revenue Enablement,NEW,,2026-08-27 08:15:09.744354
+89,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Austria & Switzerland (m/f/d),NEW,,2026-08-27 08:15:09.744354
+88,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Manager, Lifecycle Marketing",NEW,,2026-08-27 08:15:09.744354
+87,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity,NEW,,2026-08-27 08:15:09.744354
+86,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Value Engineer,NEW,,2026-08-27 08:15:09.744354
+85,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,NEW,,2026-08-27 08:15:09.744354
+84,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
+83,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
+82,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
+81,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
+80,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
+79,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
+78,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Mobile,NEW,,2026-08-27 08:15:09.744354
+77,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Bots Strategy,NEW,,2026-08-27 08:15:09.744354
+76,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Digital Marketing Lead,NEW,,2026-08-27 08:15:09.744354
+75,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Digital Marketing Lead,NEW,,2026-08-27 08:15:09.744354
+74,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Director - Business Execution,NEW,,2026-08-27 08:15:09.744354
+73,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Manager - Mid Market,NEW,,2026-08-27 08:15:09.744354
+72,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Machine Learning,NEW,,2026-08-27 08:15:09.744354
+71,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior NOC Engineer,NEW,,2026-08-27 08:15:09.744354
+70,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
+69,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
+68,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,GTM Engineer,NEW,,2026-08-27 08:15:09.744354
+67,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"GTM Engineer, Revenue Operations ",NEW,,2026-08-27 08:15:09.744354
+66,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Customer Success (EX - ASEAN),NEW,,2026-08-27 08:15:09.744354
+65,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management (Deal Desk),NEW,,2026-08-27 08:15:09.744354
+64,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Test,NEW,,2026-08-27 08:15:09.744354
+63,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
+62,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
+61,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Vice President - Corporate Communications,NEW,,2026-08-27 08:15:09.744354
+60,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,NEW,,2026-08-27 08:15:09.744354
+59,2026-08-27,lever_zeta,ZETA,Vice President - Sales & Business Development,NEW,,2026-08-27 08:15:09.744354
+58,2026-08-27,lever_zeta,ZETA,Specialist Total Rewards,NEW,,2026-08-27 08:15:09.744354
+57,2026-08-27,lever_zeta,ZETA,Specialist / Manager – People Tech & Transformation,NEW,,2026-08-27 08:15:09.744354
+56,2026-08-27,lever_zeta,ZETA,Specialist - People Partner,NEW,,2026-08-27 08:15:09.744354
+55,2026-08-27,lever_zeta,ZETA,Solution Train Manager,NEW,,2026-08-27 08:15:09.744354
+54,2026-08-27,lever_zeta,ZETA,Software Development Engineer in Test II,NEW,,2026-08-27 08:15:09.744354
+53,2026-08-27,lever_zeta,ZETA,SIEM & SecOps Engineer II,NEW,,2026-08-27 08:15:09.744354
+52,2026-08-27,lever_zeta,ZETA,Project Manager II,NEW,,2026-08-27 08:15:09.744354
+51,2026-08-27,lever_zeta,ZETA,Product Security Engineer II,NEW,,2026-08-27 08:15:09.744354
+50,2026-08-27,lever_zeta,ZETA,Manager - Accounts,NEW,,2026-08-27 08:15:09.744354
+49,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,NEW,,2026-08-27 08:15:09.744354
+48,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,NEW,,2026-08-27 08:15:09.744354
+47,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,NEW,,2026-08-27 08:15:09.744354
+46,2026-08-27,lever_zeta,ZETA,Lead Designer,NEW,,2026-08-27 08:15:09.744354
+45,2026-08-27,lever_zeta,ZETA,Lead / Manager Data Reliability Engineering,NEW,,2026-08-27 08:15:09.744354
+44,2026-08-27,lever_zeta,ZETA,Infosec GRC Associate II,NEW,,2026-08-27 08:15:09.744354
+43,2026-08-27,lever_zeta,ZETA,Financial Analyst,NEW,,2026-08-27 08:15:09.744354
+42,2026-08-27,lever_zeta,ZETA,Executive - IT Support,NEW,,2026-08-27 08:15:09.744354
+41,2026-08-27,lever_zeta,ZETA,Executive - IT Support,NEW,,2026-08-27 08:15:09.744354
+40,2026-08-27,lever_zeta,ZETA,Director – Enterprise Applications & IT Infrastructure,NEW,,2026-08-27 08:15:09.744354
+39,2026-08-27,lever_zeta,ZETA,Corporate Risk and Compliance - Associate II,NEW,,2026-08-27 08:15:09.744354
+38,2026-08-27,lever_zeta,ZETA,Cloud Network Engineer II,NEW,,2026-08-27 08:15:09.744354
+37,2026-08-27,lever_cred,CRED,regional collection manager bangalore - flows,NEW,,2026-08-27 08:15:09.744354
+36,2026-08-27,lever_cred,CRED,machine learning engineer,NEW,,2026-08-27 08:15:09.744354
+35,2026-08-27,lever_cred,CRED,long form content writer/editor,NEW,,2026-08-27 08:15:09.744354
+34,2026-08-27,lever_cred,CRED,lead – on deck payments,NEW,,2026-08-27 08:15:09.744354
+33,2026-08-27,lever_cred,CRED,growth and business - max and wallet,NEW,,2026-08-27 08:15:09.744354
+32,2026-08-27,lever_cred,CRED,data scientist,NEW,,2026-08-27 08:15:09.744354
+31,2026-08-27,lever_cred,CRED,copywriter,NEW,,2026-08-27 08:15:09.744354
+30,2026-08-27,lever_cred,CRED,capital partnerships,NEW,,2026-08-27 08:15:09.744354
+29,2026-08-27,lever_cred,CRED,business development & strategic partnerships - d2c,NEW,,2026-08-27 08:15:09.744354
+28,2026-08-27,lever_cred,CRED,business development & partnerships,NEW,,2026-08-27 08:15:09.744354
+27,2026-08-27,lever_cred,CRED,"area collections manager, pune (recoveries)",NEW,,2026-08-27 08:15:09.744354
+26,2026-08-27,lever_cred,CRED,area collections manager hyderabad -flows,NEW,,2026-08-27 08:15:09.744354
+25,2026-08-27,lever_cred,CRED,area collections manager chennai- flows,NEW,,2026-08-27 08:15:09.744354
+24,2026-08-27,lever_cred,CRED,area collections manager bangalore -flows,NEW,,2026-08-27 08:15:09.744354
+23,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,NEW,,2026-08-27 08:15:09.744354
+22,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,NEW,,2026-08-27 08:15:09.744354
+21,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Engineer,NEW,,2026-08-27 08:15:09.744354
+20,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Consultant,NEW,,2026-08-27 08:15:09.744354
+19,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Software Development Engineer,NEW,,2026-08-27 08:15:09.744354
+18,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",NEW,,2026-08-27 08:15:09.744354
+17,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,NEW,,2026-08-27 08:15:09.744354
+16,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,NEW,,2026-08-27 08:15:09.744354
+15,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",NEW,,2026-08-27 08:15:09.744354
+14,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",NEW,,2026-08-27 08:15:09.744354
+13,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Legal",NEW,,2026-08-27 08:15:09.744354
+12,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Learning Business Partner",NEW,,2026-08-27 08:15:09.744354
+11,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Enterprise Partnerships",NEW,,2026-08-27 08:15:09.744354
+10,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border",NEW,,2026-08-27 08:15:09.744354
+9,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances",NEW,,2026-08-27 08:15:09.744354
+8,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Affordability",NEW,,2026-08-27 08:15:09.744354
+7,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",NEW,,2026-08-27 08:15:09.744354
+6,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Product Designer,NEW,,2026-08-27 08:15:09.744354
+5,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Full Stack Builder,NEW,,2026-08-27 08:15:09.744354
+4,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,NEW,,2026-08-27 08:15:09.744354
+3,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Consultant - Strategy ,NEW,,2026-08-27 08:15:09.744354
+2,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Startup Accounts",NEW,,2026-08-27 08:15:09.744354
+1,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Solutions Engineering",NEW,,2026-08-27 08:15:09.744354

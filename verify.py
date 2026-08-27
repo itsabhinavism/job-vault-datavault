@@ -52,6 +52,32 @@ print("\n-- Source watermarks (CDC incremental state) --")
 for r in conn.execute("SELECT source, last_batch_date, last_changed_at, records_seen FROM source_watermarks ORDER BY source"):
     print(f"  {r['source']:32} | batch {r['last_batch_date']} | last src change {str(r['last_changed_at'])[:10]} | {r['records_seen']} records")
 
+print("\n-- Extracted signals: top skills among open jobs --")
+for r in conn.execute(
+    """SELECT sk.skill_name, COUNT(*) AS jobs
+       FROM l_job_skill l
+       JOIN h_skill sk ON sk.hk_skill = l.hk_skill
+       JOIN s_job s ON s.hk_job = l.hk_job
+       WHERE s.status='open'
+         AND s.load_date=(SELECT MAX(s2.load_date) FROM s_job s2 WHERE s2.hk_job = s.hk_job)
+       GROUP BY sk.skill_name ORDER BY jobs DESC LIMIT 10"""
+):
+    print(f"  {r['skill_name']:16}: {r['jobs']} open jobs")
+
+sal = conn.execute(
+    """SELECT hc.company_name, s.title, sl.salary_min, sl.salary_max, sl.currency, sl.period
+       FROM s_job_salary sl
+       JOIN s_job s ON s.hk_job = sl.hk_job AND s.load_date = sl.load_date
+       JOIN l_job_company l ON l.hk_job = sl.hk_job
+       JOIN h_company hc ON hc.hk_company = l.hk_company
+       WHERE s.status='open'
+         AND s.load_date=(SELECT MAX(s2.load_date) FROM s_job s2 WHERE s2.hk_job = s.hk_job)
+       ORDER BY sl.salary_max DESC LIMIT 5"""
+).fetchall()
+print("  top salaries found:")
+for r in sal:
+    print(f"    {r['company_name'][:18]:19} {r['title'][:30]:31} {str(r['currency'] or '?'):4} {r['salary_min']}-{r['salary_max']} ({r['period']})")
+
 print("\n-- Why MD5 (the join trick) --")
 a = md5_key("Razorpay Software Private Limited")
 b = md5_key("  RAZORPAY software private limited ")

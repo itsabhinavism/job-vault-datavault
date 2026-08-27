@@ -4,6 +4,7 @@ One file per source per day. This is the "batch" in batch processing:
 every run today replaces today's file with a fresh pull.
 """
 import json
+import time
 from datetime import date
 from pathlib import Path
 
@@ -17,8 +18,11 @@ UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit
 
 
 def fetch_gh(board):   # Greenhouse (Razorpay uses it)
-    # The API returns {"jobs": [...], "meta": {...}} - we only need the list.
-    return requests.get(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs", headers=UA, timeout=30).json()["jobs"]
+    # content=true brings the full job description HTML - needed for
+    # salary + skills extraction.
+    return requests.get(
+        f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true",
+        headers=UA, timeout=60).json()["jobs"]
 
 
 def fetch_lever(company):   # Lever (CRED, Zeta)
@@ -26,7 +30,25 @@ def fetch_lever(company):   # Lever (CRED, Zeta)
 
 
 def fetch_sr(company):   # SmartRecruiters (Freshworks)
-    return requests.get(f"https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100", headers=UA, timeout=30).json()["content"]
+    # Step 1: list postings (descriptions are NOT in the list - each job's
+    # full description needs one more call to its jobAd endpoint).
+    data = requests.get(
+        f"https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100",
+        headers=UA, timeout=30).json()["content"]
+    out = []
+    for p in data:
+        # Descriptions live on the per-posting detail endpoint (postings/{id}),
+        # NOT on the jobads sub-resource.
+        try:
+            detail = requests.get(
+                f"https://api.smartrecruiters.com/v1/companies/{company}/postings/{p['id']}",
+                headers=UA, timeout=30).json()
+            p["jobAd"] = detail.get("jobAd") or {}
+        except Exception:
+            p["jobAd"] = {}
+        time.sleep(0.05)
+        out.append(p)
+    return out
 
 
 SOURCES = {

@@ -87,6 +87,44 @@ def main():
                JOIN h_company hc ON hc.hk_company = l.hk_company
                ORDER BY c.change_id DESC LIMIT 500""").fetchall())
 
+    # 3c) Skill demand across currently open jobs.
+    files["skills.csv"] = dump(c,
+        "skills.csv",
+        c.execute(
+            """SELECT sk.skill_name, COUNT(*) AS open_jobs
+               FROM l_job_skill l
+               JOIN h_skill sk ON sk.hk_skill = l.hk_skill
+               JOIN s_job s ON s.hk_job = l.hk_job
+               WHERE s.status='open'
+                 AND s.load_date=(SELECT MAX(s2.load_date) FROM s_job s2 WHERE s2.hk_job = s.hk_job)
+               GROUP BY sk.skill_name ORDER BY open_jobs DESC""").fetchall())
+
+    # 3d) Salary data for currently open jobs that mention a salary.
+    files["salary_data.csv"] = dump(c,
+        "salary_data.csv",
+        c.execute(
+            """SELECT hc.company_name, s.title, sl.salary_min, sl.salary_max, sl.currency,
+                      sl.period, sl.raw_salary, s.batch_date
+               FROM s_job_salary sl
+               JOIN s_job s ON s.hk_job = sl.hk_job AND s.load_date = sl.load_date
+               JOIN h_job hj ON hj.hk_job = sl.hk_job
+               JOIN l_job_company l ON l.hk_job = sl.hk_job
+               JOIN h_company hc ON hc.hk_company = l.hk_company
+               WHERE s.status='open'
+                 AND s.load_date=(SELECT MAX(s2.load_date) FROM s_job s2 WHERE s2.hk_job = s.hk_job)
+               ORDER BY hc.company_name""").fetchall())
+
+    # 3e) Work mode breakdown for currently open jobs.
+    files["jobs_by_mode.csv"] = dump(c,
+        "jobs_by_mode.csv",
+        c.execute(
+            """SELECT m.work_mode, COUNT(*) AS open_jobs
+               FROM s_job_meta m
+               JOIN s_job s ON s.hk_job = m.hk_job AND s.load_date = m.load_date
+               WHERE s.status='open'
+                 AND s.load_date=(SELECT MAX(s2.load_date) FROM s_job s2 WHERE s2.hk_job = s.hk_job)
+               GROUP BY m.work_mode ORDER BY open_jobs DESC""").fetchall())
+
     # 4) Jobs currently open in each company.
     files["jobs_by_company.csv"] = dump(c,
         "jobs_by_company.csv",

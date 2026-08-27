@@ -1,18 +1,17 @@
-"""Load normalized data with append-only HISTORY + CHANGE DATA CAPTURE (CDC).
+"""Load normalized data with append-only HISTORY + CHANGE DATA CAPTURE (CDC)
++ extracted signals (salary / skills / work mode / level).
 
 For each job we keep EVERY version ever seen (append-only satellites).
 On top of that, this loader implements CDC properly:
 
   - change_log:       one row per change EVENT (NEW / UPDATED / CLOSED),
-                      with the field-level diff stored as JSON, so we can
-                      answer "what changed, in which field, from what to
-                      what, and when".
+                      with the field-level diff stored as JSON.
   - source_watermarks: per-source incremental state (last batch date, latest
-                      source timestamp, records seen) - the foundation for
-                      incremental extraction (pull only deltas next batch).
+                      source timestamp, records seen).
 
-This is the answer to "you are just appending": append-only storage PLUS an
-explicitly captured, queryable change feed.
+And it extracts structured signals from each job's description:
+  - s_job_salary / s_job_meta: versioned satellites (one row per job version)
+  - h_skill + l_job_skill: skill hub + job->skill links (current skill set)
 """
 import hashlib
 import json
@@ -21,6 +20,8 @@ import sqlite3
 import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
+
+import features
 
 BASE = Path(__file__).parent
 # Optional override (used by tests/demos so the real DB is never touched).
@@ -86,6 +87,44 @@ def log_change(conn, source, hk_job, change_type, changed_fields, title, stamp):
     )
 
 
+def load_signals(conn, rec, hk_job, stamp):
+    """Extract salary / skills / work mode / level from the description."""
+    desc = rec.get("description") or ""
+
+    sal = features.parse_salary(desc)
+    if sal:
+        conn.execute(
+            """INSERT INTO s_job_salary
+               (hk_job, load_date, batch_date, salary_min, salary_max, currency, period, raw_salary, record_source)
+               VALUES (?,?,?,?,?,?,?,?,?)""",
+            (hk_job, stamp, BATCH_DATE, sal["min"], sal["max"], sal["currency"],
+             sal["period"], sal["raw"], rec["source"]),
+        )
+
+    mode = features.detect_work_mode(desc, rec.get("work_mode"))
+    level = features.extract_level(rec["title"])
+    conn.execute(
+        """INSERT INTO s_job_meta
+           (hk_job, load_date, batch_date, work_mode, level, record_source)
+           VALUES (?,?,?,?,?,?)""",
+        (hk_job, stamp, BATCH_DATE, mode, level, rec["source"]),
+    )
+
+    skills = features.parse_skills(desc)
+    if skills:
+        conn.execute("DELETE FROM l_job_skill WHERE hk_job=?", (hk_job,))
+        for sk in skills:
+            hk_skill = md5_key(sk)
+            conn.execute(
+                "INSERT OR IGNORE INTO h_skill (hk_skill, skill_name, load_date, record_source) VALUES (?,?,?,?)",
+                (hk_skill, sk.upper(), stamp, rec["source"]),
+            )
+            conn.execute(
+                "INSERT OR IGNORE INTO l_job_skill (lhk_job_skill, hk_job, hk_skill, load_date) VALUES (?,?,?,?)",
+                (md5_key(hk_job, hk_skill), hk_job, hk_skill, stamp),
+            )
+
+
 def load_record(conn, rec, stamp, stats):
     job_id = rec["source_job_id"]
     company_bk = rec["company_name"].strip().upper()
@@ -128,6 +167,9 @@ def load_record(conn, rec, stamp, stats):
 
     # CDC: capture the change event.
     log_change(conn, rec["source"], hk_job, change_type, changed_fields, rec["title"], stamp)
+
+    # Extracted signals for this job version.
+    load_signals(conn, rec, hk_job, stamp)
 
 
 def mark_closed(conn, hk_job, stamp):
@@ -177,6 +219,9 @@ def main():
             (src, BATCH_DATE, last_changed, len(src_recs)),
         )
 
+    n_sal = conn.execute("SELECT COUNT(*) FROM s_job_salary WHERE batch_date=?", (BATCH_DATE,)).fetchone()[0]
+    n_skl = conn.execute("SELECT COUNT(DISTINCT hk_job) FROM l_job_skill").fetchone()[0]
+
     conn.commit()
     conn.close()
     print(f"Batch {BATCH_DATE} loaded (CDC changelog updated):")
@@ -184,6 +229,7 @@ def main():
     print(f"  Changed:   {stats['changed']}")
     print(f"  Unchanged: {stats['unchanged']}")
     print(f"  Closed:    {stats['closed']}")
+    print(f"  Signals:   {n_sal} salary rows this batch | {n_skl} jobs tagged with skills")
 
 
 if __name__ == "__main__":

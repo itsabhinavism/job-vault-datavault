@@ -62,3 +62,44 @@ CREATE TABLE IF NOT EXISTS source_watermarks (
     last_changed_at TEXT,                       -- max updated_at seen from the source
     records_seen    INTEGER
 );
+
+-- ==== Extracted signals (salary / skills / work mode / level) ====
+-- Skill hub + job-skill link (current skill set per job).
+CREATE TABLE IF NOT EXISTS h_skill (
+    hk_skill      TEXT PRIMARY KEY,
+    skill_name    TEXT NOT NULL UNIQUE,
+    load_date     TEXT NOT NULL,
+    record_source TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS l_job_skill (
+    lhk_job_skill TEXT PRIMARY KEY,
+    hk_job        TEXT NOT NULL REFERENCES h_job(hk_job),
+    hk_skill      TEXT NOT NULL REFERENCES h_skill(hk_skill),
+    load_date     TEXT NOT NULL
+);
+
+-- Salary satellite: versioned like s_job (one row per job version).
+CREATE TABLE IF NOT EXISTS s_job_salary (
+    hk_job        TEXT NOT NULL REFERENCES h_job(hk_job),
+    load_date     TEXT NOT NULL,
+    batch_date    TEXT NOT NULL,
+    salary_min    REAL,
+    salary_max    REAL,
+    currency      TEXT,
+    period        TEXT,
+    raw_salary    TEXT,
+    record_source TEXT NOT NULL,
+    PRIMARY KEY (hk_job, load_date)
+);
+
+-- Work-mode + seniority-level satellite (versioned like s_job).
+CREATE TABLE IF NOT EXISTS s_job_meta (
+    hk_job        TEXT NOT NULL REFERENCES h_job(hk_job),
+    load_date     TEXT NOT NULL,
+    batch_date    TEXT NOT NULL,
+    work_mode     TEXT,
+    level         TEXT,
+    record_source TEXT NOT NULL,
+    PRIMARY KEY (hk_job, load_date)
+);
