@@ -18,8 +18,8 @@ The project feeds **two** frontends every day — Google Sheets for the raw data
 
 Four pages, fed automatically every day: **Market Pulse**, **Skills Demand**, **What Changed (CDC)**, and **Where's the Work**.
 
-> 🌐 **View it live:** **[Open in Looker Studio →](PASTE_LOOKER_REPORT_SHARE_LINK_HERE)**
-> *(In Looker Studio: click **Share → "Anyone with the link → Viewer"**, then paste that link above.)*
+> 🌐 **View it live:** **[Open in Looker Studio →](https://datastudio.google.com/reporting/7cb3c9f3-2b07-40e4-a419-671c58f58010)**
+> *(Anyone with the link can view it — no Google account needed.)*
 
 ### 📊 Google Sheets — the data layer
 
