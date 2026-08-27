@@ -45,33 +45,99 @@ CITY_ALIASES = {
     "goa": "Goa", "surat": "Surat",
 }
 
-_COUNTRY_HINTS = [
-    ("in", "India"), ("india", "India"), ("gb", "UK"), ("uk", "UK"), ("london", "UK"),
-    ("us", "US"), ("usa", "US"), ("de", "Germany"), ("germany", "Germany"),
-    ("berlin", "Germany"), ("sg", "Singapore"), ("singapore", "Singapore"),
-    ("uae", "UAE"), ("dubai", "UAE"), ("nl", "Netherlands"), ("fr", "France"),
-    ("ae", "UAE"), ("malaysia", "Malaysia"), ("my", "Malaysia"),
-]
+# Country detection: full names/codes matched as WHOLE tokens only (never
+# substring), so "in" can't match "BerlIN" and "berlin" can't hijack Hyderabad.
+_COUNTRY_FULL = {
+    "india": "India", "bharat": "India",
+    "united states": "US", "usa": "US", "u.s.": "US", "america": "US",
+    "united kingdom": "UK", "uk": "UK", "england": "UK",
+    "germany": "Germany", "deutschland": "Germany",
+    "singapore": "Singapore",
+    "malaysia": "Malaysia",
+    "united arab emirates": "UAE", "uae": "UAE", "dubai": "UAE",
+    "netherlands": "Netherlands", "holland": "Netherlands",
+    "france": "France", "spain": "Spain", "italy": "Italy", "canada": "Canada",
+    "australia": "Australia", "brazil": "Brazil", "china": "China", "japan": "Japan",
+    "poland": "Poland", "sweden": "Sweden", "switzerland": "Switzerland",
+    "ireland": "Ireland", "israel": "Israel", "mexico": "Mexico", "argentina": "Argentina",
+    "south africa": "South Africa", "south korea": "South Korea", "new zealand": "New Zealand",
+}
+# 2-letter ISO codes are only trusted as the LAST token ("hyderabad, in" ->
+# India), so "CA"/"NY" regions inside US listings can't be mistaken.
+_COUNTRY_CODE = {
+    "in": "India", "us": "US", "uk": "UK", "gb": "UK",
+    "de": "Germany", "sg": "Singapore", "my": "Malaysia", "ae": "UAE",
+    "nl": "Netherlands", "fr": "France", "es": "Spain", "it": "Italy",
+    "ca": "Canada", "au": "Australia", "cn": "China", "jp": "Japan",
+    "pl": "Poland", "se": "Sweden", "ch": "Switzerland", "ie": "Ireland",
+    "il": "Israel", "mx": "Mexico", "br": "Brazil", "za": "South Africa",
+}
+_JUNK_LOC = {"remote", "hybrid", "onsite", "on-site", "work from home", "wfh",
+             "anywhere", "office", "india", "in", "us", "uk"}
+# Whole raw value is just an Indian state -> "State, India".
+_INDIAN_STATES = {"tamil nadu": "Tamil Nadu", "karnataka": "Karnataka",
+                  "maharashtra": "Maharashtra", "telangana": "Telangana"}
+INDIAN_CITIES = set(CITY_ALIASES.values())
 
 
 def normalize_location(loc):
-    """'bengaluru' / 'Bengaluru, in' / 'bangalore' -> 'Bengaluru, India'."""
+    """'bengaluru' / 'Bengaluru, in' / 'bangalore' -> 'Bengaluru, India'.
+
+    Token-based: splits on separators, matches country names/codes as whole
+    tokens only, and always appends ', India' for known Indian cities.
+    """
     if not loc:
         return ""
     s = str(loc).strip().lower()
     if not s:
         return ""
-    city = re.split(r"[/,;–—-]", s)[0].strip()
-    city = re.sub(r"[_\-]", " ", city)
+    parts = [p.strip() for p in re.split(r"[/,;–—-]", s) if p.strip()]
+    parts = [re.sub(r"[_\-]", " ", p) for p in parts]
+
+    # 1) Country: prefer a full-name token anywhere; fall back to the LAST
+    #    token if it is a 2-letter code (regions like "CA" are never last
+    #    when the listing says "San Mateo, CA, United States").
     country = ""
-    for hint, name in _COUNTRY_HINTS:
-        if hint in s:
-            country = name
+    for p in parts:
+        if p in _COUNTRY_FULL:
+            country = _COUNTRY_FULL[p]
             break
-    name = CITY_ALIASES.get(city) or (city.title() if city else "")
-    if name and country:
-        return f"{name}, {country}"
-    return name or str(loc).strip()
+    if not country and parts and parts[-1] in _COUNTRY_CODE:
+        country = _COUNTRY_CODE[parts[-1]]
+
+    # 2) City: first token that is not a country or junk word.
+    city_raw = ""
+    for p in parts:
+        if p in _COUNTRY_FULL or p in _COUNTRY_CODE or p in _JUNK_LOC:
+            continue
+        city_raw = p
+        break
+
+    # 3) Raw was an Indian state on its own -> "State, India" wins over city
+    #    title-casing ("tamil nadu" -> "Tamil Nadu, India", not "Tamil Nadu").
+    if s in _INDIAN_STATES:
+        return f"{_INDIAN_STATES[s]}, India"
+
+    # 4) Raw was only a country name ("Malaysia", "Usa") -> just the country.
+    if not city_raw and country:
+        return country
+
+    # 5) No city at all -> give the raw string back untouched.
+    if not city_raw:
+        return str(loc).strip()
+
+    city = CITY_ALIASES.get(city_raw) or (city_raw.title() if city_raw else "")
+
+    # 6) Known Indian city -> always ", India" (even if a broken source
+    #    claimed a foreign country, the city wins).
+    if city in INDIAN_CITIES:
+        return f"{city}, India"
+
+    # 7) Non-Indian city + detected country -> "City, Country".
+    if city and country:
+        return f"{city}, {country}"
+
+    return city or str(loc).strip()
 
 
 def sr_description(j):

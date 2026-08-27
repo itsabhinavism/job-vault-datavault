@@ -1,4 +1,92 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+247,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+246,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),UPDATED,"{""location"": {""from"": ""Germany"", ""to"": ""Berlin, Germany""}}",2026-08-27 11:08:03.923339
+245,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),UPDATED,"{""location"": {""from"": ""Germany"", ""to"": ""Berlin, Germany""}}",2026-08-27 11:08:03.923339
+244,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Account Executive(Swedish/Finnish/Danish/Norwegian speaking),UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+243,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - UK,UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+242,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - Germany (m/f/d),UPDATED,"{""location"": {""from"": ""Germany"", ""to"": ""Berlin, Germany""}}",2026-08-27 11:08:03.923339
+241,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist (UKI & Nordics),UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+240,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer(Dutch speaking),UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+239,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering(Dutch speaking),UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+238,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Revenue Enablement,UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+237,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Austria & Switzerland (m/f/d),UPDATED,"{""location"": {""from"": ""Germany"", ""to"": ""Berlin, Germany""}}",2026-08-27 11:08:03.923339
+236,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Value Engineer,UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+235,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
+234,2026-08-27,lever_cred,CRED,area collections manager chennai- flows,UPDATED,"{""location"": {""from"": ""Tamil Nadu"", ""to"": ""Tamil Nadu, India""}}",2026-08-27 11:08:03.923339
+233,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+232,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
+231,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
+230,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),UPDATED,"{""location"": {""from"": ""Austin, India"", ""to"": ""Austin, US""}}",2026-08-27 11:06:54.416614
+229,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Account Executive(Swedish/Finnish/Danish/Norwegian speaking),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+228,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - UK,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+227,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - Germany (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
+226,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist (UKI & Nordics),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+225,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise (SLED),UPDATED,"{""location"": {""from"": ""Austin, India"", ""to"": ""Austin, US""}}",2026-08-27 11:06:54.416614
+224,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer(Dutch speaking),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+223,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering(Dutch speaking),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+222,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Revenue Enablement,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+221,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Austria & Switzerland (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
+220,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Value Engineer,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+219,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
+218,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),UPDATED,"{""location"": {""from"": ""Washington, India"", ""to"": ""Washington, US""}}",2026-08-27 11:06:54.416614
+217,2026-08-27,lever_zeta,ZETA,Vice President - Sales & Business Development,UPDATED,"{""location"": {""from"": ""Usa, US"", ""to"": ""US""}}",2026-08-27 11:06:54.416614
+216,2026-08-27,lever_zeta,ZETA,Specialist Total Rewards,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+215,2026-08-27,lever_zeta,ZETA,Specialist / Manager – People Tech & Transformation,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
+214,2026-08-27,lever_zeta,ZETA,Specialist - People Partner,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+213,2026-08-27,lever_zeta,ZETA,Solution Train Manager,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+212,2026-08-27,lever_zeta,ZETA,Software Development Engineer in Test II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+211,2026-08-27,lever_zeta,ZETA,SIEM & SecOps Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+210,2026-08-27,lever_zeta,ZETA,Project Manager II,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+209,2026-08-27,lever_zeta,ZETA,Product Security Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+208,2026-08-27,lever_zeta,ZETA,Manager - Accounts,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
+207,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+206,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+205,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+204,2026-08-27,lever_zeta,ZETA,Lead Designer,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+203,2026-08-27,lever_zeta,ZETA,Lead / Manager Data Reliability Engineering,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+202,2026-08-27,lever_zeta,ZETA,Infosec GRC Associate II,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+201,2026-08-27,lever_zeta,ZETA,Financial Analyst,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
+200,2026-08-27,lever_zeta,ZETA,Executive - IT Support,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
+199,2026-08-27,lever_zeta,ZETA,Executive - IT Support,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+198,2026-08-27,lever_zeta,ZETA,Director – Enterprise Applications & IT Infrastructure,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+197,2026-08-27,lever_zeta,ZETA,Corporate Risk and Compliance - Associate II,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+196,2026-08-27,lever_zeta,ZETA,Cloud Network Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+195,2026-08-27,lever_cred,CRED,regional collection manager bangalore - flows,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+194,2026-08-27,lever_cred,CRED,machine learning engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+193,2026-08-27,lever_cred,CRED,long form content writer/editor,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+192,2026-08-27,lever_cred,CRED,lead – on deck payments,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+191,2026-08-27,lever_cred,CRED,growth and business - max and wallet,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+190,2026-08-27,lever_cred,CRED,data scientist,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+189,2026-08-27,lever_cred,CRED,copywriter,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+188,2026-08-27,lever_cred,CRED,capital partnerships,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+187,2026-08-27,lever_cred,CRED,business development & strategic partnerships - d2c,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+186,2026-08-27,lever_cred,CRED,business development & partnerships,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+185,2026-08-27,lever_cred,CRED,"area collections manager, pune (recoveries)",UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
+184,2026-08-27,lever_cred,CRED,area collections manager hyderabad -flows,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
+183,2026-08-27,lever_cred,CRED,area collections manager bangalore -flows,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+182,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
+181,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+180,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Engineer,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
+179,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Consultant,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
+178,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Software Development Engineer,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
+177,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",UPDATED,"{""location"": {""from"": ""Coimbatore"", ""to"": ""Coimbatore, India""}}",2026-08-27 11:06:54.416614
+176,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+175,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+174,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",UPDATED,"{""location"": {""from"": ""Singapore, India"", ""to"": ""Singapore""}}",2026-08-27 11:06:54.416614
+173,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+172,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Legal",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+171,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Learning Business Partner",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+170,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Enterprise Partnerships",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+169,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+168,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+167,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Affordability",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+166,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+165,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Product Designer,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+164,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Full Stack Builder,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+163,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+162,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Consultant - Strategy ,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+161,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Startup Accounts",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
+160,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Solutions Engineering",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
 159,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,NEW,,2026-08-27 08:15:09.744354
 158,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-08-27 08:15:09.744354
 157,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",NEW,,2026-08-27 08:15:09.744354
