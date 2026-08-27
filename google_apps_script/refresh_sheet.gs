@@ -1,7 +1,7 @@
 // JobVault sheet auto-refresh.
 //
 // Bound to your JobVault spreadsheet (Extensions -> Apps Script).
-// Every day it fetches the three CSVs from the GitHub repo and refills
+// Every day it fetches the CSVs from the GitHub repo and refills
 // the matching tabs, so the sheet is always current without re-uploading.
 // Because the GitHub CSVs are themselves refreshed daily by the local
 // cron batch, the whole chain is automated: local cron -> GitHub -> sheet.
@@ -10,7 +10,10 @@ var CONFIG = [
   { tab: "current_jobs", url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/current_jobs.csv" },
   { tab: "job_history",  url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/job_history.csv" },
   { tab: "jobs_by_day",  url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/jobs_by_day.csv" },
-  { tab: "changes",      url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/changes.csv" }
+  { tab: "changes",      url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/changes.csv" },
+  { tab: "skills",       url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/skills.csv" },
+  { tab: "salary_data",  url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/salary_data.csv" },
+  { tab: "jobs_by_mode", url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/jobs_by_mode.csv" }
 ];
 
 // Refresh every tab now. Run this once to test.
