@@ -1,23 +1,34 @@
 # 🏆 JobVault — A Local Data Vault Pipeline for Job Postings
 
-> **Scrape real job postings from multiple websites → normalize them into one schema → keep full change history → push to a live Google Sheets dashboard. All on your laptop, no cloud.**
+> **Scrape real job postings from multiple websites → normalize them into one schema → keep full change history → push to live dashboards (Looker Studio + Google Sheets). All on your laptop, no cloud.**
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey) ![Data Vault 2.0](https://img.shields.io/badge/Modeling-Data%20Vault%202.0-brightgreen) ![Google Sheets](https://img.shields.io/badge/Frontend-Google%20Sheets-green) ![Cron](https://img.shields.io/badge/Automation-Daily%20Cron-orange)
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey) ![Data Vault 2.0](https://img.shields.io/badge/Modeling-Data%20Vault%202.0-brightgreen) ![Looker Studio](https://img.shields.io/badge/Frontend-Looker%20Studio-purple) ![Google Sheets](https://img.shields.io/badge/Data%20Layer-Google%20Sheets-green) ![Cron](https://img.shields.io/badge/Automation-Daily%20Cron-orange)
 ![CI](https://github.com/itsabhinavism/job-vault-datavault/actions/workflows/ci.yml/badge.svg)
 
 ---
 
-## 📸 Live Dashboard
+## 📸 Live Dashboards
 
-Here is the dashboard, fed automatically every day:
+The project feeds **two** frontends every day — Google Sheets for the raw data layer, and a **Looker Studio** report for the interactive, chart-filled dashboard.
 
-![JobVault Dashboard](media/dashboard.png)
+### 📈 Looker Studio — the interactive dashboard
 
-> 📊 **View the live, interactive dashboard here:**
-> **[Open in Google Sheets →](https://docs.google.com/spreadsheets/d/1lytBBMa1yk0I-2F4WUoC7el9EH1ch5h7KsUm1-XNr48/edit?usp=sharing)**
+![JobVault Looker Studio Dashboard](media/dashboard2.png)
+<!-- Upload your Looker Studio screenshot to media/dashboard2.png and it will appear here. -->
+
+Four pages, fed automatically every day: **Market Pulse**, **Skills Demand**, **What Changed (CDC)**, and **Where's the Work**.
+
+> 🌐 **View it live:** **[Open in Looker Studio →](PASTE_LOOKER_REPORT_SHARE_LINK_HERE)**
+> *(In Looker Studio: click **Share → "Anyone with the link → Viewer"**, then paste that link above.)*
+
+### 📊 Google Sheets — the data layer
+
+![JobVault Google Sheets Data Layer](media/dashboard.png)
+
+> 📊 **Open the raw data here:** **[Open in Google Sheets →](https://docs.google.com/spreadsheets/d/1lytBBMa1yk0I-2F4WUoC7el9EH1ch5h7KsUm1-XNr48/edit?usp=sharing)**
 > *(Tip: set the sheet's sharing to "Anyone with the link → Viewer" so visitors can open it.)*
 
-The dashboard is **not a static screenshot** — the data pipelines into all three tabs daily, and charts update automatically. This is a working system, not a one-time analysis.
+None of this is static — the data pipelines into all **7 sheet tabs** every night, Looker Studio auto-refreshes on schedule, and both stay in sync. This is a working system, not a one-time analysis.
 
 ---
 
@@ -30,7 +41,7 @@ The dashboard is **not a static screenshot** — the data pipelines into all thr
 | 🔑 | **MD5 content-based keys** — same company matches across sources with zero manual mapping |
 | 🕰️ | **Append-only history** — every change to every posting is kept forever, never overwritten |
 | 🕒 | **Fully automated** — a daily 9 PM batch runs the whole pipeline hands-free |
-| 📈 | **Live dashboard** — Google Sheets + charts that auto-refresh every day |
+| 📈 | **Live dashboards** — a Looker Studio report + Google Sheets data tabs that auto-refresh daily |
 | 📦 | **100% local** — Python + SQLite, no cloud, no paid services |
 
 ---
@@ -68,7 +79,7 @@ Scraping alone isn't enough. You need to **normalize**, **join reliably**, and *
 📤 export.py         write CSV views for the dashboard    →  export/*.csv
         │
         ▼
-🚀 GitHub push ──▶ Google Apps Script ──▶ Google Sheets ──▶ 📈 charts auto-update
+🚀 GitHub push ──▶ Google Apps Script ──▶ Google Sheets (data) ──▶ Looker Studio 📈 dashboard
 ```
 
 **Currently tracking: 150+ live jobs** across Razorpay, CRED, Zeta & Freshworks.
@@ -180,7 +191,8 @@ JobVault/
 ├── google_apps_script/
 │   └── refresh_sheet.gs   # auto-refreshes the Google Sheets tabs daily
 ├── media/
-│   └── dashboard.png      # the live dashboard screenshot
+│   ├── dashboard.png      # the Google Sheets data-layer dashboard
+│   └── dashboard2.png     # the interactive Looker Studio dashboard
 ├── staging/               # raw scraped data (one file per source per day)
 ├── export/                # CSV views consumed by the dashboard
 └── jobvault.db            # the SQLite database (system of record)
@@ -195,6 +207,7 @@ JobVault/
 - ✅ **ETL + automation** — Python, scheduled cron batches, version-controlled data in Git
 - ✅ **Cloud-free engineering** — a warehouse running entirely on a laptop
 - ✅ **Product sense** — a live, shareable dashboard that non-technical people can use
+- ✅ **Frontend & visualization** — an interactive Looker Studio report layering charts over the warehouse data
 
 ---
 
