@@ -1,4 +1,14 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+257,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
+256,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Bots Strategy,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
+255,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management (Deal Desk),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
+254,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
+253,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
+252,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
+251,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Consultant - Strategy ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
+250,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-08-27 15:32:00.031084
+249,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,NEW,,2026-08-27 15:32:00.031084
+248,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Inside Sales,NEW,,2026-08-27 15:32:00.031084
 247,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,UPDATED,"{""location"": {""from"": ""UK"", ""to"": ""London, UK""}}",2026-08-27 11:08:03.923339
 246,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),UPDATED,"{""location"": {""from"": ""Germany"", ""to"": ""Berlin, Germany""}}",2026-08-27 11:08:03.923339
 245,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),UPDATED,"{""location"": {""from"": ""Germany"", ""to"": ""Berlin, Germany""}}",2026-08-27 11:08:03.923339
