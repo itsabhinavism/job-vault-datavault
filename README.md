@@ -106,6 +106,21 @@ The current state is just "the newest version per job"; everything underneath is
 
 ---
 
+## 🔄 Change Data Capture (CDC)
+
+Beyond append-only storage, the loader **captures** every change event:
+
+- `change_log` — one row per event: `NEW` / `UPDATED` / `CLOSED`, with the
+  **field-level diff as JSON** (e.g. `{"title": {"from": "A", "to": "B"}}`),
+  batch date, source, and timestamp. You can answer "what changed, in which
+  field, from what, and when."
+- `source_watermarks` — per-source high-watermark state (last batch, latest
+  source timestamp, records seen), the foundation for incremental extraction.
+- `export/changes.csv` — the captured change feed, refreshed every batch.
+
+This is the difference between *appending versions* and *capturing changes*:
+the append-only satellites store the what, the change log captures the delta.
+
 ## ⚙️ How to Run It
 
 ```bash

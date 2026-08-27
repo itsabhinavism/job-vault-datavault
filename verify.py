@@ -41,6 +41,17 @@ for h in hist[:3]:
     ):
         print(f"    v-> {v['title'][:40]:41} | batch {v['batch_date']} | {v['status']} | src-updated {v['updated_at'][:10]}")
 
+print("\n-- Change Data Capture: change_log events --")
+for r in conn.execute("SELECT change_type, COUNT(*) AS n FROM change_log GROUP BY change_type ORDER BY n DESC"):
+    print(f"  {r['change_type']:9}: {r['n']}")
+print("  latest 3 events:")
+for r in conn.execute("SELECT batch_date, change_type, title, changed_fields FROM change_log ORDER BY change_id DESC LIMIT 3"):
+    print(f"    {r['batch_date']} | {r['change_type']:7} | {r['title'][:36]:37} | {str(r['changed_fields'])[:70]}")
+
+print("\n-- Source watermarks (CDC incremental state) --")
+for r in conn.execute("SELECT source, last_batch_date, last_changed_at, records_seen FROM source_watermarks ORDER BY source"):
+    print(f"  {r['source']:32} | batch {r['last_batch_date']} | last src change {str(r['last_changed_at'])[:10]} | {r['records_seen']} records")
+
 print("\n-- Why MD5 (the join trick) --")
 a = md5_key("Razorpay Software Private Limited")
 b = md5_key("  RAZORPAY software private limited ")

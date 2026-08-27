@@ -75,6 +75,18 @@ def main():
                GROUP BY batch_date, company_name, status
                ORDER BY batch_date, company_name""").fetchall())
 
+    # 3b) Change feed - every captured change event (CDC).
+    files["changes.csv"] = dump(c,
+        "changes.csv",
+        c.execute(
+            """SELECT c.change_id, c.batch_date, c.source, hc.company_name, c.title,
+                      c.change_type, c.changed_fields, c.occurred_at
+               FROM change_log c
+               JOIN h_job hj ON hj.hk_job = c.hk_job
+               JOIN l_job_company l ON l.hk_job = hj.hk_job
+               JOIN h_company hc ON hc.hk_company = l.hk_company
+               ORDER BY c.change_id DESC LIMIT 500""").fetchall())
+
     # 4) Jobs currently open in each company.
     files["jobs_by_company.csv"] = dump(c,
         "jobs_by_company.csv",

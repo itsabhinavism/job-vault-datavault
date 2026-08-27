@@ -41,3 +41,24 @@ CREATE TABLE IF NOT EXISTS s_job (
     record_source   TEXT NOT NULL,
     PRIMARY KEY (hk_job, load_date)             -- one row per version, append only
 );
+
+-- ==== Change Data Capture (CDC) ====
+-- Every captured change event, with the field-level diff as JSON.
+CREATE TABLE IF NOT EXISTS change_log (
+    change_id      INTEGER PRIMARY KEY AUTOINCREMENT,
+    batch_date     TEXT NOT NULL,               -- which batch captured it
+    source         TEXT NOT NULL,
+    hk_job         TEXT NOT NULL,
+    change_type    TEXT NOT NULL,               -- NEW | UPDATED | CLOSED
+    changed_fields TEXT,                        -- JSON: {"title": {"from": "...", "to": "..."}}
+    title          TEXT,
+    occurred_at    TEXT NOT NULL
+);
+
+-- Per-source incremental state (high-watermark for incremental extraction).
+CREATE TABLE IF NOT EXISTS source_watermarks (
+    source          TEXT PRIMARY KEY,
+    last_batch_date TEXT,
+    last_changed_at TEXT,                       -- max updated_at seen from the source
+    records_seen    INTEGER
+);

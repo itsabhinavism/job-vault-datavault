@@ -1,27 +1,36 @@
-"""Phase 4: load normalized data with append-only HISTORY + diff summary.
+"""Load normalized data with append-only HISTORY + CHANGE DATA CAPTURE (CDC).
 
-For each job we keep EVERY version ever seen. If a job's details change
-between batches (e.g. salary or location edited), we ADD a new satellite
-row - we never overwrite the old one. Today's batch becomes the 'current'
-view; every older row stays as history. Jobs that disappear from a site
-get a status='closed' row.
+For each job we keep EVERY version ever seen (append-only satellites).
+On top of that, this loader implements CDC properly:
 
-This is exactly the Data Vault satellite rule from the article:
-"Existing records are never updated or deleted."
+  - change_log:       one row per change EVENT (NEW / UPDATED / CLOSED),
+                      with the field-level diff stored as JSON, so we can
+                      answer "what changed, in which field, from what to
+                      what, and when".
+  - source_watermarks: per-source incremental state (last batch date, latest
+                      source timestamp, records seen) - the foundation for
+                      incremental extraction (pull only deltas next batch).
+
+This is the answer to "you are just appending": append-only storage PLUS an
+explicitly captured, queryable change feed.
 """
 import hashlib
 import json
+import os
 import sqlite3
 import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
 
 BASE = Path(__file__).parent
-DB = BASE / "jobvault.db"
+# Optional override (used by tests/demos so the real DB is never touched).
+DB = Path(os.environ.get("JOBVAULT_DB", str(BASE / "jobvault.db")))
 # Optional command-line arg = which batch's normalized file to load.
-# Defaults to today. Passing a date lets us replay older batches.
 BATCH_DATE = sys.argv[1] if len(sys.argv) > 1 else date.today().isoformat()
 RAW = BASE / "staging" / f"normalized_{BATCH_DATE}.json"
+
+# The descriptive fields we track for change capture.
+CHANGE_FIELDS = ["title", "location", "url", "first_published", "updated_at"]
 
 
 def md5_key(*parts):
@@ -30,8 +39,6 @@ def md5_key(*parts):
 
 
 def now():
-    # Microsecond precision so two batches in the same second can't collide
-    # on the satellite primary key (hk_job, load_date).
     return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S.%f")
 
 
@@ -39,7 +46,6 @@ def open_db():
     conn = sqlite3.connect(DB)
     conn.row_factory = sqlite3.Row
     conn.executescript((BASE / "schema.sql").read_text())  # create tables if missing
-    # 'current' view = the most recent satellite row per job (today's state).
     conn.executescript("""
     DROP VIEW IF EXISTS v_job_current;
     CREATE VIEW v_job_current AS
@@ -59,6 +65,25 @@ def latest_satellite(conn, hk_job):
     return conn.execute(
         "SELECT title, location, url, first_published, updated_at, status, record_source "
         "FROM s_job WHERE hk_job=? ORDER BY load_date DESC LIMIT 1", (hk_job,)).fetchone()
+
+
+def cdc_diff(prev_row, rec):
+    """Field-level change capture: {field: {from: x, to: y}} per changed field."""
+    diff = {}
+    for f in CHANGE_FIELDS:
+        old = str(prev_row[f] or "")
+        new = str(rec.get(f) or "")
+        if old != new:
+            diff[f] = {"from": old, "to": new}
+    return json.dumps(diff, ensure_ascii=False) if diff else None
+
+
+def log_change(conn, source, hk_job, change_type, changed_fields, title, stamp):
+    conn.execute(
+        "INSERT INTO change_log (batch_date, source, hk_job, change_type, changed_fields, title, occurred_at) "
+        "VALUES (?,?,?,?,?,?,?)",
+        (BATCH_DATE, source, hk_job, change_type, changed_fields, title, stamp),
+    )
 
 
 def load_record(conn, rec, stamp, stats):
@@ -81,14 +106,18 @@ def load_record(conn, rec, stamp, stats):
     details = (rec["title"], rec["location"], rec["url"], rec["first_published"], rec["updated_at"])
     prev = latest_satellite(conn, hk_job)
 
+    change_type = "NEW"
+    changed_fields = None
     if prev is None or prev["status"] == "closed":
         stats["new"] += 1                     # brand-new posting (or reopened)
     else:
         prev_dets = (prev["title"], prev["location"], prev["url"], prev["first_published"], prev["updated_at"])
         if prev_dets == details:
-            stats["unchanged"] += 1           # identical - store nothing new
+            stats["unchanged"] += 1           # identical - no change event
             return
-        stats["changed"] += 1                 # something changed - store a new version
+        stats["changed"] += 1                 # something changed - capture it
+        change_type = "UPDATED"
+        changed_fields = cdc_diff(prev, rec)
 
     conn.execute(
         """INSERT INTO s_job
@@ -96,6 +125,9 @@ def load_record(conn, rec, stamp, stats):
            VALUES (?,?,?,?,?,?,?,?,?,?)""",
         (hk_job, stamp, BATCH_DATE, rec["title"], rec["location"], rec["url"],
          rec["first_published"], rec["updated_at"], "open", rec["source"]))
+
+    # CDC: capture the change event.
+    log_change(conn, rec["source"], hk_job, change_type, changed_fields, rec["title"], stamp)
 
 
 def mark_closed(conn, hk_job, stamp):
@@ -108,6 +140,9 @@ def mark_closed(conn, hk_job, stamp):
            VALUES (?,?,?,?,?,?,?,?,?,?)""",
         (hk_job, stamp, BATCH_DATE, last["title"], last["location"], last["url"],
          last["first_published"], last["updated_at"], "closed", last["record_source"]))
+    # CDC: capture the close event (DELETE-equivalent in change terms).
+    log_change(conn, last["record_source"], hk_job, "CLOSED",
+               json.dumps({"status": {"from": "open", "to": "closed"}}), last["title"], stamp)
     return 1
 
 
@@ -132,9 +167,19 @@ def main():
         if src in sources_today and (src, jid) not in today_keys:
             stats["closed"] += mark_closed(conn, hk, stamp)
 
+    # CDC: update per-source watermarks (incremental extraction state).
+    for src in sources_today:
+        src_recs = [r for r in recs if r["source"] == src]
+        last_changed = max((r.get("updated_at") or "" for r in src_recs), default="")
+        conn.execute(
+            "INSERT OR REPLACE INTO source_watermarks (source, last_batch_date, last_changed_at, records_seen) "
+            "VALUES (?,?,?,?)",
+            (src, BATCH_DATE, last_changed, len(src_recs)),
+        )
+
     conn.commit()
     conn.close()
-    print(f"Batch {BATCH_DATE} loaded:")
+    print(f"Batch {BATCH_DATE} loaded (CDC changelog updated):")
     print(f"  New:       {stats['new']}")
     print(f"  Changed:   {stats['changed']}")
     print(f"  Unchanged: {stats['unchanged']}")
