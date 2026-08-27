@@ -26,7 +26,6 @@ Four pages, fed automatically every day: **Market Pulse**, **Skills Demand**, **
 ![JobVault Google Sheets Data Layer](media/dashboard.png)
 
 > 📊 **Open the raw data here:** **[Open in Google Sheets →](https://docs.google.com/spreadsheets/d/1lytBBMa1yk0I-2F4WUoC7el9EH1ch5h7KsUm1-XNr48/edit?usp=sharing)**
-> *(Tip: set the sheet's sharing to "Anyone with the link → Viewer" so visitors can open it.)*
 
 None of this is static — the data pipelines into all **7 sheet tabs** every night, Looker Studio auto-refreshes on schedule, and both stay in sync. This is a working system, not a one-time analysis.
 
