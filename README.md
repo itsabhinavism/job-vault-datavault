@@ -134,7 +134,7 @@ JobVault/
 ├── export.py              # CSV export for the frontend
 ├── verify.py              # self-check / report of warehouse state
 ├── schema.sql             # the Data Vault schema (hubs / links / satellites)
-├── run_batch.sh           # one batch: scrape → normalize → load → export
+├── run_batch.sh           # one batch: scrape -> normalize -> load -> export; also backs up db/staging/export to Google Drive
 ├── google_apps_script/
 │   └── refresh_sheet.gs   # auto-refreshes the Google Sheets tabs daily
 ├── media/

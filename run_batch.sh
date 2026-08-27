@@ -25,4 +25,14 @@ else
   git push origin main >> "$LOG" 2>&1 && echo "export: pushed CSVs to GitHub" \
   || echo "export: commit/push failed (see log)"
 fi
+# One-way backup to Google Drive (plain copy - no .git inside Drive, no sync conflicts).
+DRIVE_BACKUP="$HOME/Library/CloudStorage/GoogleDrive-a.for.abhinav.2003@gmail.com/My Drive/Github/job-vault-backup"
+mkdir -p "$DRIVE_BACKUP/staging" "$DRIVE_BACKUP/export"
+if cp -f jobvault.db "$DRIVE_BACKUP/" \
+   && cp -f staging/*.json "$DRIVE_BACKUP/staging/" 2>/dev/null \
+   && cp -f export/*.csv "$DRIVE_BACKUP/export/"; then
+  echo "backup: db + staging + export copied to Google Drive"
+else
+  echo "backup: WARNING - copy to Google Drive failed (is Drive Desktop running?)"
+fi
 echo "=== Batch finished ==="
