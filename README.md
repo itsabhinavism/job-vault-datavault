@@ -42,6 +42,8 @@ None of this is static — the data pipelines into all **7 sheet tabs** every ni
 | 🕰️ | **Append-only history** — every change to every posting is kept forever, never overwritten |
 | 🕒 | **Fully automated** — a daily 9 PM batch runs the whole pipeline hands-free |
 | 📈 | **Live dashboards** — a Looker Studio report + Google Sheets data tabs that auto-refresh daily |
+| 💬 | **Daily Telegram digest** — every batch sends a "what changed today" summary straight to your phone |
+| ☁️ | **Auto backup to Google Drive** — DB + raw data + exports copied every batch |
 | 📦 | **100% local** — Python + SQLite, no cloud, no paid services |
 
 ---
@@ -90,9 +92,10 @@ Scraping alone isn't enough. You need to **normalize**, **join reliably**, and *
 
 | Entity | Role | Here |
 |--------|------|------|
-| **Hub** 🔑 | Business keys only | `h_company`, `h_job` |
-| **Link** 🔗 | Relationship between hubs | `l_job_company` |
-| **Satellite** 📓 | Descriptive attributes + history | `s_job` (one row per version) |
+| **Hub** 🔑 | Business keys only | `h_company`, `h_job`, `h_skill` |
+| **Link** 🔗 | Relationship between hubs | `l_job_company`, `l_job_skill` |
+| **Satellite** 📓 | Descriptive attributes + history (one row per version) | `s_job`, `s_job_salary`, `s_job_meta` |
+| **Ops tables** ⚙️ | Change capture + incremental-extraction state | `change_log`, `source_watermarks` |
 
 **The MD5 key trick:** instead of auto-increment IDs, every primary key is the **MD5 hash of a normalized business key** (uppercase + trim). The same input always gives the same hash, so:
 
