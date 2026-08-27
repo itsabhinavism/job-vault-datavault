@@ -1,0 +1,4 @@
+﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+3,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 07:26:22.920169
+2,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,NEW,,2026-08-27 07:26:22.920169
+1,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,UPDATED,"{""updated_at"": {""from"": ""2026-08-24T04:08:30-04:00"", ""to"": ""2026-08-27T02:55:02-04:00""}}",2026-08-27 07:26:22.920169
