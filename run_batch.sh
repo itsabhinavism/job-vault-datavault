@@ -12,6 +12,8 @@ env -u PYTHONPATH .venv/bin/python normalize.py || exit 1
 echo ""
 env -u PYTHONPATH .venv/bin/python load_dv.py || exit 1
 echo ""
+env -u PYTHONPATH .venv/bin/python notify_telegram.py || echo "telegram: failed"
+echo ""
 env -u PYTHONPATH .venv/bin/python export.py || exit 1
 echo ""
 # Push the freshly exported CSVs to GitHub so they stay current + downloadable.

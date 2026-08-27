@@ -9,7 +9,8 @@
 var CONFIG = [
   { tab: "current_jobs", url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/current_jobs.csv" },
   { tab: "job_history",  url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/job_history.csv" },
-  { tab: "jobs_by_day",  url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/jobs_by_day.csv" }
+  { tab: "jobs_by_day",  url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/jobs_by_day.csv" },
+  { tab: "changes",      url: "https://raw.githubusercontent.com/itsabhinavism/job-vault-datavault/main/export/changes.csv" }
 ];
 
 // Refresh every tab now. Run this once to test.
