@@ -1,4 +1,12 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+265,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
+264,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
+263,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
+262,2026-08-28,lever_zeta,ZETA,Cloud Network Engineer II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
+261,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst (Salesforce) ,NEW,,2026-08-28 15:31:29.627000
+260,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,"Product Marketing Manager, AI",NEW,,2026-08-28 15:31:29.627000
+259,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,"Product Marketing Manager, AI",NEW,,2026-08-28 15:31:29.627000
+258,2026-08-28,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Banking Alliances",NEW,,2026-08-28 15:31:29.627000
 257,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
 256,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Bots Strategy,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
 255,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management (Deal Desk),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-27 15:32:00.031084
