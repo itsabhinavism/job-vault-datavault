@@ -1,4 +1,7 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+268,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,Specialist - Customer Success (EX - ASEAN),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-29 15:31:02.337032
+267,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Corporate Strategy",NEW,,2026-08-29 15:31:02.337032
+266,2026-08-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Technical Program Manager,NEW,,2026-08-29 15:31:02.337032
 265,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
 264,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
 263,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
