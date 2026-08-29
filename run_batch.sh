@@ -19,11 +19,14 @@ echo ""
 # Push the freshly exported CSVs to GitHub so they stay current + downloadable.
 GIT_ASKPASS=~/.hermes/scripts/git_askpass.sh
 export GIT_ASKPASS
+# Integrate any daytime pushes (web uploads, other machines) BEFORE pushing,
+# or GitHub rejects the nightly push with "fetch first".
+git pull --rebase origin main >> "$LOG" 2>&1 || echo "export: pull failed (see log)"
 git add export/
 if git diff --cached --quiet; then
   echo "export: no changes to commit"
 else
-  git commit -m "data: refresh export CSVs $(date +%F)" >/dev/null && \
+  git commit -m "data: refresh export CSVs $(date +%F)" >> "$LOG" 2>&1 && \
   git push origin main >> "$LOG" 2>&1 && echo "export: pushed CSVs to GitHub" \
   || echo "export: commit/push failed (see log)"
 fi
