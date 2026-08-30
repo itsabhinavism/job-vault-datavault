@@ -1,4 +1,5 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+269,2026-08-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Banking Alliances",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-30 15:31:46.991450
 268,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,Specialist - Customer Success (EX - ASEAN),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-29 15:31:02.337032
 267,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Corporate Strategy",NEW,,2026-08-29 15:31:02.337032
 266,2026-08-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Technical Program Manager,NEW,,2026-08-29 15:31:02.337032
