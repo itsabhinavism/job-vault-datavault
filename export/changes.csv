@@ -1,4 +1,9 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+274,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Specialist - Strategic Sourcing,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-31 15:31:28.986565
+273,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Principal Value Engineer,NEW,,2026-08-31 15:31:28.986565
+272,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Staff Data Privacy Engineer,NEW,,2026-08-31 15:31:28.986565
+271,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,NEW,,2026-08-31 15:31:28.986565
+270,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Product Marketing",NEW,,2026-08-31 15:31:28.986565
 269,2026-08-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Banking Alliances",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-30 15:31:46.991450
 268,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,Specialist - Customer Success (EX - ASEAN),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-29 15:31:02.337032
 267,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Corporate Strategy",NEW,,2026-08-29 15:31:02.337032
