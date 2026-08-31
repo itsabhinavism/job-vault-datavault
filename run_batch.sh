@@ -6,6 +6,15 @@ LOG="batch_$(date +%F).log"
 exec > >(tee -a "$LOG") 2>&1
 
 echo "=== Batch $(date '+%Y-%m-%d %H:%M:%S %Z') ==="
+
+# Integrate any daytime pushes (web uploads, other machines) FIRST, while the
+# working tree is still clean. Running this later - after export.py rewrites
+# the CSVs - would abort with "cannot pull with rebase: You have unstaged
+# changes" and the nightly push would be rejected again.
+GIT_ASKPASS=~/.hermes/scripts/git_askpass.sh
+export GIT_ASKPASS
+git pull --rebase origin main >> "$LOG" 2>&1 || echo "git: pull failed (see log) - continuing"
+
 env -u PYTHONPATH .venv/bin/python scrape_all.py || exit 1
 echo ""
 env -u PYTHONPATH .venv/bin/python normalize.py || exit 1
@@ -17,11 +26,6 @@ echo ""
 env -u PYTHONPATH .venv/bin/python export.py || exit 1
 echo ""
 # Push the freshly exported CSVs to GitHub so they stay current + downloadable.
-GIT_ASKPASS=~/.hermes/scripts/git_askpass.sh
-export GIT_ASKPASS
-# Integrate any daytime pushes (web uploads, other machines) BEFORE pushing,
-# or GitHub rejects the nightly push with "fetch first".
-git pull --rebase origin main >> "$LOG" 2>&1 || echo "export: pull failed (see log)"
 git add export/
 if git diff --cached --quiet; then
   echo "export: no changes to commit"
