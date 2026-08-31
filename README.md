@@ -14,7 +14,7 @@ The project feeds **two** frontends every day — Google Sheets for the raw data
 ### 📈 Looker Studio — the interactive dashboard
 
 ![JobVault Looker Studio Dashboard](media/dashboard3.png)
-<!-- Upload your Looker Studio screenshot to media/dashboard2.png and it will appear here. -->
+<!-- Upload your Looker Studio screenshot to media/dashboard3.png and it will appear here. -->
 
 Four pages, fed automatically every day: **Market Pulse**, **Skills Demand**, **What Changed (CDC)**, and **Where's the Work**.
 
@@ -194,7 +194,7 @@ JobVault/
 │   └── refresh_sheet.gs   # auto-refreshes the Google Sheets tabs daily
 ├── media/
 │   ├── dashboard.png      # the Google Sheets data-layer dashboard
-│   └── dashboard2.png     # the interactive Looker Studio dashboard
+│   └── dashboard3.png     # the interactive Looker Studio dashboard
 ├── staging/               # raw scraped data (one file per source per day)
 ├── export/                # CSV views consumed by the dashboard
 └── jobvault.db            # the SQLite database (system of record)

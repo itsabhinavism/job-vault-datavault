@@ -8,12 +8,17 @@ exec > >(tee -a "$LOG") 2>&1
 echo "=== Batch $(date '+%Y-%m-%d %H:%M:%S %Z') ==="
 
 # Integrate any daytime pushes (web uploads, other machines) FIRST, while the
-# working tree is still clean. Running this later - after export.py rewrites
-# the CSVs - would abort with "cannot pull with rebase: You have unstaged
-# changes" and the nightly push would be rejected again.
+# working tree is still clean. Anything left uncommitted (e.g. a dropped
+# screenshot in media/) gets auto-committed first, so the pull can never abort
+# with "unstaged changes" and block the nightly push.
 GIT_ASKPASS=~/.hermes/scripts/git_askpass.sh
 export GIT_ASKPASS
-git pull --rebase origin main >> "$LOG" 2>&1 || echo "git: pull failed (see log) - continuing"
+git add -A
+git diff --cached --quiet || git commit -m "chore: batch pre-pull snapshot" >> "$LOG" 2>&1
+git pull --rebase origin main >> "$LOG" 2>&1 || {
+  git rebase --abort >> "$LOG" 2>&1
+  echo "git: pull failed (see log) - continuing"
+}
 
 env -u PYTHONPATH .venv/bin/python scrape_all.py || exit 1
 echo ""
