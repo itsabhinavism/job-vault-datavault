@@ -1,4 +1,15 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+285,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Staff Data Privacy Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-01 15:31:47.324726
+284,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-01 15:31:47.324726
+283,2026-09-01,smartrecruiters_freshworks,FRESHWORKS,Lead - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-01 15:31:47.324726
+282,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-01 15:31:47.324726
+281,2026-09-01,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager DACH (m/f/d),NEW,,2026-09-01 15:31:47.324726
+280,2026-09-01,lever_zeta,ZETA,Sr. Associate / Lead Designer,UPDATED,"{""title"": {""from"": ""Lead Designer"", ""to"": ""Sr. Associate / Lead Designer""}}",2026-09-01 15:31:47.324726
+279,2026-09-01,lever_zeta,ZETA,Cloud Network Engineer II,NEW,,2026-09-01 15:31:47.324726
+278,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,NEW,,2026-09-01 15:31:47.324726
+277,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",NEW,,2026-09-01 15:31:47.324726
+276,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Full Stack Builder,UPDATED,"{""updated_at"": {""from"": ""2026-07-21T02:29:07-04:00"", ""to"": ""2026-09-01T03:39:12-04:00""}}",2026-09-01 15:31:47.324726
+275,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",NEW,,2026-09-01 15:31:47.324726
 274,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Specialist - Strategic Sourcing,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-31 15:31:28.986565
 273,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Principal Value Engineer,NEW,,2026-08-31 15:31:28.986565
 272,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Staff Data Privacy Engineer,NEW,,2026-08-31 15:31:28.986565
