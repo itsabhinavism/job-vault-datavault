@@ -1,4 +1,27 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+308,2026-09-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+307,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+306,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+305,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+304,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+303,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+302,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Scientist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+301,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+300,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering(Dutch speaking),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+299,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Test,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+298,2026-09-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+297,2026-09-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Enterprise Partnerships",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
+296,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,NEW,,2026-09-02 15:31:23.130072
+295,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-09-02 15:31:23.130072
+294,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,NEW,,2026-09-02 15:31:23.130072
+293,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (Resellers CX - APMEA),NEW,,2026-09-02 15:31:23.130072
+292,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (Digital CX - NA),NEW,,2026-09-02 15:31:23.130072
+291,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-09-02 15:31:23.130072
+290,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Senior Software Engineer - Full Stack,NEW,,2026-09-02 15:31:23.130072
+289,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Product Specialist,NEW,,2026-09-02 15:31:23.130072
+288,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Senior Product Specialist,NEW,,2026-09-02 15:31:23.130072
+287,2026-09-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,NEW,,2026-09-02 15:31:23.130072
+286,2026-09-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,NEW,,2026-09-02 15:31:23.130072
 285,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Staff Data Privacy Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-01 15:31:47.324726
 284,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-01 15:31:47.324726
 283,2026-09-01,smartrecruiters_freshworks,FRESHWORKS,Lead - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-01 15:31:47.324726
