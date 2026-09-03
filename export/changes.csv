@@ -1,4 +1,25 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+329,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Principal Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+328,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+327,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+326,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,"Senior Product Marketing Manager, Freshservice",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+325,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lifecycle Marketing Specialist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+324,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lifecycle Marketing Specialist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+323,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Senior Software Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+322,2026-09-03,lever_zeta,ZETA,Financial Analyst,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+321,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+320,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Learning Business Partner",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
+319,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",NEW,,2026-09-03 15:32:20.481375
+318,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-09-03 15:32:20.481375
+317,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-09-03 15:32:20.481375
+316,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Channel Partner Manager -  DACH (m/f/d),NEW,,2026-09-03 15:32:20.481375
+315,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Channel Partner Manager -  DACH (m/f/d),NEW,,2026-09-03 15:32:20.481375
+314,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,NEW,,2026-09-03 15:32:20.481375
+313,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Associate Advisory Account Manager,NEW,,2026-09-03 15:32:20.481375
+312,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,DevOps Enginer,NEW,,2026-09-03 15:32:20.481375
+311,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Startup Accounts",NEW,,2026-09-03 15:32:20.481375
+310,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",NEW,,2026-09-03 15:32:20.481375
+309,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Engineer (Platform),NEW,,2026-09-03 15:32:20.481375
 308,2026-09-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
 307,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
 306,2026-09-02,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-02 15:31:23.130072
