@@ -1,4 +1,27 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+352,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+351,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Engineer (Platform),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+350,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+349,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+348,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+347,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+346,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+345,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+344,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+343,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+342,2026-09-04,lever_zeta,ZETA,Infosec GRC Associate II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+341,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Full Stack Builder,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
+340,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Business Systems Services Manager,NEW,,2026-09-04 15:31:55.415884
+339,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Vice President - Commercial Legal Affairs,NEW,,2026-09-04 15:31:55.415884
+338,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-09-04 15:31:55.415884
+337,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,NEW,,2026-09-04 15:31:55.415884
+336,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-09-04 15:31:55.415884
+335,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Engineering - AI Studio (CX & EX)",NEW,,2026-09-04 15:31:55.415884
+334,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,"Director, Integrated Marketing",NEW,,2026-09-04 15:31:55.415884
+333,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,NEW,,2026-09-04 15:31:55.415884
+332,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,NEW,,2026-09-04 15:31:55.415884
+331,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Learning Business Partner",NEW,,2026-09-04 15:31:55.415884
+330,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Business Operations",NEW,,2026-09-04 15:31:55.415884
 329,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Principal Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
 328,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
 327,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
