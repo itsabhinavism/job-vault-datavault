@@ -35,7 +35,7 @@ None of this is static — the data pipelines into all **7 sheet tabs** every ni
 
 Every batch also messages a **"what changed today"** summary straight to your phone via a Telegram bot — the warehouse reports itself, even when you're away from the laptop:
 
-![JobVault Telegram digest — daily batch summary](media/telegram_digest.jpg)
+<img src="media/telegram_digest.jpg" width="270" alt="JobVault Telegram digest — daily batch summary" />
 
 - Pulled straight from the Data Vault: per-batch `change_log` counts (**NEW / UPDATED / CLOSED**) + the current open-job total.
 - Sent over the Telegram Bot API by `notify_telegram.py` — one POST request, no gateway, nothing extra to host.
