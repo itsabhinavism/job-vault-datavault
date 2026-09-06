@@ -23,7 +23,7 @@ Four pages, fed automatically every day: **Market Pulse**, **Skills Demand**, **
 
 ### 📊 Google Sheets — the data layer
 
-![JobVault Google Sheets Data Layer](media/dashboard2.png)
+![JobVault Google Sheets Data Layer](media/dashboard25.png)
 
 > 📊 **Open the raw data here:** **[Open in Google Sheets →](https://docs.google.com/spreadsheets/d/1lytBBMa1yk0I-2F4WUoC7el9EH1ch5h7KsUm1-XNr48/edit?usp=sharing)**
 
