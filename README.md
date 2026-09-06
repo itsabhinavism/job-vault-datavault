@@ -31,6 +31,18 @@ None of this is static — the data pipelines into all **7 sheet tabs** every ni
 
 ---
 
+## 💬 Daily Telegram Digest
+
+Every batch also messages a **"what changed today"** summary straight to your phone via a Telegram bot — the warehouse reports itself, even when you're away from the laptop:
+
+![JobVault Telegram digest — daily batch summary](media/telegram_digest.jpg)
+
+- Pulled straight from the Data Vault: per-batch `change_log` counts (**NEW / UPDATED / CLOSED**) + the current open-job total.
+- Sent over the Telegram Bot API by `notify_telegram.py` — one POST request, no gateway, nothing extra to host.
+- **Non-blocking by design:** a failed message never breaks the batch; it just logs the error and the pipeline continues.
+
+---
+
 ## ✨ What It Does
 
 | 🇪🇺 | Capability |
@@ -81,6 +93,7 @@ Scraping alone isn't enough. You need to **normalize**, **join reliably**, and *
         │
         ▼
 🚀 GitHub push ──▶ Google Apps Script ──▶ Google Sheets (data) ──▶ Looker Studio 📈 dashboard
+💬 notify_telegram.py ────▶ Telegram DM: "what changed today" summary
 ```
 
 **Currently tracking: 150+ live jobs** across Razorpay, CRED, Zeta & Freshworks.
@@ -194,7 +207,8 @@ JobVault/
 │   └── refresh_sheet.gs   # auto-refreshes the Google Sheets tabs daily
 ├── media/
 │   ├── dashboard1.png     # the interactive Looker Studio dashboard
-│   └── dashboard25.png    # additional dashboard view
+│   ├── dashboard25.png    # additional dashboard view
+│   └── telegram_digest.jpg  # the daily Telegram summary screenshot
 ├── staging/               # raw scraped data (one file per source per day)
 ├── export/                # CSV views consumed by the dashboard
 └── jobvault.db            # the SQLite database (system of record)
