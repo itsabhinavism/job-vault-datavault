@@ -1,4 +1,25 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+393,2026-09-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+392,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+391,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+390,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+389,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+388,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management - Process Transformation & Automation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+387,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,GTM Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+386,2026-09-08,lever_cred,CRED,machine learning engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+385,2026-09-08,lever_cred,CRED,growth and business - max and wallet,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+384,2026-09-08,lever_cred,CRED,data scientist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+383,2026-09-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Legal",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
+382,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Channel Partner Manager - France & Nordics,NEW,,2026-09-08 15:31:26.232477
+381,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Site Reliability,NEW,,2026-09-08 15:31:26.232477
+380,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Site Reliability,NEW,,2026-09-08 15:31:26.232477
+379,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,NEW,,2026-09-08 15:31:26.232477
+378,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,NEW,,2026-09-08 15:31:26.232477
+377,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Enterprise Sales Director UKI,NEW,,2026-09-08 15:31:26.232477
+376,2026-09-08,lever_zeta,ZETA,Associate Director - Legal,NEW,,2026-09-08 15:31:26.232477
+375,2026-09-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Analyst, Business Operations",NEW,,2026-09-08 15:31:26.232477
+374,2026-09-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",NEW,,2026-09-08 15:31:26.232477
+373,2026-09-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Learning Business Partner",UPDATED,"{""updated_at"": {""from"": ""2026-09-04T07:47:36-04:00"", ""to"": ""2026-09-08T05:52:49-04:00""}}",2026-09-08 15:31:26.232477
 372,2026-09-07,smartrecruiters_freshworks,FRESHWORKS,Business Systems Services Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-07 15:31:10.004232
 371,2026-09-07,smartrecruiters_freshworks,FRESHWORKS,Vice President - Commercial Legal Affairs,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-07 15:31:10.004232
 370,2026-09-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Business Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-07 15:31:10.004232
