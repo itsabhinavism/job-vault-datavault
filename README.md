@@ -13,7 +13,7 @@ The project feeds **two** frontends every day — Google Sheets for the raw data
 
 ### 📈 Looker Studio — the interactive dashboard
 
-![JobVault Looker Studio Dashboard](media/dashboard1.png)
+![JobVault Looker Studio Dashboard](media/dashboard15.png)
 <!-- Upload your Looker Studio screenshots to media/dashboard1.png + media/dashboard25.png and they will appear here. -->
 
 Four pages, fed automatically every day: **Market Pulse**, **Skills Demand**, **What Changed (CDC)**, and **Where's the Work**.
