@@ -1,4 +1,21 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+410,2026-09-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
+409,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
+408,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (Resellers CX - APMEA),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
+407,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (Digital CX - NA),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
+406,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,"Product Marketing Manager, AI",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
+405,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,"Product Marketing Manager, AI",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
+404,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - Germany (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
+403,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",NEW,,2026-09-09 15:31:43.904416
+402,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-09-09 15:31:43.904416
+401,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,"Technical Product Marketing Manager, AI",NEW,,2026-09-09 15:31:43.904416
+400,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,"Product Marketing Manager, Freshservice Platform",NEW,,2026-09-09 15:31:43.904416
+399,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,"Product Marketing Manager, Freshservice Platform",NEW,,2026-09-09 15:31:43.904416
+398,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,"Technical Product Marketing Manager, AI",NEW,,2026-09-09 15:31:43.904416
+397,2026-09-09,lever_zeta,ZETA,Executive Assistant/Senior Executive Assistant,NEW,,2026-09-09 15:31:43.904416
+396,2026-09-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",NEW,,2026-09-09 15:31:43.904416
+395,2026-09-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",NEW,,2026-09-09 15:31:43.904416
+394,2026-09-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Enterprise Partnerships ",NEW,,2026-09-09 15:31:43.904416
 393,2026-09-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
 392,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
 391,2026-09-08,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-08 15:31:26.232477
