@@ -1,4 +1,17 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+423,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-10 15:31:25.117642
+422,2026-09-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Analyst, Business Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-10 15:31:25.117642
+421,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-10 15:31:25.117642
+420,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Mobile (Android),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-10 15:31:25.117642
+419,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,Account Manager - Mid Market,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-10 15:31:25.117642
+418,2026-09-10,lever_zeta,ZETA,Solution Train Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-10 15:31:25.117642
+417,2026-09-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Associate - Corporate Strategy ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-10 15:31:25.117642
+416,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,Marketing Operations Manager,NEW,,2026-09-10 15:31:25.117642
+415,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,Account Manager - Mid Market,NEW,,2026-09-10 15:31:25.117642
+414,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Scientist,NEW,,2026-09-10 15:31:25.117642
+413,2026-09-10,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Global Sales Recruiting",NEW,,2026-09-10 15:31:25.117642
+412,2026-09-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",UPDATED,"{""updated_at"": {""from"": ""2026-07-21T02:29:07-04:00"", ""to"": ""2026-09-10T03:30:40-04:00""}}",2026-09-10 15:31:25.117642
+411,2026-09-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",UPDATED,"{""updated_at"": {""from"": ""2026-09-09T01:40:17-04:00"", ""to"": ""2026-09-10T02:31:23-04:00""}}",2026-09-10 15:31:25.117642
 410,2026-09-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
 409,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
 408,2026-09-09,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (Resellers CX - APMEA),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-09 15:31:43.904416
