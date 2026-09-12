@@ -1,4 +1,14 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+448,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Global Sales Recruiting",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
+447,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Senior Software Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
+446,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Specialist - Data Platform Engineering,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
+445,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Mobile,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
+444,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Senior NOC Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
+443,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-09-12 15:31:25.309413
+442,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",NEW,,2026-09-12 15:31:25.309413
+441,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-09-12 15:31:25.309413
+440,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-09-12 15:31:25.309413
+439,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-09-12 15:31:25.309413
 438,2026-09-11,smartrecruiters_freshworks,FRESHWORKS,"Product Marketing Manager, Freshservice Platform",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-11 15:31:24.193193
 437,2026-09-11,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-11 15:31:24.193193
 436,2026-09-11,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-11 15:31:24.193193
