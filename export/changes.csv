@@ -1,4 +1,6 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+450,2026-09-14,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist (UKI & Nordics),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-14 15:31:36.917336
+449,2026-09-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Product Designer,NEW,,2026-09-14 15:31:36.917336
 448,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Global Sales Recruiting",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
 447,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Senior Software Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
 446,2026-09-12,smartrecruiters_freshworks,FRESHWORKS,Specialist - Data Platform Engineering,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-12 15:31:25.309413
