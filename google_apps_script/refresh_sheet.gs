@@ -30,15 +30,16 @@ function refreshAll() {
   }
 }
 
-// Install once, then the refresh runs automatically every day at 21:10 (9:10 PM).
-// Runs 10 minutes AFTER the local batch finishes pushing the CSVs (~21:02-21:05),
-// so it always reads the brand-new data instead of yesterday's.
+// Install once, then the refresh runs automatically every day at 00:40.
+// The batch now runs at 00:30 and finishes pushing around 00:33, so 00:40
+// always reads the brand-new data. Keeps "today" in Looker aligned with the
+// latest batch all day (see README).
 function installDailyTrigger() {
   ScriptApp.newTrigger("refreshAll")
     .timeBased()
     .everyDays(1)
-    .atHour(21)
-    .nearMinute(10)
+    .atHour(0)
+    .nearMinute(40)
     .create();
 }
 
