@@ -30,12 +30,15 @@ function refreshAll() {
   }
 }
 
-// Install once, then the refresh runs automatically every day at 21:00 (9 PM).
+// Install once, then the refresh runs automatically every day at 21:10 (9:10 PM).
+// Runs 10 minutes AFTER the local batch finishes pushing the CSVs (~21:02-21:05),
+// so it always reads the brand-new data instead of yesterday's.
 function installDailyTrigger() {
   ScriptApp.newTrigger("refreshAll")
     .timeBased()
     .everyDays(1)
     .atHour(21)
+    .nearMinute(10)
     .create();
 }
 
