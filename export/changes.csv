@@ -1,4 +1,23 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+480,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Data Analyst, Business Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+479,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Technical Consultant ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+478,2026-09-17,lever_zeta,ZETA,Executive Assistant/Senior Executive Assistant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+477,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+476,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+475,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Startup Accounts",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+474,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+473,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Product Marketing",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+472,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+471,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+470,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+469,2026-09-17,lever_zeta,ZETA,Director – Enterprise Applications & IT Infrastructure,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
+468,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,NEW,,2026-09-16 20:11:19.385050
+467,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Sales – North America Verticals",NEW,,2026-09-16 20:11:19.385050
+466,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Sales – North America Verticals",NEW,,2026-09-16 20:11:19.385050
+465,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (EX Top Tier - North America),NEW,,2026-09-16 20:11:19.385050
+464,2026-09-17,smartrecruiters_freshworks,FRESHWORKS,Customer Success Manager — Key & Enterprise,NEW,,2026-09-16 20:11:19.385050
+463,2026-09-17,lever_zeta,ZETA,Product Management - Intern,NEW,,2026-09-16 20:11:19.385050
+462,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Associate, Enterprise Partnerships",NEW,,2026-09-16 20:11:19.385050
 461,2026-09-15,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-15 15:31:33.204141
 460,2026-09-15,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-15 15:31:33.204141
 459,2026-09-15,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-15 15:31:33.204141
