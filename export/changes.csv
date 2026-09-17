@@ -1,4 +1,24 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+500,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid Market ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+499,2026-09-18,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Enterprise Partnerships ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+498,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+497,2026-09-18,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+496,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+495,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+494,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+493,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+492,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+491,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
+490,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid Market ,NEW,,2026-09-17 19:01:43.217935
+489,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Corporate Strategy Manager (Consulting & Strategy),NEW,,2026-09-17 19:01:43.217935
+488,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,NEW,,2026-09-17 19:01:43.217935
+487,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,NEW,,2026-09-17 19:01:43.217935
+486,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,NEW,,2026-09-17 19:01:43.217935
+485,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,NEW,,2026-09-17 19:01:43.217935
+484,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,NEW,,2026-09-17 19:01:43.217935
+483,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Strategic Account Manager,NEW,,2026-09-17 19:01:43.217935
+482,2026-09-18,lever_zeta,ZETA,Director - Strategy & Operations,NEW,,2026-09-17 19:01:43.217935
+481,2026-09-18,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",NEW,,2026-09-17 19:01:43.217935
 480,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Data Analyst, Business Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
 479,2026-09-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Technical Consultant ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
 478,2026-09-17,lever_zeta,ZETA,Executive Assistant/Senior Executive Assistant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-16 20:11:19.385050
