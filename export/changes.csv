@@ -1,4 +1,18 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+542,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
+541,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Associate Advisory Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
+540,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
+539,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
+538,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Full Stack,NEW,,2026-09-22 01:00:19.344696
+537,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Lead - Channel Sales,NEW,,2026-09-22 01:00:19.344696
+536,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Lead - Channel Sales,NEW,,2026-09-22 01:00:19.344696
+535,2026-09-22,lever_zeta,ZETA,Associate / Sr. Associate- People Experience,UPDATED,"{""title"": {""from"": ""Associate/Sr Associate- People Experience"", ""to"": ""Associate / Sr. Associate- People Experience""}}",2026-09-22 01:00:19.344696
+534,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",NEW,,2026-09-22 01:00:19.344696
+533,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,NEW,,2026-09-22 01:00:19.344696
+532,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",NEW,,2026-09-22 01:00:19.344696
+531,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,DevOps Engineer,NEW,,2026-09-22 01:00:19.344696
+530,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Mid Market Sales",NEW,,2026-09-22 01:00:19.344696
+529,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales",NEW,,2026-09-22 01:00:19.344696
 528,2026-09-21,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager ,NEW,,2026-09-20 19:00:57.771254
 527,2026-09-20,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-19 19:00:57.109731
 526,2026-09-20,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-19 19:00:57.109731
@@ -485,17 +499,3 @@
 45,2026-08-27,lever_zeta,ZETA,Lead / Manager Data Reliability Engineering,NEW,,2026-08-27 08:15:09.744354
 44,2026-08-27,lever_zeta,ZETA,Infosec GRC Associate II,NEW,,2026-08-27 08:15:09.744354
 43,2026-08-27,lever_zeta,ZETA,Financial Analyst,NEW,,2026-08-27 08:15:09.744354
-42,2026-08-27,lever_zeta,ZETA,Executive - IT Support,NEW,,2026-08-27 08:15:09.744354
-41,2026-08-27,lever_zeta,ZETA,Executive - IT Support,NEW,,2026-08-27 08:15:09.744354
-40,2026-08-27,lever_zeta,ZETA,Director – Enterprise Applications & IT Infrastructure,NEW,,2026-08-27 08:15:09.744354
-39,2026-08-27,lever_zeta,ZETA,Corporate Risk and Compliance - Associate II,NEW,,2026-08-27 08:15:09.744354
-38,2026-08-27,lever_zeta,ZETA,Cloud Network Engineer II,NEW,,2026-08-27 08:15:09.744354
-37,2026-08-27,lever_cred,CRED,regional collection manager bangalore - flows,NEW,,2026-08-27 08:15:09.744354
-36,2026-08-27,lever_cred,CRED,machine learning engineer,NEW,,2026-08-27 08:15:09.744354
-35,2026-08-27,lever_cred,CRED,long form content writer/editor,NEW,,2026-08-27 08:15:09.744354
-34,2026-08-27,lever_cred,CRED,lead – on deck payments,NEW,,2026-08-27 08:15:09.744354
-33,2026-08-27,lever_cred,CRED,growth and business - max and wallet,NEW,,2026-08-27 08:15:09.744354
-32,2026-08-27,lever_cred,CRED,data scientist,NEW,,2026-08-27 08:15:09.744354
-31,2026-08-27,lever_cred,CRED,copywriter,NEW,,2026-08-27 08:15:09.744354
-30,2026-08-27,lever_cred,CRED,capital partnerships,NEW,,2026-08-27 08:15:09.744354
-29,2026-08-27,lever_cred,CRED,business development & strategic partnerships - d2c,NEW,,2026-08-27 08:15:09.744354
