@@ -1,4 +1,28 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+566,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+565,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+564,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+563,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+562,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Scientist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+561,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+560,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Site Reliability,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+559,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Site Reliability,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+558,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Principal Value Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+557,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+556,2026-09-23,lever_cred,CRED,copywriter,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
+555,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-09-22 19:01:40.336288
+554,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,NEW,,2026-09-22 19:01:40.336288
+553,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-09-22 19:01:40.336288
+552,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-09-22 19:01:40.336288
+551,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-09-22 19:01:40.336288
+550,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-09-22 19:01:40.336288
+549,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Systems,NEW,,2026-09-22 19:01:40.336288
+548,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Advisory Account Manager,NEW,,2026-09-22 19:01:40.336288
+547,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Manager,NEW,,2026-09-22 19:01:40.336288
+546,2026-09-23,lever_zeta,ZETA,Executive Assistant/Senior Executive Assistant,NEW,,2026-09-22 19:01:40.336288
+545,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",UPDATED,"{""location"": {""from"": ""Coimbatore, India"", ""to"": ""Chennai, India""}, ""updated_at"": {""from"": ""2026-09-21T06:10:45-04:00"", ""to"": ""2026-09-22T03:16:08-04:00""}}",2026-09-22 19:01:40.336288
+544,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - AI ,NEW,,2026-09-22 19:01:40.336288
+543,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-21T02:32:37-04:00"", ""to"": ""2026-09-22T06:34:13-04:00""}}",2026-09-22 19:01:40.336288
 542,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
 541,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Associate Advisory Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
 540,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
@@ -475,27 +499,3 @@
 69,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
 68,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,GTM Engineer,NEW,,2026-08-27 08:15:09.744354
 67,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"GTM Engineer, Revenue Operations ",NEW,,2026-08-27 08:15:09.744354
-66,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Customer Success (EX - ASEAN),NEW,,2026-08-27 08:15:09.744354
-65,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management (Deal Desk),NEW,,2026-08-27 08:15:09.744354
-64,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Test,NEW,,2026-08-27 08:15:09.744354
-63,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
-62,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
-61,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Vice President - Corporate Communications,NEW,,2026-08-27 08:15:09.744354
-60,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,NEW,,2026-08-27 08:15:09.744354
-59,2026-08-27,lever_zeta,ZETA,Vice President - Sales & Business Development,NEW,,2026-08-27 08:15:09.744354
-58,2026-08-27,lever_zeta,ZETA,Specialist Total Rewards,NEW,,2026-08-27 08:15:09.744354
-57,2026-08-27,lever_zeta,ZETA,Specialist / Manager – People Tech & Transformation,NEW,,2026-08-27 08:15:09.744354
-56,2026-08-27,lever_zeta,ZETA,Specialist - People Partner,NEW,,2026-08-27 08:15:09.744354
-55,2026-08-27,lever_zeta,ZETA,Solution Train Manager,NEW,,2026-08-27 08:15:09.744354
-54,2026-08-27,lever_zeta,ZETA,Software Development Engineer in Test II,NEW,,2026-08-27 08:15:09.744354
-53,2026-08-27,lever_zeta,ZETA,SIEM & SecOps Engineer II,NEW,,2026-08-27 08:15:09.744354
-52,2026-08-27,lever_zeta,ZETA,Project Manager II,NEW,,2026-08-27 08:15:09.744354
-51,2026-08-27,lever_zeta,ZETA,Product Security Engineer II,NEW,,2026-08-27 08:15:09.744354
-50,2026-08-27,lever_zeta,ZETA,Manager - Accounts,NEW,,2026-08-27 08:15:09.744354
-49,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,NEW,,2026-08-27 08:15:09.744354
-48,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,NEW,,2026-08-27 08:15:09.744354
-47,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,NEW,,2026-08-27 08:15:09.744354
-46,2026-08-27,lever_zeta,ZETA,Lead Designer,NEW,,2026-08-27 08:15:09.744354
-45,2026-08-27,lever_zeta,ZETA,Lead / Manager Data Reliability Engineering,NEW,,2026-08-27 08:15:09.744354
-44,2026-08-27,lever_zeta,ZETA,Infosec GRC Associate II,NEW,,2026-08-27 08:15:09.744354
-43,2026-08-27,lever_zeta,ZETA,Financial Analyst,NEW,,2026-08-27 08:15:09.744354
