@@ -1,4 +1,22 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+584,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,DevOps Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+583,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Associate, Enterprise Partnerships",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+582,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Lead - Customer Support,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+581,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,"Manager, Lifecycle Marketing",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+580,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Lead - Product Adoption (US Shift),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+579,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer(Dutch speaking),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+578,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,"Manager, Lifecycle Marketing",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+577,2026-09-24,lever_cred,CRED,capital partnerships,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-23 19:01:51.610756
+576,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-09-23 19:01:51.610756
+575,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-09-23 19:01:51.610756
+574,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Systems,NEW,,2026-09-23 19:01:51.610756
+573,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer(Dutch/Swedish speaking),NEW,,2026-09-23 19:01:51.610756
+572,2026-09-24,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Systems,NEW,,2026-09-23 19:01:51.610756
+571,2026-09-24,lever_zeta,ZETA,Executive Assistant,NEW,,2026-09-23 19:01:51.610756
+570,2026-09-24,lever_cred,CRED,copywriter,NEW,,2026-09-23 19:01:51.610756
+569,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Associate, Brand Marketing",NEW,,2026-09-23 19:01:51.610756
+568,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Business Analyst ,NEW,,2026-09-23 19:01:51.610756
+567,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Startup Accounts",NEW,,2026-09-23 19:01:51.610756
 566,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
 565,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
 564,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
@@ -481,21 +499,3 @@
 87,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity,NEW,,2026-08-27 08:15:09.744354
 86,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Value Engineer,NEW,,2026-08-27 08:15:09.744354
 85,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,NEW,,2026-08-27 08:15:09.744354
-84,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
-83,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
-82,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
-81,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
-80,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
-79,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),NEW,,2026-08-27 08:15:09.744354
-78,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Mobile,NEW,,2026-08-27 08:15:09.744354
-77,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Bots Strategy,NEW,,2026-08-27 08:15:09.744354
-76,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Digital Marketing Lead,NEW,,2026-08-27 08:15:09.744354
-75,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Digital Marketing Lead,NEW,,2026-08-27 08:15:09.744354
-74,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Director - Business Execution,NEW,,2026-08-27 08:15:09.744354
-73,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Manager - Mid Market,NEW,,2026-08-27 08:15:09.744354
-72,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Machine Learning,NEW,,2026-08-27 08:15:09.744354
-71,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior NOC Engineer,NEW,,2026-08-27 08:15:09.744354
-70,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
-69,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
-68,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,GTM Engineer,NEW,,2026-08-27 08:15:09.744354
-67,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"GTM Engineer, Revenue Operations ",NEW,,2026-08-27 08:15:09.744354
