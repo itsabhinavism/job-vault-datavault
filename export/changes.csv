@@ -1,4 +1,16 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+622,2026-09-26,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-26 04:13:05.874221
+621,2026-09-26,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Business Analyst,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-26 04:13:05.874221
+620,2026-09-26,smartrecruiters_freshworks,FRESHWORKS,Advisory Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-26 04:13:05.874221
+619,2026-09-26,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst (Salesforce) ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-26 04:13:05.874221
+618,2026-09-26,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Site Reliability,NEW,,2026-09-26 04:13:05.874221
+617,2026-09-26,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-09-26 04:13:05.874221
+616,2026-09-26,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,NEW,,2026-09-26 04:13:05.874221
+615,2026-09-26,lever_zeta,ZETA,"Director – Enterprise Applications, Integration, AI & IT Infrastructure",NEW,,2026-09-26 04:13:05.874221
+614,2026-09-26,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership",UPDATED,"{""location"": {""from"": ""Gurugram, India"", ""to"": ""Mumbai, India""}, ""updated_at"": {""from"": ""2026-09-24T01:10:03-04:00"", ""to"": ""2026-09-25T01:54:30-04:00""}}",2026-09-26 04:13:05.874221
+613,2026-09-26,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",NEW,,2026-09-26 04:13:05.874221
+612,2026-09-26,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-24T03:11:59-04:00"", ""to"": ""2026-09-25T08:07:01-04:00""}}",2026-09-26 04:13:05.874221
+611,2026-09-26,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP",NEW,,2026-09-26 04:13:05.874221
 610,2026-09-25,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Associate, Brand Marketing",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-24 23:24:08.895909
 609,2026-09-25,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Business Analyst ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-24 23:24:08.895909
 608,2026-09-25,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-24 23:24:08.895909
@@ -487,15 +499,3 @@
 125,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Business Development Manager,NEW,,2026-08-27 08:15:09.744354
 124,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
 123,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
-122,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Account Executive(Swedish/Finnish/Danish/Norwegian speaking),NEW,,2026-08-27 08:15:09.744354
-121,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Solution Architect,NEW,,2026-08-27 08:15:09.744354
-120,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid Market,NEW,,2026-08-27 08:15:09.744354
-119,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Data Platform Engineering,NEW,,2026-08-27 08:15:09.744354
-118,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Manager, Lifecycle Marketing",NEW,,2026-08-27 08:15:09.744354
-117,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lifecycle Marketing Specialist,NEW,,2026-08-27 08:15:09.744354
-116,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-08-27 08:15:09.744354
-115,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Mobile (Android),NEW,,2026-08-27 08:15:09.744354
-114,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-08-27 08:15:09.744354
-113,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management,NEW,,2026-08-27 08:15:09.744354
-112,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,NEW,,2026-08-27 08:15:09.744354
-111,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Platform Engineering,NEW,,2026-08-27 08:15:09.744354
