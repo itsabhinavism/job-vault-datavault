@@ -1,4 +1,17 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+679,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
+678,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Channel Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
+677,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (EX Top Tier - North America),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
+676,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
+675,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Learning Business Partner",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
+674,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
+673,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Corporate Strategy",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
+672,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Procurement Systems,NEW,,2026-09-29 23:57:05.116265
+671,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),NEW,,2026-09-29 23:57:05.116265
+670,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Channel Sales,NEW,,2026-09-29 23:57:05.116265
+669,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,NEW,,2026-09-29 23:57:05.116265
+668,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Solutions",NEW,,2026-09-29 23:57:05.116265
+667,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Solutions",NEW,,2026-09-29 23:57:05.116265
 666,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
 665,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
 664,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
@@ -486,16 +499,3 @@
 182,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
 181,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
 180,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Engineer,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
-179,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Consultant,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
-178,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Software Development Engineer,UPDATED,"{""location"": {""from"": ""Malaysia, Malaysia"", ""to"": ""Malaysia""}}",2026-08-27 11:06:54.416614
-177,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",UPDATED,"{""location"": {""from"": ""Coimbatore"", ""to"": ""Coimbatore, India""}}",2026-08-27 11:06:54.416614
-176,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-175,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-174,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",UPDATED,"{""location"": {""from"": ""Singapore, India"", ""to"": ""Singapore""}}",2026-08-27 11:06:54.416614
-173,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-172,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Legal",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-171,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Learning Business Partner",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-170,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Enterprise Partnerships",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-169,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-168,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-167,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Affordability",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
