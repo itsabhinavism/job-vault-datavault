@@ -1,4 +1,46 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+666,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+665,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+664,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+663,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Business Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+662,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+661,2026-09-29,lever_cred,CRED,regional collection manager bangalore - flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+660,2026-09-29,lever_cred,CRED,"area collections manager, pune (recoveries)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+659,2026-09-29,lever_cred,CRED,area collections manager hyderabad -flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+658,2026-09-29,lever_cred,CRED,area collections manager chennai- flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+657,2026-09-29,lever_cred,CRED,area collections manager bangalore -flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+656,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Startup Accounts",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
+655,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst (Marketing Analytics) ,NEW,,2026-09-29 00:45:49.554538
+654,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst,NEW,,2026-09-29 00:45:49.554538
+653,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Corporate Strategy Manager (Consulting & Strategy),NEW,,2026-09-29 00:45:49.554538
+652,2026-09-29,lever_zeta,ZETA,Manager Site Reliability Engineer,NEW,,2026-09-29 00:45:49.554538
+651,2026-09-29,lever_zeta,ZETA,Manager – People Tech & Transformation,UPDATED,"{""title"": {""from"": ""Specialist / Manager – People Tech & Transformation"", ""to"": ""Manager – People Tech & Transformation""}}",2026-09-29 00:45:49.554538
+650,2026-09-29,lever_zeta,ZETA,Manager - Talent Management,NEW,,2026-09-29 00:45:49.554538
+649,2026-09-29,lever_cred,CRED,accounts payable manager,NEW,,2026-09-29 00:45:49.554538
+648,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,NEW,,2026-09-29 00:45:49.554538
+647,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,UPDATED,"{""updated_at"": {""from"": ""2026-07-21T02:29:07-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+646,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Consultant,UPDATED,"{""updated_at"": {""from"": ""2026-08-06T02:20:46-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+645,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,UPDATED,"{""updated_at"": {""from"": ""2026-09-24T13:20:27-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+644,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-22T03:16:08-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+643,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,UPDATED,"{""updated_at"": {""from"": ""2026-09-21T03:13:10-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+642,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Social Media Marketing",UPDATED,"{""updated_at"": {""from"": ""2026-09-24T07:53:05-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+641,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-10T03:30:40-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+640,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",UPDATED,"{""updated_at"": {""from"": ""2026-09-09T05:55:43-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+639,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Analyst, Group Compliance",UPDATED,"{""updated_at"": {""from"": ""2026-09-18T02:59:13-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+638,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - AI ,UPDATED,"{""updated_at"": {""from"": ""2026-09-22T09:52:50-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+637,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,UPDATED,"{""updated_at"": {""from"": ""2026-09-07T00:34:00-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+636,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership",UPDATED,"{""updated_at"": {""from"": ""2026-09-25T01:54:30-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+635,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances",UPDATED,"{""updated_at"": {""from"": ""2026-08-26T05:36:49-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+634,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Affordability",UPDATED,"{""updated_at"": {""from"": ""2026-07-21T02:29:07-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+633,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",UPDATED,"{""updated_at"": {""from"": ""2026-09-01T02:49:18-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+632,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",UPDATED,"{""updated_at"": {""from"": ""2026-09-21T07:23:40-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+631,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",UPDATED,"{""updated_at"": {""from"": ""2026-09-25T04:43:56-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+630,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager ,UPDATED,"{""updated_at"": {""from"": ""2026-09-20T04:07:16-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+629,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,DevOps Enginer,UPDATED,"{""updated_at"": {""from"": ""2026-09-03T05:17:10-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+628,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-21T02:21:22-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+627,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-25T08:07:01-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+626,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Learning Business Partner",UPDATED,"{""updated_at"": {""from"": ""2026-09-08T05:52:49-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
+625,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",NEW,,2026-09-29 00:45:49.554538
 624,2026-09-28,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-28 01:39:48.329425
 623,2026-09-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,NEW,,2026-09-27 02:59:28.737740
 622,2026-09-26,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-26 04:13:05.874221
@@ -457,45 +499,3 @@
 169,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
 168,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
 167,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Affordability",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-166,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-165,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Product Designer,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-164,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Full Stack Builder,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-163,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-162,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Consultant - Strategy ,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-161,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Startup Accounts",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-160,2026-08-27,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Solutions Engineering",UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-159,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,NEW,,2026-08-27 08:15:09.744354
-158,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-08-27 08:15:09.744354
-157,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",NEW,,2026-08-27 08:15:09.744354
-156,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-08-27 08:15:09.744354
-155,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-08-27 08:15:09.744354
-154,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Community Manager,NEW,,2026-08-27 08:15:09.744354
-153,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,NEW,,2026-08-27 08:15:09.744354
-152,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-08-27 08:15:09.744354
-151,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-08-27 08:15:09.744354
-150,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Director - Product Design,NEW,,2026-08-27 08:15:09.744354
-149,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Employee Relations,NEW,,2026-08-27 08:15:09.744354
-148,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),NEW,,2026-08-27 08:15:09.744354
-147,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,NEW,,2026-08-27 08:15:09.744354
-146,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,NEW,,2026-08-27 08:15:09.744354
-145,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,NEW,,2026-08-27 08:15:09.744354
-144,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,NEW,,2026-08-27 08:15:09.744354
-143,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
-142,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Scientist,NEW,,2026-08-27 08:15:09.744354
-141,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),NEW,,2026-08-27 08:15:09.744354
-140,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Strategic Sourcing,NEW,,2026-08-27 08:15:09.744354
-139,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Sr. Solution Architect (SA) ,NEW,,2026-08-27 08:15:09.744354
-138,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Sr. Solution Architect (SA) ,NEW,,2026-08-27 08:15:09.744354
-137,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,NEW,,2026-08-27 08:15:09.744354
-136,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Services Sourcing,NEW,,2026-08-27 08:15:09.744354
-135,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Vendor Management,NEW,,2026-08-27 08:15:09.744354
-134,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
-133,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-08-27 08:15:09.744354
-132,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),NEW,,2026-08-27 08:15:09.744354
-131,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal Customer Success Engineer,NEW,,2026-08-27 08:15:09.744354
-130,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,NEW,,2026-08-27 08:15:09.744354
-129,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,NEW,,2026-08-27 08:15:09.744354
-128,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,NEW,,2026-08-27 08:15:09.744354
-127,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"Senior Product Marketing Manager, Freshservice",NEW,,2026-08-27 08:15:09.744354
-126,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,"FP&A Manager, Product & Engineering",NEW,,2026-08-27 08:15:09.744354
-125,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Business Development Manager,NEW,,2026-08-27 08:15:09.744354
