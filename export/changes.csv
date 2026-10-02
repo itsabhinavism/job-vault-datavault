@@ -1,4 +1,21 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+708,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+707,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+706,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+705,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+704,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Customer Success Manager — Key & Enterprise,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+703,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Analyst, Group Compliance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+702,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+701,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Senior Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
+700,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive,NEW,,2026-10-02 11:57:44.940309
+699,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,NEW,,2026-10-02 11:57:44.940309
+698,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Machine Learning,NEW,,2026-10-02 11:57:44.940309
+697,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Machine Learning,NEW,,2026-10-02 11:57:44.940309
+696,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,NEW,,2026-10-02 11:57:44.940309
+695,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,NEW,,2026-10-02 11:57:44.940309
+694,2026-10-02,lever_zeta,ZETA,Product Manager II,NEW,,2026-10-02 11:57:44.940309
+693,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Solutions",UPDATED,"{""updated_at"": {""from"": ""2026-09-29T01:01:43-04:00"", ""to"": ""2026-10-01T06:12:07-04:00""}}",2026-10-02 11:57:44.940309
+692,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager,NEW,,2026-10-02 11:57:44.940309
 691,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Lead - Procurement Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
 690,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
 689,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
@@ -482,20 +499,3 @@
 211,2026-08-27,lever_zeta,ZETA,SIEM & SecOps Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
 210,2026-08-27,lever_zeta,ZETA,Project Manager II,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
 209,2026-08-27,lever_zeta,ZETA,Product Security Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-208,2026-08-27,lever_zeta,ZETA,Manager - Accounts,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
-207,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-206,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-205,2026-08-27,lever_zeta,ZETA,Lead Site Reliability Engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-204,2026-08-27,lever_zeta,ZETA,Lead Designer,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-203,2026-08-27,lever_zeta,ZETA,Lead / Manager Data Reliability Engineering,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-202,2026-08-27,lever_zeta,ZETA,Infosec GRC Associate II,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-201,2026-08-27,lever_zeta,ZETA,Financial Analyst,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
-200,2026-08-27,lever_zeta,ZETA,Executive - IT Support,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
-199,2026-08-27,lever_zeta,ZETA,Executive - IT Support,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-198,2026-08-27,lever_zeta,ZETA,Director – Enterprise Applications & IT Infrastructure,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-197,2026-08-27,lever_zeta,ZETA,Corporate Risk and Compliance - Associate II,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-196,2026-08-27,lever_zeta,ZETA,Cloud Network Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-195,2026-08-27,lever_cred,CRED,regional collection manager bangalore - flows,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-194,2026-08-27,lever_cred,CRED,machine learning engineer,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-193,2026-08-27,lever_cred,CRED,long form content writer/editor,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-192,2026-08-27,lever_cred,CRED,lead – on deck payments,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
