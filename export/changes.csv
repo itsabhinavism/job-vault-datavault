@@ -1,4 +1,8 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+712,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-03 19:01:41.397062
+711,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-03 19:01:41.397062
+710,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-10-03 19:01:41.397062
+709,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-10-03 19:01:41.397062
 708,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
 707,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
 706,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
@@ -495,7 +499,3 @@
 215,2026-08-27,lever_zeta,ZETA,Specialist / Manager – People Tech & Transformation,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
 214,2026-08-27,lever_zeta,ZETA,Specialist - People Partner,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
 213,2026-08-27,lever_zeta,ZETA,Solution Train Manager,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-212,2026-08-27,lever_zeta,ZETA,Software Development Engineer in Test II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-211,2026-08-27,lever_zeta,ZETA,SIEM & SecOps Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
-210,2026-08-27,lever_zeta,ZETA,Project Manager II,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-209,2026-08-27,lever_zeta,ZETA,Product Security Engineer II,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614

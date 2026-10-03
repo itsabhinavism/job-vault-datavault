@@ -68,8 +68,6 @@
 2026-08-27,smartrecruiters_freshworks,744000141975441,FRESHWORKS,Lead - Vendor Management,"San Mateo, US",open
 2026-08-27,smartrecruiters_freshworks,744000141974320,FRESHWORKS,Manager - Services Sourcing,"San Mateo, US",open
 2026-08-27,smartrecruiters_freshworks,744000141842029,FRESHWORKS,Lead - Business Systems Services,"Chennai, India",open
-2026-08-27,smartrecruiters_freshworks,744000141317959,FRESHWORKS,Global Head of Partner Strategy & Operations,"Bellevue, US",open
-2026-08-27,smartrecruiters_freshworks,744000141317789,FRESHWORKS,Global Head of Partner Strategy & Operations,"San Mateo, US",open
 2026-08-27,smartrecruiters_freshworks,744000140882260,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,"Chennai, India",open
 2026-08-27,smartrecruiters_freshworks,744000140744969,FRESHWORKS,Senior Manager - Employee Relations,"San Mateo, US",open
 2026-08-27,smartrecruiters_freshworks,744000140661230,FRESHWORKS,Senior Director - Product Design,"Bengaluru, India",open
@@ -1007,9 +1005,7 @@
 2026-10-01,lever_zeta,0d256e24-19cb-4d1d-8d30-9572aa142f11,ZETA,Manager - Talent Management,"Hyderabad, India",open
 2026-10-01,lever_zeta,0d256e24-19cb-4d1d-8d30-9572aa142f11,ZETA,Manager - Talent Management,"Hyderabad, India",open
 2026-10-02,smartrecruiters_freshworks,744000142103816,FRESHWORKS,Senior Business Development Manager,"Bengaluru, India",closed
-2026-10-02,smartrecruiters_freshworks,744000140034955,FRESHWORKS,Specialist - Content Creation,"London, UK",closed
 2026-10-02,smartrecruiters_freshworks,744000149926757,FRESHWORKS,Customer Success Manager — Key & Enterprise,"Boston, US",closed
-2026-10-02,smartrecruiters_freshworks,744000139157999,FRESHWORKS,Lead - Solution Engineer,"Boston, US",closed
 2026-10-02,smartrecruiters_freshworks,744000139157259,FRESHWORKS,Lead - Solution Engineer,"San Mateo, US",closed
 2026-10-02,smartrecruiters_freshworks,744000139050259,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),"Bengaluru, India",closed
 2026-10-02,smartrecruiters_freshworks,744000153038761,FRESHWORKS,Lead Customer Success Manager,"San Mateo, US",open
@@ -1040,3 +1036,7 @@
 2026-10-02,greenhouse_razorpay,4739578005,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager,"Bengaluru, India",open
 2026-10-02,lever_zeta,632d6320-6db1-4504-8640-a89aed0bbd2b,ZETA,Product Manager II,"Bengaluru, India",open
 2026-10-02,lever_zeta,632d6320-6db1-4504-8640-a89aed0bbd2b,ZETA,Product Manager II,"Bengaluru, India",open
+2026-10-04,smartrecruiters_freshworks,744000141317959,FRESHWORKS,Global Head of Partner Strategy & Operations,"Bellevue, US",closed
+2026-10-04,smartrecruiters_freshworks,744000141317789,FRESHWORKS,Global Head of Partner Strategy & Operations,"San Mateo, US",closed
+2026-10-04,smartrecruiters_freshworks,744000140034955,FRESHWORKS,Specialist - Content Creation,"London, UK",open
+2026-10-04,smartrecruiters_freshworks,744000139157999,FRESHWORKS,Lead - Solution Engineer,"Boston, US",open
