@@ -1,4 +1,10 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+718,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
+717,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
+716,2026-10-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
+715,2026-10-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
+714,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Sales Commission,NEW,,2026-10-05 19:02:02.186767
+713,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,NEW,,2026-10-05 19:02:02.186767
 712,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-03 19:01:41.397062
 711,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-03 19:01:41.397062
 710,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-10-03 19:01:41.397062
@@ -493,9 +499,3 @@
 221,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Austria & Switzerland (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
 220,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Value Engineer,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
 219,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-218,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),UPDATED,"{""location"": {""from"": ""Washington, India"", ""to"": ""Washington, US""}}",2026-08-27 11:06:54.416614
-217,2026-08-27,lever_zeta,ZETA,Vice President - Sales & Business Development,UPDATED,"{""location"": {""from"": ""Usa, US"", ""to"": ""US""}}",2026-08-27 11:06:54.416614
-216,2026-08-27,lever_zeta,ZETA,Specialist Total Rewards,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-215,2026-08-27,lever_zeta,ZETA,Specialist / Manager – People Tech & Transformation,UPDATED,"{""location"": {""from"": ""Mumbai"", ""to"": ""Mumbai, India""}}",2026-08-27 11:06:54.416614
-214,2026-08-27,lever_zeta,ZETA,Specialist - People Partner,UPDATED,"{""location"": {""from"": ""Bengaluru"", ""to"": ""Bengaluru, India""}}",2026-08-27 11:06:54.416614
-213,2026-08-27,lever_zeta,ZETA,Solution Train Manager,UPDATED,"{""location"": {""from"": ""Hyderabad, Germany"", ""to"": ""Hyderabad, India""}}",2026-08-27 11:06:54.416614
