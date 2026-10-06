@@ -1,4 +1,17 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+731,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-06 19:03:13.670521
+730,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-06 19:03:13.670521
+729,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Senior Director - Business Execution,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-06 19:03:13.670521
+728,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,"Vice President, Corporate Legal & Compliance ",NEW,,2026-10-06 19:03:13.670521
+727,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Commercial Sales Director,NEW,,2026-10-06 19:03:13.670521
+726,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Commercial Sales Director,NEW,,2026-10-06 19:03:13.670521
+725,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,NEW,,2026-10-06 19:03:13.670521
+724,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,NEW,,2026-10-06 19:03:13.670521
+723,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,NEW,,2026-10-06 19:03:13.670521
+722,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,NEW,,2026-10-06 19:03:13.670521
+721,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,UPDATED,"{""title"": {""from"": ""Product Manager II - AI "", ""to"": ""Product Manager II""}, ""updated_at"": {""from"": ""2026-09-28T07:02:10-04:00"", ""to"": ""2026-10-06T06:56:48-04:00""}}",2026-10-06 19:03:13.670521
+720,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,NEW,,2026-10-06 19:03:13.670521
+719,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations",NEW,,2026-10-06 19:03:13.670521
 718,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
 717,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
 716,2026-10-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
@@ -486,16 +499,3 @@
 234,2026-08-27,lever_cred,CRED,area collections manager chennai- flows,UPDATED,"{""location"": {""from"": ""Tamil Nadu"", ""to"": ""Tamil Nadu, India""}}",2026-08-27 11:08:03.923339
 233,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
 232,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
-231,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
-230,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),UPDATED,"{""location"": {""from"": ""Austin, India"", ""to"": ""Austin, US""}}",2026-08-27 11:06:54.416614
-229,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead Account Executive(Swedish/Finnish/Danish/Norwegian speaking),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-228,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - UK,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-227,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager - Germany (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
-226,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist (UKI & Nordics),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-225,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise (SLED),UPDATED,"{""location"": {""from"": ""Austin, India"", ""to"": ""Austin, US""}}",2026-08-27 11:06:54.416614
-224,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer(Dutch speaking),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-223,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering(Dutch speaking),UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-222,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Lead - Revenue Enablement,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-221,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Austria & Switzerland (m/f/d),UPDATED,"{""location"": {""from"": ""Berlin, India"", ""to"": ""Germany""}}",2026-08-27 11:06:54.416614
-220,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Senior Value Engineer,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
-219,2026-08-27,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,UPDATED,"{""location"": {""from"": ""London, UK"", ""to"": ""UK""}}",2026-08-27 11:06:54.416614
