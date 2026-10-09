@@ -55,7 +55,6 @@
 2026-08-27,smartrecruiters_freshworks,744000144352309,FRESHWORKS,Senior Corporate PR Manager,"San Mateo, US",open
 2026-08-27,smartrecruiters_freshworks,744000144138769,FRESHWORKS,Account Executive - Enterprise (SLED),"Austin, US",open
 2026-08-27,smartrecruiters_freshworks,744000144138719,FRESHWORKS,Account Executive - Enterprise (SLED),"Chicago, US",open
-2026-08-27,smartrecruiters_freshworks,744000144138279,FRESHWORKS,Account Executive - Enterprise (SLED),"Dallas, US",open
 2026-08-27,smartrecruiters_freshworks,744000143763123,FRESHWORKS,Channel Sales Manager - UK,"London, UK",open
 2026-08-27,smartrecruiters_freshworks,744000143743519,FRESHWORKS,Lead - Data Platform Engineering,"Chennai, India",open
 2026-08-27,smartrecruiters_freshworks,744000143642119,FRESHWORKS,Senior Analyst - Order Management,"Chennai, India",closed
@@ -258,7 +257,6 @@
 2026-08-27,greenhouse_razorpay,4651045005,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,Malaysia,open
 2026-08-27,lever_zeta,f43a76bd-ec4e-4b4b-a331-93d5d85434a5,ZETA,Corporate Risk and Compliance - Associate II,"Bengaluru, India",open
 2026-08-27,lever_zeta,aa98c726-9336-4d99-be08-20050eaf309c,ZETA,Executive - IT Support,"Mumbai, India",open
-2026-08-27,lever_zeta,32ea9654-98a8-445b-98ef-e6ada520d35a,ZETA,Lead / Manager Data Reliability Engineering,"Hyderabad, India",open
 2026-08-27,lever_zeta,803792f5-0e9c-45bc-82ce-c0a552ce0cf8,ZETA,Lead Site Reliability Engineer,"Hyderabad, India",open
 2026-08-27,lever_zeta,a21f18a4-c899-4743-9264-e506990bcdcb,ZETA,Lead Site Reliability Engineer,"Hyderabad, India",closed
 2026-08-27,lever_zeta,2d533970-99a7-444b-b410-39921d0c96f7,ZETA,Manager - Accounts,"Mumbai, India",open
@@ -900,7 +898,6 @@
 2026-09-29,greenhouse_razorpay,4727238005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances","Bengaluru, India",open
 2026-09-29,greenhouse_razorpay,4709725005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",Singapore,open
 2026-09-29,greenhouse_razorpay,4721391005,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Consultant,Malaysia,open
-2026-09-29,greenhouse_razorpay,4729051005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,"Bengaluru, India",open
 2026-09-29,greenhouse_razorpay,4719411005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO","Bengaluru, India",open
 2026-09-29,greenhouse_razorpay,4730552005,RAZORPAY SOFTWARE PRIVATE LIMITED,DevOps Enginer,Malaysia,open
 2026-09-29,greenhouse_razorpay,4731043005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Business Operations","Bengaluru, India",closed
@@ -1048,7 +1045,6 @@
 2026-10-07,smartrecruiters_freshworks,744000153616609,FRESHWORKS,"Vice President, Corporate Legal & Compliance ","San Mateo, US",open
 2026-10-07,greenhouse_razorpay,4723040005,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,"Bengaluru, India",open
 2026-10-07,greenhouse_razorpay,4739199005,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,"Bengaluru, India",open
-2026-10-07,greenhouse_razorpay,4736585005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,"Bengaluru, India",open
 2026-10-07,greenhouse_razorpay,4699107005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",open
 2026-10-07,greenhouse_razorpay,4715389005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",open
 2026-10-07,greenhouse_razorpay,4723040005,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,"Bengaluru, India",open
@@ -1073,9 +1069,7 @@
 2026-10-08,greenhouse_razorpay,4736979005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,"Gurugram, India",closed
 2026-10-08,greenhouse_razorpay,4740730005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances","Lucknow, India",open
 2026-10-08,greenhouse_razorpay,4740722005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management ","Bengaluru, India",open
-2026-10-08,greenhouse_razorpay,4737935005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Partnerships ","Bengaluru, India",open
 2026-10-08,greenhouse_razorpay,4740737005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Alliance","Bengaluru, India",open
-2026-10-08,greenhouse_razorpay,4739576005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, HRBP Operations","Bengaluru, India",open
 2026-10-08,greenhouse_razorpay,4740305005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Learning Business Partner","Bengaluru, India",open
 2026-10-08,greenhouse_razorpay,4736141005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales","Bengaluru, India",open
 2026-10-08,greenhouse_razorpay,4740498005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations","Bengaluru, India",closed
@@ -1090,6 +1084,20 @@
 2026-10-09,smartrecruiters_freshworks,744000150125035,FRESHWORKS,Lead - Account Manager,"London, UK",closed
 2026-10-09,smartrecruiters_freshworks,744000154405299,FRESHWORKS,Lead Software Engineer - Systems,"Chennai, India",open
 2026-10-09,smartrecruiters_freshworks,744000154351019,FRESHWORKS,Staff Engineer - Full Stack,"Chennai, India",open
+2026-10-09,smartrecruiters_freshworks,744000140562379,FRESHWORKS,Account Executive - Enterprise ,"Chicago, US",closed
+2026-10-09,smartrecruiters_freshworks,744000150125035,FRESHWORKS,Lead - Account Manager,"London, UK",closed
+2026-10-09,smartrecruiters_freshworks,744000154405299,FRESHWORKS,Lead Software Engineer - Systems,"Chennai, India",open
+2026-10-09,smartrecruiters_freshworks,744000154351019,FRESHWORKS,Staff Engineer - Full Stack,"Chennai, India",open
+2026-10-09,greenhouse_razorpay,4699107005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",closed
+2026-10-09,greenhouse_razorpay,4729533005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,"Bengaluru, India",closed
+2026-10-09,greenhouse_razorpay,4715389005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",closed
+2026-10-09,greenhouse_razorpay,4736136005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Mid Market Sales","Bengaluru, India",closed
+2026-10-09,greenhouse_razorpay,4736132005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales","Chennai, India",open
+2026-10-09,greenhouse_razorpay,4736965005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",closed
+2026-10-09,greenhouse_razorpay,4739578005,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager,"Bengaluru, India",closed
+2026-10-09,greenhouse_razorpay,4741212005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Assistant Manager, Vigilance","Bengaluru, India",open
+2026-10-09,greenhouse_razorpay,4738311005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Analyst, Risk Management ","Bengaluru, India",open
+2026-10-09,greenhouse_razorpay,4741222005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Communication Designer,"Bengaluru, India",open
 2026-10-09,greenhouse_razorpay,4699107005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",closed
 2026-10-09,greenhouse_razorpay,4729533005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,"Bengaluru, India",closed
 2026-10-09,greenhouse_razorpay,4715389005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",closed
@@ -1102,3 +1110,13 @@
 2026-10-09,greenhouse_razorpay,4738311005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Analyst, Risk Management ","Bengaluru, India",open
 2026-10-09,greenhouse_razorpay,4741222005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Communication Designer,"Bengaluru, India",open
 2026-10-09,lever_zeta,5eb7a75b-312c-4759-8813-70e67b5d4109,ZETA,Lead Site Reliability Engineer,"Hyderabad, India",closed
+2026-10-09,lever_zeta,5eb7a75b-312c-4759-8813-70e67b5d4109,ZETA,Lead Site Reliability Engineer,"Hyderabad, India",closed
+2026-10-10,smartrecruiters_freshworks,744000144138279,FRESHWORKS,Account Executive - Enterprise (SLED),"Austin, US",open
+2026-10-10,greenhouse_razorpay,4729051005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,"Bengaluru, India",closed
+2026-10-10,greenhouse_razorpay,4736585005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,"Bengaluru, India",closed
+2026-10-10,greenhouse_razorpay,4737935005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Partnerships ","Bengaluru, India",closed
+2026-10-10,greenhouse_razorpay,4739576005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, HRBP Operations (Contract Role)","Bengaluru, India",open
+2026-10-10,greenhouse_razorpay,4741226005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances","Chennai, India",open
+2026-10-10,greenhouse_razorpay,4740728005,RAZORPAY SOFTWARE PRIVATE LIMITED," Analyst, Banking Alliances ","Bengaluru, India",open
+2026-10-10,greenhouse_razorpay,4704952005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border","Bengaluru, India",open
+2026-10-10,lever_zeta,32ea9654-98a8-445b-98ef-e6ada520d35a,ZETA,Manager Data Reliability Engineering,"Hyderabad, India",open

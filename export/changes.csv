@@ -1,4 +1,13 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+771,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Partnerships ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
+770,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
+769,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
+768,2026-10-10,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise (SLED),UPDATED,"{""location"": {""from"": ""Dallas, US"", ""to"": ""Austin, US""}}",2026-10-09 19:02:07.960520
+767,2026-10-10,lever_zeta,ZETA,Manager Data Reliability Engineering,UPDATED,"{""title"": {""from"": ""Lead / Manager Data Reliability Engineering"", ""to"": ""Manager Data Reliability Engineering""}}",2026-10-09 19:02:07.960520
+766,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, HRBP Operations (Contract Role)",UPDATED,"{""title"": {""from"": ""Senior Associate, HRBP Operations"", ""to"": ""Senior Associate, HRBP Operations (Contract Role)""}, ""updated_at"": {""from"": ""2026-10-07T04:14:51-04:00"", ""to"": ""2026-10-09T05:28:37-04:00""}}",2026-10-09 19:02:07.960520
+765,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border",NEW,,2026-10-09 19:02:07.960520
+764,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances",UPDATED,"{""updated_at"": {""from"": ""2026-10-08T09:10:53-04:00"", ""to"": ""2026-10-09T04:59:36-04:00""}}",2026-10-09 19:02:07.960520
+763,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED," Analyst, Banking Alliances ",NEW,,2026-10-09 19:02:07.960520
 762,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
 761,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
 760,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Mid Market Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
@@ -490,12 +499,3 @@
 274,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Specialist - Strategic Sourcing,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-31 15:31:28.986565
 273,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Principal Value Engineer,NEW,,2026-08-31 15:31:28.986565
 272,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Staff Data Privacy Engineer,NEW,,2026-08-31 15:31:28.986565
-271,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,NEW,,2026-08-31 15:31:28.986565
-270,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Product Marketing",NEW,,2026-08-31 15:31:28.986565
-269,2026-08-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Banking Alliances",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-30 15:31:46.991450
-268,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,Specialist - Customer Success (EX - ASEAN),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-29 15:31:02.337032
-267,2026-08-29,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Corporate Strategy",NEW,,2026-08-29 15:31:02.337032
-266,2026-08-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Technical Program Manager,NEW,,2026-08-29 15:31:02.337032
-265,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
-264,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
-263,2026-08-28,smartrecruiters_freshworks,FRESHWORKS,AI Product Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-28 15:31:29.627000
