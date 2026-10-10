@@ -1,4 +1,5 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+772,2026-10-11,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),UPDATED,"{""location"": {""from"": ""Boston, US"", ""to"": ""New York, US""}}",2026-10-10 19:01:38.357836
 771,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Partnerships ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
 770,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
 769,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
@@ -498,4 +499,3 @@
 275,2026-09-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",NEW,,2026-09-01 15:31:47.324726
 274,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Specialist - Strategic Sourcing,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-08-31 15:31:28.986565
 273,2026-08-31,smartrecruiters_freshworks,FRESHWORKS,Principal Value Engineer,NEW,,2026-08-31 15:31:28.986565
-272,2026-08-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Staff Data Privacy Engineer,NEW,,2026-08-31 15:31:28.986565
