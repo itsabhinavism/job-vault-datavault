@@ -1,4 +1,17 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+828,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, HRBP Operations (Contract Role)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
+827,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
+826,2026-10-16,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
+825,2026-10-16,lever_zeta,ZETA,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
+824,2026-10-16,lever_zeta,ZETA,Product Manager I,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
+823,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
+822,2026-10-16,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
+821,2026-10-16,smartrecruiters_freshworks,FRESHWORKS,"Staff Engineer, Web Operations",NEW,,2026-10-15 19:02:36.827714
+820,2026-10-16,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Machine Learning,NEW,,2026-10-15 19:02:36.827714
+819,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,NEW,,2026-10-15 19:02:36.827714
+818,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,NEW,,2026-10-15 19:02:36.827714
+817,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Regional Manger, Enterprise Sales - Bank & Direct",UPDATED,"{""updated_at"": {""from"": ""2026-10-12T08:07:08-04:00"", ""to"": ""2026-10-15T03:07:45-04:00""}}",2026-10-15 19:02:36.827714
+816,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Cluster Manager, Enterprise Sales - Bank & Direct",UPDATED,"{""updated_at"": {""from"": ""2026-10-12T08:09:03-04:00"", ""to"": ""2026-10-15T03:08:42-04:00""}}",2026-10-15 19:02:36.827714
 815,2026-10-15,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Assistant Manager, Vigilance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-14 19:01:54.732310
 814,2026-10-15,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-14 19:01:54.732310
 813,2026-10-15,lever_zeta,ZETA,Director - Strategy & Operations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-14 19:01:54.732310
@@ -486,16 +499,3 @@
 331,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Learning Business Partner",NEW,,2026-09-04 15:31:55.415884
 330,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Business Operations",NEW,,2026-09-04 15:31:55.415884
 329,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Principal Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-328,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-327,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-326,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,"Senior Product Marketing Manager, Freshservice",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-325,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lifecycle Marketing Specialist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-324,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Lifecycle Marketing Specialist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-323,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Senior Software Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-322,2026-09-03,lever_zeta,ZETA,Financial Analyst,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-321,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-320,2026-09-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Learning Business Partner",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-03 15:32:20.481375
-319,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,"Director, Freshworks Internal Creative Services",NEW,,2026-09-03 15:32:20.481375
-318,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-09-03 15:32:20.481375
-317,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,NEW,,2026-09-03 15:32:20.481375
-316,2026-09-03,smartrecruiters_freshworks,FRESHWORKS,Channel Partner Manager -  DACH (m/f/d),NEW,,2026-09-03 15:32:20.481375
