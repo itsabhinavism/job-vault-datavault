@@ -1,4 +1,16 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+856,2026-10-20,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Software Development Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-19 19:01:40.380236
+855,2026-10-20,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-19 19:01:40.380236
+854,2026-10-20,smartrecruiters_freshworks,FRESHWORKS,Enterprise Sales Director UKI,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-19 19:01:40.380236
+853,2026-10-20,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-19 19:01:40.380236
+852,2026-10-20,smartrecruiters_freshworks,FRESHWORKS,Senior Director - Product Design,NEW,,2026-10-19 19:01:40.380236
+851,2026-10-20,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,NEW,,2026-10-19 19:01:40.380236
+850,2026-10-20,lever_cred,CRED,"area collections manager, pune (recoveries)",NEW,,2026-10-19 19:01:40.380236
+849,2026-10-20,lever_cred,CRED,area collection manager east - recovery,NEW,,2026-10-19 19:01:40.380236
+848,2026-10-20,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Associate - Corporate Strategy ,NEW,,2026-10-19 19:01:40.380236
+847,2026-10-20,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Database Administrator,NEW,,2026-10-19 19:01:40.380236
+846,2026-10-20,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Alliance",NEW,,2026-10-19 19:01:40.380236
+845,2026-10-20,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Business Analyst ,NEW,,2026-10-19 19:01:40.380236
 844,2026-10-18,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Software Development Engineer,NEW,,2026-10-17 19:01:36.439514
 843,2026-10-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-17 08:50:26.620395
 842,2026-10-17,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales (CX NA Inbound),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-17 08:50:26.620395
@@ -487,15 +499,3 @@
 359,2026-09-07,smartrecruiters_freshworks,FRESHWORKS,Lead - Product Marketing,NEW,,2026-09-07 15:31:10.004232
 358,2026-09-07,smartrecruiters_freshworks,FRESHWORKS,Lead Account Executive (Spanish speaking),NEW,,2026-09-07 15:31:10.004232
 357,2026-09-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,UPDATED,"{""updated_at"": {""from"": ""2026-09-02T01:19:32-04:00"", ""to"": ""2026-09-07T00:34:39-04:00""}}",2026-09-07 15:31:10.004232
-356,2026-09-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Associate - Corporate Strategy ,NEW,,2026-09-07 15:31:10.004232
-355,2026-09-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,UPDATED,"{""updated_at"": {""from"": ""2026-09-02T01:18:15-04:00"", ""to"": ""2026-09-07T00:34:00-04:00""}}",2026-09-07 15:31:10.004232
-354,2026-09-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,NEW,,2026-09-07 15:31:10.004232
-353,2026-09-05,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Technical Program Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-05 15:31:28.434986
-352,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
-351,2026-09-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Engineer (Platform),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
-350,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
-349,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
-348,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
-347,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
-346,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
-345,2026-09-04,smartrecruiters_freshworks,FRESHWORKS,Channel Sales Manager (East),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-04 15:31:55.415884
