@@ -670,7 +670,6 @@
 2026-09-19,smartrecruiters_freshworks,744000149736849,FRESHWORKS,"Senior Director, Sales – North America Verticals","Boston, US",closed
 2026-09-19,smartrecruiters_freshworks,744000149736649,FRESHWORKS,"Senior Director, Sales – North America Verticals","San Mateo, US",closed
 2026-09-19,smartrecruiters_freshworks,744000150132609,FRESHWORKS,Strategic Account Manager,"London, UK",closed
-2026-09-19,smartrecruiters_freshworks,744000150405149,FRESHWORKS,Creative Director,"San Mateo, US",open
 2026-09-19,smartrecruiters_freshworks,744000150201754,FRESHWORKS,"Senior Director, Sales – North America Verticals","Boston, US",open
 2026-09-19,smartrecruiters_freshworks,744000150200430,FRESHWORKS,"Senior Director, Sales – North America Verticals","San Mateo, US",open
 2026-09-19,smartrecruiters_freshworks,744000145350698,FRESHWORKS,Digital Marketing Lead,"Boston, US",closed
@@ -1134,7 +1133,6 @@
 2026-10-14,greenhouse_razorpay,4736982005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Territory Manager, Bank Retail & Direct Enterprise Sales","Kolkata, India",open
 2026-10-14,lever_zeta,c92d46af-5d64-4152-bc75-c9844f1dccf7,ZETA,Senior Associate Legal,"Mumbai, India",open
 2026-10-14,lever_zeta,c92d46af-5d64-4152-bc75-c9844f1dccf7,ZETA,Senior Associate Legal,"Mumbai, India",open
-2026-10-15,smartrecruiters_freshworks,744000140562379,FRESHWORKS,Account Executive - Enterprise ,"Chicago, US",closed
 2026-10-15,smartrecruiters_freshworks,744000140562150,FRESHWORKS,Account Executive - Enterprise ,"Dallas, US",closed
 2026-10-15,smartrecruiters_freshworks,744000155564119,FRESHWORKS,"Director, Digital Experience","San Mateo, US",open
 2026-10-15,smartrecruiters_freshworks,744000155421099,FRESHWORKS,Senior Business Development Manager - MEA / India (Enterprise) ,"Bengaluru, India",open
@@ -1216,13 +1214,28 @@
 2026-10-18,greenhouse_razorpay,4743544005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Software Development Engineer,"Bengaluru, India",open
 2026-10-20,lever_cred,91a5f0f1-b11f-412a-a816-ffc8b08a5617,CRED,"area collections manager, pune (recoveries)","Mumbai, India",open
 2026-10-20,lever_cred,76b5d976-5230-4939-b1ad-4b7d51a40396,CRED,area collection manager east - recovery,Multiple,open
+2026-10-20,lever_cred,91a5f0f1-b11f-412a-a816-ffc8b08a5617,CRED,"area collections manager, pune (recoveries)","Mumbai, India",open
+2026-10-20,lever_cred,76b5d976-5230-4939-b1ad-4b7d51a40396,CRED,area collection manager east - recovery,Multiple,open
 2026-10-20,smartrecruiters_freshworks,744000140661230,FRESHWORKS,Senior Director - Product Design,"Bengaluru, India",open
 2026-10-20,smartrecruiters_freshworks,744000148213540,FRESHWORKS,Enterprise Sales Director UKI,"London, UK",closed
 2026-10-20,smartrecruiters_freshworks,744000153588867,FRESHWORKS,Lead - Program Management,"San Mateo, US",closed
 2026-10-20,smartrecruiters_freshworks,744000156328949,FRESHWORKS,Lead - Program Management,"San Mateo, US",open
+2026-10-20,smartrecruiters_freshworks,744000140661230,FRESHWORKS,Senior Director - Product Design,"Bengaluru, India",open
+2026-10-20,smartrecruiters_freshworks,744000148213540,FRESHWORKS,Enterprise Sales Director UKI,"London, UK",closed
+2026-10-20,smartrecruiters_freshworks,744000153588867,FRESHWORKS,Lead - Program Management,"San Mateo, US",closed
+2026-10-20,smartrecruiters_freshworks,744000156328949,FRESHWORKS,Lead - Program Management,"San Mateo, US",open
+2026-10-20,greenhouse_razorpay,4721861005,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,"Bengaluru, India",closed
+2026-10-20,greenhouse_razorpay,4740737005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Alliance","Mumbai, India",open
+2026-10-20,greenhouse_razorpay,4743544005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Software Development Engineer,"Bengaluru, India",closed
+2026-10-20,greenhouse_razorpay,4744101005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Database Administrator,"Bengaluru, India",open
 2026-10-20,greenhouse_razorpay,4725604005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Associate - Corporate Strategy ,"Bengaluru, India",open
 2026-10-20,greenhouse_razorpay,4721861005,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,"Bengaluru, India",closed
 2026-10-20,greenhouse_razorpay,4736955005,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Business Analyst ,"Bengaluru, India",open
 2026-10-20,greenhouse_razorpay,4740737005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Alliance","Mumbai, India",open
 2026-10-20,greenhouse_razorpay,4743544005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Software Development Engineer,"Bengaluru, India",closed
 2026-10-20,greenhouse_razorpay,4744101005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Database Administrator,"Bengaluru, India",open
+2026-10-21,smartrecruiters_freshworks,744000140562379,FRESHWORKS,Account Executive - Enterprise ,"Chicago, US",open
+2026-10-21,smartrecruiters_freshworks,744000150405149,FRESHWORKS,Creative Director,"San Mateo, US",closed
+2026-10-21,greenhouse_razorpay,4725604005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Associate - Corporate Strategy ,"Bengaluru, India",closed
+2026-10-21,greenhouse_razorpay,4736955005,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Business Analyst ,"Bengaluru, India",closed
+2026-10-21,greenhouse_razorpay,4744129005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Data Analyst, Business Finance","Bengaluru, India",open
