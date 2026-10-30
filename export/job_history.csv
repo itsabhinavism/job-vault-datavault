@@ -825,7 +825,6 @@
 2026-09-26,smartrecruiters_freshworks,744000151905570,FRESHWORKS,Lead - Program Management,"San Mateo, US",open
 2026-09-26,smartrecruiters_freshworks,744000151805094,FRESHWORKS,Lead - Solution Engineer,Singapore,open
 2026-09-26,smartrecruiters_freshworks,744000151772990,FRESHWORKS,Lead Software Engineer - Site Reliability,"Hyderabad, India",open
-2026-09-26,greenhouse_razorpay,4736959005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Business Analyst,"Bengaluru, India",closed
 2026-09-26,greenhouse_razorpay,4727722005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance","Bengaluru, India",open
 2026-09-26,greenhouse_razorpay,4733878005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership","Mumbai, India",open
 2026-09-26,greenhouse_razorpay,4735389005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP","Bengaluru, India",open
@@ -941,7 +940,6 @@
 2026-10-02,smartrecruiters_freshworks,744000153037804,FRESHWORKS,Lead Customer Success Manager,"Boston, US",open
 2026-10-02,smartrecruiters_freshworks,744000152914589,FRESHWORKS,Principal Engineer - Machine Learning,"Hyderabad, India",open
 2026-10-02,smartrecruiters_freshworks,744000152895704,FRESHWORKS,Principal Engineer - Machine Learning,"Chennai, India",open
-2026-10-02,smartrecruiters_freshworks,744000152876590,FRESHWORKS,Enterprise Account Executive,"London, UK",open
 2026-10-02,smartrecruiters_freshworks,744000152879120,FRESHWORKS,Lead - Account Executive,"London, UK",open
 2026-10-02,smartrecruiters_freshworks,744000142103816,FRESHWORKS,Senior Business Development Manager,"Bengaluru, India",closed
 2026-10-02,smartrecruiters_freshworks,744000140034955,FRESHWORKS,Specialist - Content Creation,"London, UK",closed
@@ -1011,7 +1009,6 @@
 2026-10-08,smartrecruiters_freshworks,744000153859554,FRESHWORKS,Business Development Manager,"Boston, US",open
 2026-10-08,greenhouse_razorpay,4740498005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations","Bengaluru, India",closed
 2026-10-08,greenhouse_razorpay,4736979005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,"Gurugram, India",closed
-2026-10-08,greenhouse_razorpay,4740730005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances","Lucknow, India",open
 2026-10-08,greenhouse_razorpay,4736141005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales","Bengaluru, India",open
 2026-10-08,greenhouse_razorpay,4740498005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations","Bengaluru, India",closed
 2026-10-08,greenhouse_razorpay,4736979005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,"Gurugram, India",closed
@@ -1307,7 +1304,6 @@
 2026-10-28,greenhouse_razorpay,4741230005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Regional Manger, Enterprise Sales - Bank & Direct","Mumbai, India",open
 2026-10-28,greenhouse_razorpay,4744129005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Data Analyst, Business Finance","Bengaluru, India",closed
 2026-10-28,greenhouse_razorpay,4736957005,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Business Analyst ,"Bengaluru, India",closed
-2026-10-28,greenhouse_razorpay,4746985005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Product Marketing Manager, II","Bengaluru, India",closed
 2026-10-28,greenhouse_razorpay,4744950005,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Builder,"Bengaluru, India",open
 2026-10-28,greenhouse_razorpay,4746948005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Security Engineer,"Bengaluru, India",open
 2026-10-28,greenhouse_razorpay,4704952005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border","Bengaluru, India",open
@@ -1332,8 +1328,6 @@
 2026-10-29,smartrecruiters_freshworks,744000144728625,FRESHWORKS,Senior Analyst - Cybersecurity,"Chennai, India",closed
 2026-10-29,smartrecruiters_freshworks,744000141973031,FRESHWORKS,Lead - Solution Engineer,"San Mateo, US",open
 2026-10-29,smartrecruiters_freshworks,744000141975441,FRESHWORKS,Lead - Vendor Management,"San Mateo, US",open
-2026-10-29,smartrecruiters_freshworks,744000141842029,FRESHWORKS,Lead - Business Systems Services,"Chennai, India",open
-2026-10-29,smartrecruiters_freshworks,744000140882260,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,"Chennai, India",open
 2026-10-29,smartrecruiters_freshworks,744000147296104,FRESHWORKS,"Senior Director, Engineering - AI Studio (CX & EX)","Chennai, India",closed
 2026-10-29,smartrecruiters_freshworks,744000148525215,FRESHWORKS,"Technical Product Marketing Manager, AI","San Mateo, US",closed
 2026-10-29,smartrecruiters_freshworks,744000148522779,FRESHWORKS,"Technical Product Marketing Manager, AI","Boston, US",closed
@@ -1366,6 +1360,15 @@
 2026-10-30,lever_cred,af4cc539-ea8b-4405-8067-2d7d729c9759,CRED,area collections manager chennai- flows,"Tamil Nadu, India",open
 2026-10-30,lever_cred,8b535f0b-1c68-4982-95b0-91f9edb5945e,CRED,area collections manager hyderabad -flows,"Hyderabad, India",open
 2026-10-30,lever_cred,e7edcd33-9faa-4e2f-8a87-4a88719f94ec,CRED,regional collection manager bangalore - flows,"Bengaluru, India",open
+2026-10-30,lever_cred,af4cc539-ea8b-4405-8067-2d7d729c9759,CRED,area collections manager chennai- flows,"Tamil Nadu, India",open
+2026-10-30,lever_cred,8b535f0b-1c68-4982-95b0-91f9edb5945e,CRED,area collections manager hyderabad -flows,"Hyderabad, India",open
+2026-10-30,lever_cred,e7edcd33-9faa-4e2f-8a87-4a88719f94ec,CRED,regional collection manager bangalore - flows,"Bengaluru, India",open
+2026-10-30,smartrecruiters_freshworks,744000140744969,FRESHWORKS,Senior Manager - Employee Relations,"San Mateo, US",closed
+2026-10-30,smartrecruiters_freshworks,744000147982299,FRESHWORKS,Channel Partner Manager - France & Nordics,"Paris, France",closed
+2026-10-30,smartrecruiters_freshworks,744000152206290,FRESHWORKS,Corporate Strategy Manager (Consulting & Strategy),"Bengaluru, India",closed
+2026-10-30,smartrecruiters_freshworks,744000158477994,FRESHWORKS,Senior Engineering Manager - Billing Platform,"Bengaluru, India",open
+2026-10-30,smartrecruiters_freshworks,744000158439546,FRESHWORKS,Lead - Account Management,"Chennai, India",open
+2026-10-30,smartrecruiters_freshworks,744000158438110,FRESHWORKS,Lead - Customer Success,"Chennai, India",open
 2026-10-30,smartrecruiters_freshworks,744000140744969,FRESHWORKS,Senior Manager - Employee Relations,"San Mateo, US",closed
 2026-10-30,smartrecruiters_freshworks,744000147982299,FRESHWORKS,Channel Partner Manager - France & Nordics,"Paris, France",closed
 2026-10-30,smartrecruiters_freshworks,744000152206290,FRESHWORKS,Corporate Strategy Manager (Consulting & Strategy),"Bengaluru, India",closed
@@ -1373,7 +1376,26 @@
 2026-10-30,smartrecruiters_freshworks,744000158439546,FRESHWORKS,Lead - Account Management,"Chennai, India",open
 2026-10-30,smartrecruiters_freshworks,744000158438110,FRESHWORKS,Lead - Customer Success,"Chennai, India",open
 2026-10-30,greenhouse_razorpay,4729533005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,"Bengaluru, India",open
+2026-10-30,greenhouse_razorpay,4745511005,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Builder (Senior Product Designer),"Bengaluru, India",open
+2026-10-30,greenhouse_razorpay,4748409005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, SME Sales","Bengaluru, India",open
+2026-10-30,greenhouse_razorpay,4748774005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Strategic Accounts","Bengaluru, India",open
+2026-10-30,greenhouse_razorpay,4729533005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,"Bengaluru, India",open
 2026-10-30,greenhouse_razorpay,4736136005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Mid Market Sales","Bengaluru, India",closed
 2026-10-30,greenhouse_razorpay,4745511005,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Builder (Senior Product Designer),"Bengaluru, India",open
 2026-10-30,greenhouse_razorpay,4748409005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, SME Sales","Bengaluru, India",open
 2026-10-30,greenhouse_razorpay,4748774005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Strategic Accounts","Bengaluru, India",open
+2026-10-31,lever_cred,224c14b0-0317-4512-b380-60c8acb2d4c2,CRED,issuance growth lead,"Bengaluru, India",open
+2026-10-31,smartrecruiters_freshworks,744000141842029,FRESHWORKS,Lead - Business Systems Services,"Chennai, India",closed
+2026-10-31,smartrecruiters_freshworks,744000140882260,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,"Chennai, India",closed
+2026-10-31,smartrecruiters_freshworks,744000152876590,FRESHWORKS,Enterprise Account Executive,"London, UK",closed
+2026-10-31,smartrecruiters_freshworks,744000158808860,FRESHWORKS,"Senior Director, AI Platform","San Mateo, US",open
+2026-10-31,smartrecruiters_freshworks,744000158790545,FRESHWORKS,"SVP, Corporate Communications & Brand Marketing","San Mateo, US",open
+2026-10-31,smartrecruiters_freshworks,744000158663459,FRESHWORKS,Senior Account Executive - Inside Sales,"Chennai, India",open
+2026-10-31,greenhouse_razorpay,4736136005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Mid Market Sales","Bengaluru, India",open
+2026-10-31,greenhouse_razorpay,4736959005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Business Analyst,"Bengaluru, India",open
+2026-10-31,greenhouse_razorpay,4740730005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances","Lucknow, India",closed
+2026-10-31,greenhouse_razorpay,4746985005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Product Marketing Manager, II","Bengaluru, India",open
+2026-10-31,greenhouse_razorpay,4748365005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Banking Alliances","Bengaluru, India",open
+2026-10-31,greenhouse_razorpay,4748776005,RAZORPAY SOFTWARE PRIVATE LIMITED,Communication Designer,"Bengaluru, India",open
+2026-10-31,greenhouse_razorpay,4746983005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,"Bengaluru, India",open
+2026-10-31,lever_zeta,4dfd3df1-9520-4e20-9b9b-3a1fa80ad323,ZETA,Site Reliability Engineer II,"Hyderabad, India",open
