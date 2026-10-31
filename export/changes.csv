@@ -1,4 +1,10 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+989,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, AI Platform",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-31 19:02:05.332823
+988,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-31 19:02:05.332823
+987,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-31 19:02:05.332823
+986,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, AI Platform (Product Management)",NEW,,2026-10-31 19:02:05.332823
+985,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-10-31 19:02:05.332823
+984,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-10-31 19:02:05.332823
 983,2026-10-31,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-30 19:01:36.602026
 982,2026-10-31,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-30 19:01:36.602026
 981,2026-10-31,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-30 19:01:36.602026
@@ -493,9 +499,3 @@
 492,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
 491,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
 490,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid Market ,NEW,,2026-09-17 19:01:43.217935
-489,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Corporate Strategy Manager (Consulting & Strategy),NEW,,2026-09-17 19:01:43.217935
-488,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,NEW,,2026-09-17 19:01:43.217935
-487,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,NEW,,2026-09-17 19:01:43.217935
-486,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,NEW,,2026-09-17 19:01:43.217935
-485,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,NEW,,2026-09-17 19:01:43.217935
-484,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,NEW,,2026-09-17 19:01:43.217935
