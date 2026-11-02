@@ -1,4 +1,23 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1008,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1007,2026-11-03,lever_zeta,ZETA,Site Reliability Engineer II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1006,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1005,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Communication Designer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1004,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, SME Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1003,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Senior Account Management (EX) - Top Tier NA ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1002,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1001,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED," Analyst, Banking Alliances ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+1000,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+999,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Channel Partner Manager -  DACH (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+998,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Channel Partner Manager -  DACH (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
+997,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,NEW,,2026-11-02 19:02:46.672886
+996,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,NEW,,2026-11-02 19:02:46.672886
+995,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,NEW,,2026-11-02 19:02:46.672886
+994,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Senior Account Management (EX) - Top Tier NA ,NEW,,2026-11-02 19:02:46.672886
+993,2026-11-03,lever_zeta,ZETA,"Vice President, Product and Solutions Engineering",NEW,,2026-11-02 19:02:46.672886
+992,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,NEW,,2026-11-02 19:02:46.672886
+991,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Product Marketing",NEW,,2026-11-02 19:02:46.672886
+990,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations",NEW,,2026-11-02 19:02:46.672886
 989,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, AI Platform",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-31 19:02:05.332823
 988,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-31 19:02:05.332823
 987,2026-11-01,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-31 19:02:05.332823
@@ -480,22 +499,3 @@
 511,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-09-18 19:02:02.117377
 510,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,NEW,,2026-09-18 19:02:02.117377
 509,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-09-18 19:02:02.117377
-508,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Sales – North America Verticals",NEW,,2026-09-18 19:02:02.117377
-507,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Sales – North America Verticals",NEW,,2026-09-18 19:02:02.117377
-506,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Manager,NEW,,2026-09-18 19:02:02.117377
-505,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-09-18 19:02:02.117377
-504,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Creative Director,NEW,,2026-09-18 19:02:02.117377
-503,2026-09-19,lever_zeta,ZETA,Product Manager II,NEW,,2026-09-18 19:02:02.117377
-502,2026-09-19,lever_zeta,ZETA,Product Manager I,NEW,,2026-09-18 19:02:02.117377
-501,2026-09-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Analyst, Group Compliance",UPDATED,"{""updated_at"": {""from"": ""2026-09-15T01:14:33-04:00"", ""to"": ""2026-09-18T02:59:13-04:00""}}",2026-09-18 19:02:02.117377
-500,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid Market ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-499,2026-09-18,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Enterprise Partnerships ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-498,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-497,2026-09-18,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-496,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-495,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Escalation Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-494,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-493,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-492,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-491,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-17 19:01:43.217935
-490,2026-09-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid Market ,NEW,,2026-09-17 19:01:43.217935
