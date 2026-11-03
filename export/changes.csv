@@ -1,4 +1,9 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1013,2026-11-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Product Marketing",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-03 19:02:10.103961
+1012,2026-11-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Builder,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-03 19:02:10.103961
+1011,2026-11-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Business Analyst,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-03 19:02:10.103961
+1010,2026-11-04,lever_zeta,ZETA,Cloud Network Engineer II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-03 19:02:10.103961
+1009,2026-11-04,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Frontend Engineer ,NEW,,2026-11-03 19:02:10.103961
 1008,2026-11-03,smartrecruiters_freshworks,FRESHWORKS,Senior Account Executive - Inside Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
 1007,2026-11-03,lever_zeta,ZETA,Site Reliability Engineer II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
 1006,2026-11-03,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-02 19:02:46.672886
@@ -494,8 +499,3 @@
 516,2026-09-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-18 19:02:02.117377
 515,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Revenue Enablement,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-18 19:02:02.117377
 514,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Digital Marketing Lead,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-18 19:02:02.117377
-513,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Digital Marketing Lead,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-18 19:02:02.117377
-512,2026-09-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Software Development Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-18 19:02:02.117377
-511,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-09-18 19:02:02.117377
-510,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,NEW,,2026-09-18 19:02:02.117377
-509,2026-09-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-09-18 19:02:02.117377
