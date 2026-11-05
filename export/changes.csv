@@ -1,4 +1,21 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1054,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Social Media Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1053,2026-11-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Mid Market Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1052,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1051,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1050,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1049,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Employee Relations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1048,2026-11-06,lever_zeta,ZETA,Specialist - People Partner,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1047,2026-11-06,lever_zeta,ZETA,SIEM & SecOps Engineer II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1046,2026-11-06,lever_zeta,ZETA,Corporate Risk and Compliance - Associate II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
+1045,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Sales (Expansion) (m/f/d),NEW,,2026-11-05 19:03:07.278997
+1044,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive (m/f/d),NEW,,2026-11-05 19:03:07.278997
+1043,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Lead Account Manager- UKI,NEW,,2026-11-05 19:03:07.278997
+1042,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Lead Account Manager- Nordics & Benelux,NEW,,2026-11-05 19:03:07.278997
+1041,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive,NEW,,2026-11-05 19:03:07.278997
+1040,2026-11-06,lever_zeta,ZETA,DevSecOps Engineer II,NEW,,2026-11-05 19:03:07.278997
+1039,2026-11-06,lever_zeta,ZETA,Analyst II - SIEM/SecOps,NEW,,2026-11-05 19:03:07.278997
+1038,2026-11-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager,NEW,,2026-11-05 19:03:07.278997
 1037,2026-11-05,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Frontend Engineer ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 09:07:19.052738
 1036,2026-11-05,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 09:07:19.052738
 1035,2026-11-05,lever_zeta,ZETA,Fraud Risk Analyst – US Banking & Payments,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 09:07:19.052738
@@ -482,20 +499,3 @@
 557,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
 556,2026-09-23,lever_cred,CRED,copywriter,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
 555,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-09-22 19:01:40.336288
-554,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,NEW,,2026-09-22 19:01:40.336288
-553,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-09-22 19:01:40.336288
-552,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,NEW,,2026-09-22 19:01:40.336288
-551,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-09-22 19:01:40.336288
-550,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-09-22 19:01:40.336288
-549,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Systems,NEW,,2026-09-22 19:01:40.336288
-548,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Advisory Account Manager,NEW,,2026-09-22 19:01:40.336288
-547,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Manager,NEW,,2026-09-22 19:01:40.336288
-546,2026-09-23,lever_zeta,ZETA,Executive Assistant/Senior Executive Assistant,NEW,,2026-09-22 19:01:40.336288
-545,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",UPDATED,"{""location"": {""from"": ""Coimbatore, India"", ""to"": ""Chennai, India""}, ""updated_at"": {""from"": ""2026-09-21T06:10:45-04:00"", ""to"": ""2026-09-22T03:16:08-04:00""}}",2026-09-22 19:01:40.336288
-544,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - AI ,NEW,,2026-09-22 19:01:40.336288
-543,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-21T02:32:37-04:00"", ""to"": ""2026-09-22T06:34:13-04:00""}}",2026-09-22 19:01:40.336288
-542,2026-09-22,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
-541,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Associate Advisory Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
-540,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
-539,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 01:00:19.344696
-538,2026-09-22,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Full Stack,NEW,,2026-09-22 01:00:19.344696
