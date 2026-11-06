@@ -1,4 +1,9 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1059,2026-11-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-06 19:01:31.829475
+1058,2026-11-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Solutions",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-06 19:01:31.829475
+1057,2026-11-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-06 19:01:31.829475
+1056,2026-11-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-06 19:01:31.829475
+1055,2026-11-07,lever_zeta,ZETA,Vice President - Business Development,UPDATED,"{""title"": {""from"": ""Vice President - Sales & Business Development"", ""to"": ""Vice President - Business Development""}}",2026-11-06 19:01:31.829475
 1054,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Social Media Marketing Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
 1053,2026-11-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Mid Market Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
 1052,2026-11-06,smartrecruiters_freshworks,FRESHWORKS,Principal - Solution Engineering,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-05 19:03:07.278997
@@ -494,8 +499,3 @@
 562,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Scientist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
 561,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
 560,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Site Reliability,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-559,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Site Reliability,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-558,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Principal Value Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-557,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-556,2026-09-23,lever_cred,CRED,copywriter,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-555,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-09-22 19:01:40.336288
