@@ -1,1 +1,3 @@
 ﻿company_name,title,salary_min,salary_max,currency,period,raw_salary,batch_date
+FRESHWORKS,Mid-Market Account Executive,25000.0,40000.0,USD,annual,$25k - $40k,2026-11-08
+FRESHWORKS,Mid-Market Account Executive ,25000.0,40000.0,USD,annual,$25k - $40k,2026-11-08

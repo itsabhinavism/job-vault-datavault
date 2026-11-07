@@ -1,4 +1,12 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1067,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,"Account Manager, Mid-Market",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-07 19:01:37.220881
+1066,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,"Account Manager, Mid-Market",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-07 19:01:37.220881
+1065,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid-Market ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-07 19:01:37.220881
+1064,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Mid-Market,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-07 19:01:37.220881
+1063,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Manager,NEW,,2026-11-07 19:01:37.220881
+1062,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Manager,NEW,,2026-11-07 19:01:37.220881
+1061,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Executive ,NEW,,2026-11-07 19:01:37.220881
+1060,2026-11-08,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Executive,NEW,,2026-11-07 19:01:37.220881
 1059,2026-11-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-06 19:01:31.829475
 1058,2026-11-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Solutions",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-06 19:01:31.829475
 1057,2026-11-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-06 19:01:31.829475
@@ -491,11 +499,3 @@
 570,2026-09-24,lever_cred,CRED,copywriter,NEW,,2026-09-23 19:01:51.610756
 569,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Associate, Brand Marketing",NEW,,2026-09-23 19:01:51.610756
 568,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Business Analyst ,NEW,,2026-09-23 19:01:51.610756
-567,2026-09-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Startup Accounts",NEW,,2026-09-23 19:01:51.610756
-566,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-565,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-564,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-563,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-562,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Lead - Data Scientist,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-561,2026-09-23,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
-560,2026-09-23,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Site Reliability,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-22 19:01:40.336288
