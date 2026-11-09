@@ -1,3 +1,6 @@
 ﻿company_name,title,salary_min,salary_max,currency,period,raw_salary,batch_date
 FRESHWORKS,Mid-Market Account Executive,25000.0,40000.0,USD,annual,$25k - $40k,2026-11-08
 FRESHWORKS,Mid-Market Account Executive ,25000.0,40000.0,USD,annual,$25k - $40k,2026-11-08
+FRESHWORKS,Lead Account Executive – UKI (Mid-Market & Enterprise),100000.0,100000.0,EUR,annual,€100k,2026-11-10
+FRESHWORKS,Lead Account Executive – Netherlands (Mid-Market & Enterprise),100000.0,100000.0,EUR,annual,€100k,2026-11-10
+FRESHWORKS,Enterprise Account Executive – Denmark & Norway,100000.0,400000.0,USD,annual,$100k–$400k,2026-11-10
