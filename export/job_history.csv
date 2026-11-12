@@ -1253,7 +1253,6 @@
 2026-10-28,greenhouse_razorpay,4741230005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Regional Manger, Enterprise Sales - Bank & Direct","Mumbai, India",open
 2026-10-28,greenhouse_razorpay,4744129005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Data Analyst, Business Finance","Bengaluru, India",closed
 2026-10-28,greenhouse_razorpay,4736957005,RAZORPAY SOFTWARE PRIVATE LIMITED,Associate Business Analyst ,"Bengaluru, India",closed
-2026-10-28,greenhouse_razorpay,4746948005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Security Engineer,"Bengaluru, India",open
 2026-10-28,greenhouse_razorpay,4704952005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border","Bengaluru, India",open
 2026-10-28,greenhouse_razorpay,4741281005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Cluster Manager, Enterprise Sales - Bank & Direct","Bengaluru, India",open
 2026-10-28,greenhouse_razorpay,4741230005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Regional Manger, Enterprise Sales - Bank & Direct","Mumbai, India",open
@@ -1451,8 +1450,6 @@
 2026-11-06,smartrecruiters_freshworks,744000150068499,FRESHWORKS,Principal - Solution Engineering,"Chennai, India",closed
 2026-11-06,smartrecruiters_freshworks,744000151650154,FRESHWORKS,Social Media Marketing Manager,"San Mateo, US",closed
 2026-11-06,smartrecruiters_freshworks,744000159952488,FRESHWORKS,Lead - Account Executive,"Paris, France",open
-2026-11-06,smartrecruiters_freshworks,744000159838649,FRESHWORKS,Lead - Account Executive (m/f/d),"Berlin, Germany",open
-2026-11-06,smartrecruiters_freshworks,744000159828419,FRESHWORKS,Senior Manager - Sales (Expansion) (m/f/d),"Berlin, Germany",open
 2026-11-06,smartrecruiters_freshworks,744000140744969,FRESHWORKS,Senior Manager - Employee Relations,"San Mateo, US",closed
 2026-11-06,smartrecruiters_freshworks,744000140558585,FRESHWORKS,Director - GTM Systems Architecture,"San Mateo, US",closed
 2026-11-06,smartrecruiters_freshworks,744000150067891,FRESHWORKS,Principal - Solution Engineering,"Bengaluru, India",closed
@@ -1511,8 +1508,6 @@
 2026-11-10,smartrecruiters_freshworks,744000144799909,FRESHWORKS,Lead - Solutions Engineer (Verticals),"Atlanta, US",closed
 2026-11-10,smartrecruiters_freshworks,744000144799709,FRESHWORKS,Lead - Solutions Engineer (Verticals),"Raleigh, US",closed
 2026-11-10,smartrecruiters_freshworks,744000144794750,FRESHWORKS,Lead - Solutions Engineer (Verticals),"New York, US",closed
-2026-11-10,smartrecruiters_freshworks,744000140744969,FRESHWORKS,Senior Manager - Employee Relations,"San Mateo, US",open
-2026-11-10,smartrecruiters_freshworks,744000140558585,FRESHWORKS,Director - GTM Systems Architecture,"San Mateo, US",open
 2026-11-10,smartrecruiters_freshworks,744000152879120,FRESHWORKS,Lead - Account Executive,"London, UK",closed
 2026-11-10,smartrecruiters_freshworks,744000156660630,FRESHWORKS,Account Executive - Strategic,"San Mateo, US",closed
 2026-11-10,smartrecruiters_freshworks,744000156660779,FRESHWORKS,Account Executive - Strategic,"Boston, US",closed
@@ -1597,7 +1592,28 @@
 2026-11-12,smartrecruiters_freshworks,744000160828239,FRESHWORKS,Sales Manager,"Paris, France",closed
 2026-11-12,smartrecruiters_freshworks,744000161137799,FRESHWORKS,"Director, Sales (Enterprise/Strategic)","San Mateo, US",open
 2026-11-12,smartrecruiters_freshworks,744000161076879,FRESHWORKS,Lead - Account Manager,"Paris, France",open
+2026-11-12,smartrecruiters_freshworks,744000160971309,FRESHWORKS,Account Executive Enterprise -  Manufacturing ,"New York, US",open
+2026-11-12,smartrecruiters_freshworks,744000147332669,FRESHWORKS,"Director, Integrated Marketing","San Mateo, US",closed
+2026-11-12,smartrecruiters_freshworks,744000151038759,FRESHWORKS,Enterprise Account Manager,"London, UK",closed
+2026-11-12,smartrecruiters_freshworks,744000157388914,FRESHWORKS,Field Marketing Specialist (Contract),"Bengaluru, India",closed
+2026-11-12,smartrecruiters_freshworks,744000160828239,FRESHWORKS,Sales Manager,"Paris, France",closed
+2026-11-12,smartrecruiters_freshworks,744000161137799,FRESHWORKS,"Director, Sales (Enterprise/Strategic)","San Mateo, US",open
+2026-11-12,smartrecruiters_freshworks,744000161076879,FRESHWORKS,Lead - Account Manager,"Paris, France",open
 2026-11-12,smartrecruiters_freshworks,744000161047199,FRESHWORKS,Senior Analyst - Order Management,"Chennai, India",open
 2026-11-12,smartrecruiters_freshworks,744000160971309,FRESHWORKS,Account Executive Enterprise -  Manufacturing ,"New York, US",open
 2026-11-12,greenhouse_razorpay,4749801005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Cluster Manager, Bank Retail","Bengaluru, India",open
+2026-11-12,greenhouse_razorpay,4749801005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Cluster Manager, Bank Retail","Bengaluru, India",open
 2026-11-12,lever_zeta,095cff54-0a10-40b2-baa7-199c5e03d092,ZETA,Technical Support Engineer II,"Bengaluru, India",open
+2026-11-12,lever_zeta,095cff54-0a10-40b2-baa7-199c5e03d092,ZETA,Technical Support Engineer II,"Bengaluru, India",open
+2026-11-13,lever_cred,30d6a745-5873-4079-bd59-449ff3a977f5,CRED,key account management,"Bengaluru, India",open
+2026-11-13,smartrecruiters_freshworks,744000140744969,FRESHWORKS,Senior Manager - Employee Relations,"San Mateo, US",closed
+2026-11-13,smartrecruiters_freshworks,744000140558585,FRESHWORKS,Director - GTM Systems Architecture,"San Mateo, US",closed
+2026-11-13,smartrecruiters_freshworks,744000159838649,FRESHWORKS,Lead - Account Executive (m/f/d),"Berlin, Germany",closed
+2026-11-13,smartrecruiters_freshworks,744000159828419,FRESHWORKS,Senior Manager - Sales (Expansion) (m/f/d),"Berlin, Germany",closed
+2026-11-13,smartrecruiters_freshworks,744000161047199,FRESHWORKS,Senior Analyst - Order Management,"Chennai, India",closed
+2026-11-13,smartrecruiters_freshworks,744000161322320,FRESHWORKS,"Head of Solution Engineering, Americas","San Mateo, US",open
+2026-11-13,smartrecruiters_freshworks,744000161316490,FRESHWORKS,Lead - Solution Engineer,"Berlin, Germany",open
+2026-11-13,smartrecruiters_freshworks,744000161276930,FRESHWORKS,Senior Manager - Sales (Expansion) (m/f/d),"Berlin, Germany",open
+2026-11-13,smartrecruiters_freshworks,744000161274299,FRESHWORKS,Lead - Account Executive Mid-Market Germany (m/f/d),"Berlin, Germany",open
+2026-11-13,smartrecruiters_freshworks,744000161179969,FRESHWORKS,"Senior Manager, Sales (Manufacturing)","San Mateo, US",open
+2026-11-13,greenhouse_razorpay,4746948005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Security Engineer,"Bengaluru, India",closed

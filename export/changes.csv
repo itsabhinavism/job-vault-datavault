@@ -1,4 +1,16 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1135,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
+1134,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Sales (Expansion) (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
+1133,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
+1132,2026-11-13,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Security Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
+1131,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
+1130,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Employee Relations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
+1129,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Sales (Manufacturing)",NEW,,2026-11-12 19:02:41.766742
+1128,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive Mid-Market Germany (m/f/d),NEW,,2026-11-12 19:02:41.766742
+1127,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Sales (Expansion) (m/f/d),NEW,,2026-11-12 19:02:41.766742
+1126,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-12 19:02:41.766742
+1125,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,"Head of Solution Engineering, Americas",NEW,,2026-11-12 19:02:41.766742
+1124,2026-11-13,lever_cred,CRED,key account management,NEW,,2026-11-12 19:02:41.766742
 1123,2026-11-12,smartrecruiters_freshworks,FRESHWORKS,Sales Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-11 19:01:50.561602
 1122,2026-11-12,smartrecruiters_freshworks,FRESHWORKS,Field Marketing Specialist (Contract),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-11 19:01:50.561602
 1121,2026-11-12,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-11 19:01:50.561602
@@ -487,15 +499,3 @@
 638,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - AI ,UPDATED,"{""updated_at"": {""from"": ""2026-09-22T09:52:50-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
 637,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,UPDATED,"{""updated_at"": {""from"": ""2026-09-07T00:34:00-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
 636,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership",UPDATED,"{""updated_at"": {""from"": ""2026-09-25T01:54:30-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-635,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Alliances",UPDATED,"{""updated_at"": {""from"": ""2026-08-26T05:36:49-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-634,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Affordability",UPDATED,"{""updated_at"": {""from"": ""2026-07-21T02:29:07-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-633,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",UPDATED,"{""updated_at"": {""from"": ""2026-09-01T02:49:18-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-632,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",UPDATED,"{""updated_at"": {""from"": ""2026-09-21T07:23:40-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-631,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",UPDATED,"{""updated_at"": {""from"": ""2026-09-25T04:43:56-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-630,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager ,UPDATED,"{""updated_at"": {""from"": ""2026-09-20T04:07:16-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-629,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,DevOps Enginer,UPDATED,"{""updated_at"": {""from"": ""2026-09-03T05:17:10-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-628,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-21T02:21:22-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-627,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-25T08:07:01-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-626,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Learning Business Partner",UPDATED,"{""updated_at"": {""from"": ""2026-09-08T05:52:49-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-625,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",NEW,,2026-09-29 00:45:49.554538
-624,2026-09-28,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-28 01:39:48.329425
