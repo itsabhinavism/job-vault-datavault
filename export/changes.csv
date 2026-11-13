@@ -1,4 +1,18 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1149,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
+1148,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
+1147,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager (Italian and Spanish Speaking),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
+1146,2026-11-14,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Startup Hunting",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
+1145,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Program Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
+1144,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
+1143,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,NEW,,2026-11-13 19:01:37.941884
+1142,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Senior Product Manager,NEW,,2026-11-13 19:01:37.941884
+1141,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-13 19:01:37.941884
+1140,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,NEW,,2026-11-13 19:01:37.941884
+1139,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive,NEW,,2026-11-13 19:01:37.941884
+1138,2026-11-14,lever_zeta,ZETA,Product Manager II,NEW,,2026-11-13 19:01:37.941884
+1137,2026-11-14,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Risk Management",NEW,,2026-11-13 19:01:37.941884
+1136,2026-11-14,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Growth Marketing",NEW,,2026-11-13 19:01:37.941884
 1135,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Order Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
 1134,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Sales (Expansion) (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
 1133,2026-11-13,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-12 19:02:41.766742
@@ -485,17 +499,3 @@
 652,2026-09-29,lever_zeta,ZETA,Manager Site Reliability Engineer,NEW,,2026-09-29 00:45:49.554538
 651,2026-09-29,lever_zeta,ZETA,Manager – People Tech & Transformation,UPDATED,"{""title"": {""from"": ""Specialist / Manager – People Tech & Transformation"", ""to"": ""Manager – People Tech & Transformation""}}",2026-09-29 00:45:49.554538
 650,2026-09-29,lever_zeta,ZETA,Manager - Talent Management,NEW,,2026-09-29 00:45:49.554538
-649,2026-09-29,lever_cred,CRED,accounts payable manager,NEW,,2026-09-29 00:45:49.554538
-648,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,NEW,,2026-09-29 00:45:49.554538
-647,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,UPDATED,"{""updated_at"": {""from"": ""2026-07-21T02:29:07-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-646,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Solutions Consultant,UPDATED,"{""updated_at"": {""from"": ""2026-08-06T02:20:46-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-645,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,UPDATED,"{""updated_at"": {""from"": ""2026-09-24T13:20:27-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-644,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-22T03:16:08-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-643,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,UPDATED,"{""updated_at"": {""from"": ""2026-09-21T03:13:10-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-642,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Social Media Marketing",UPDATED,"{""updated_at"": {""from"": ""2026-09-24T07:53:05-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-641,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-10T03:30:40-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-640,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Executive, Finance",UPDATED,"{""updated_at"": {""from"": ""2026-09-09T05:55:43-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-639,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Analyst, Group Compliance",UPDATED,"{""updated_at"": {""from"": ""2026-09-18T02:59:13-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-638,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - AI ,UPDATED,"{""updated_at"": {""from"": ""2026-09-22T09:52:50-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-637,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,UPDATED,"{""updated_at"": {""from"": ""2026-09-07T00:34:00-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
-636,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership",UPDATED,"{""updated_at"": {""from"": ""2026-09-25T01:54:30-04:00"", ""to"": ""2026-09-28T07:02:10-04:00""}}",2026-09-29 00:45:49.554538
