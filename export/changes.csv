@@ -1,4 +1,5 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1150,2026-11-15,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-14 19:01:58.661360
 1149,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
 1148,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
 1147,2026-11-14,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager (Italian and Spanish Speaking),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-13 19:01:37.941884
@@ -498,4 +499,3 @@
 653,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Corporate Strategy Manager (Consulting & Strategy),NEW,,2026-09-29 00:45:49.554538
 652,2026-09-29,lever_zeta,ZETA,Manager Site Reliability Engineer,NEW,,2026-09-29 00:45:49.554538
 651,2026-09-29,lever_zeta,ZETA,Manager – People Tech & Transformation,UPDATED,"{""title"": {""from"": ""Specialist / Manager – People Tech & Transformation"", ""to"": ""Manager – People Tech & Transformation""}}",2026-09-29 00:45:49.554538
-650,2026-09-29,lever_zeta,ZETA,Manager - Talent Management,NEW,,2026-09-29 00:45:49.554538
