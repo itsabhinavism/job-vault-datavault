@@ -1,4 +1,22 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1171,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1170,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1169,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1168,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1167,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1166,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Staff Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1165,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1164,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1163,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager DACH (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
+1162,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),NEW,,2026-11-17 19:01:35.391665
+1161,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-17 19:01:35.391665
+1160,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-17 19:01:35.391665
+1159,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-11-17 19:01:35.391665
+1158,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Account Executive (Canada),NEW,,2026-11-17 19:01:35.391665
+1157,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager DACH (m/f/d),NEW,,2026-11-17 19:01:35.391665
+1156,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-11-17 19:01:35.391665
+1155,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-11-17 19:01:35.391665
+1154,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Senior Customer Success Manager,NEW,,2026-11-17 19:01:35.391665
 1153,2026-11-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Growth Marketing",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-16 19:01:43.121334
 1152,2026-11-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Risk Management",UPDATED,"{""updated_at"": {""from"": ""2026-11-13T05:55:47-05:00"", ""to"": ""2026-11-16T05:01:59-05:00""}}",2026-11-16 19:01:43.121334
 1151,2026-11-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Security Engineer,NEW,,2026-11-16 19:01:43.121334
@@ -481,21 +499,3 @@
 674,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
 673,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Corporate Strategy",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
 672,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Procurement Systems,NEW,,2026-09-29 23:57:05.116265
-671,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),NEW,,2026-09-29 23:57:05.116265
-670,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Channel Sales,NEW,,2026-09-29 23:57:05.116265
-669,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,NEW,,2026-09-29 23:57:05.116265
-668,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Solutions",NEW,,2026-09-29 23:57:05.116265
-667,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Solutions",NEW,,2026-09-29 23:57:05.116265
-666,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Senior Staff Engineer - Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-665,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, HRBP",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-664,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Manager - Business Development (m/f/d),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-663,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Business Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-662,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-661,2026-09-29,lever_cred,CRED,regional collection manager bangalore - flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-660,2026-09-29,lever_cred,CRED,"area collections manager, pune (recoveries)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-659,2026-09-29,lever_cred,CRED,area collections manager hyderabad -flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-658,2026-09-29,lever_cred,CRED,area collections manager chennai- flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-657,2026-09-29,lever_cred,CRED,area collections manager bangalore -flows,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-656,2026-09-29,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Startup Accounts",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 00:45:49.554538
-655,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst (Marketing Analytics) ,NEW,,2026-09-29 00:45:49.554538
-654,2026-09-29,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst,NEW,,2026-09-29 00:45:49.554538
