@@ -1,4 +1,110 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1277,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive (Canada),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1276,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Sales (Manufacturing)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1275,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Head of Solution Engineering, Americas",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1274,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive Enterprise -  Manufacturing ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1273,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Director, Sales (Enterprise/Strategic)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1272,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1271,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Strategic,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1270,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Strategic,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1269,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1268,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1267,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1266,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1265,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1264,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Executive ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1263,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Executive,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1262,2026-11-19,lever_zeta,ZETA,Analyst II - SIEM/SecOps,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1261,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Vice President & Deputy General Counsel, Corporate",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1260,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1259,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1258,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"SVP, Corporate Communications & Brand Marketing",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1257,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Senior Legal Counsel- Commercial Transactions,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1256,2026-11-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Security Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1255,2026-11-19,lever_cred,CRED,threat detection engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1254,2026-11-19,lever_cred,CRED,cloud security engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1253,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1252,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Revenue Accounting",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1251,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Staff Engineer, Web Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1250,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Director, Digital Experience",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1249,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1248,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1247,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1246,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Channel Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1245,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1244,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1243,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Solution Architect, Professional Services",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1242,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Solution Architect, Professional Services",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1241,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1240,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1239,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Technical Curriculum Developer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1238,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Technical Curriculum Developer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1237,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1236,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Events,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1235,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, People Analytics and Workforce Planning",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1234,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1233,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1232,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Vendor Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1231,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1230,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"FP&A Manager, Product & Engineering",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1229,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Senior Corporate PR Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1228,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1227,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Staff Program Manager - Voice of the Customer Programs,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1226,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"GTM Engineer, Revenue Operations ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-18 19:02:24.157265
+1225,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Sales Manager (Individual Contributor),NEW,,2026-11-18 19:02:24.157265
+1224,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Head of Solution Engineering, Americas",NEW,,2026-11-18 19:02:24.157265
+1223,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"SVP, Corporate Communications & Brand Marketing",NEW,,2026-11-18 19:02:24.157265
+1222,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive (Canada),NEW,,2026-11-18 19:02:24.157265
+1221,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Director, Sales (Enterprise/Strategic)",NEW,,2026-11-18 19:02:24.157265
+1220,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Sales (Manufacturing)",NEW,,2026-11-18 19:02:24.157265
+1219,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive Enterprise -  Manufacturing ,NEW,,2026-11-18 19:02:24.157265
+1218,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Senior Legal Counsel- Commercial Transactions,NEW,,2026-11-18 19:02:24.157265
+1217,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Strategic,NEW,,2026-11-18 19:02:24.157265
+1216,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Strategic,NEW,,2026-11-18 19:02:24.157265
+1215,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,NEW,,2026-11-18 19:02:24.157265
+1214,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,NEW,,2026-11-18 19:02:24.157265
+1213,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,NEW,,2026-11-18 19:02:24.157265
+1212,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Manager,NEW,,2026-11-18 19:02:24.157265
+1211,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Manager,NEW,,2026-11-18 19:02:24.157265
+1210,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Executive ,NEW,,2026-11-18 19:02:24.157265
+1209,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Mid-Market Account Executive,NEW,,2026-11-18 19:02:24.157265
+1208,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Revenue Accounting",NEW,,2026-11-18 19:02:24.157265
+1207,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Director, Digital Experience",NEW,,2026-11-18 19:02:24.157265
+1206,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-18 19:02:24.157265
+1205,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,NEW,,2026-11-18 19:02:24.157265
+1204,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,NEW,,2026-11-18 19:02:24.157265
+1203,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Staff Engineer, Web Operations",NEW,,2026-11-18 19:02:24.157265
+1202,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-11-18 19:02:24.157265
+1201,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-11-18 19:02:24.157265
+1200,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, People Analytics and Workforce Planning",NEW,,2026-11-18 19:02:24.157265
+1199,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,NEW,,2026-11-18 19:02:24.157265
+1198,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Events,NEW,,2026-11-18 19:02:24.157265
+1197,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,NEW,,2026-11-18 19:02:24.157265
+1196,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Deal Desk Strategy Manager,NEW,,2026-11-18 19:02:24.157265
+1195,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Senior Corporate PR Manager,NEW,,2026-11-18 19:02:24.157265
+1194,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Staff Program Manager - Voice of the Customer Programs,NEW,,2026-11-18 19:02:24.157265
+1193,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Vendor Management,NEW,,2026-11-18 19:02:24.157265
+1192,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer — Product & Application Security,NEW,,2026-11-18 19:02:24.157265
+1191,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Procurement Systems,NEW,,2026-11-18 19:02:24.157265
+1190,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Investor Relations Manager,NEW,,2026-11-18 19:02:24.157265
+1189,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Machine Learning,NEW,,2026-11-18 19:02:24.157265
+1188,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, Marketing Intelligence & Decision Science",NEW,,2026-11-18 19:02:24.157265
+1187,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Director - Global Talent Management,NEW,,2026-11-18 19:02:24.157265
+1186,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"GTM Engineer, Revenue Operations ",NEW,,2026-11-18 19:02:24.157265
+1185,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Solution Architect, Professional Services",NEW,,2026-11-18 19:02:24.157265
+1184,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Senior Solution Architect, Professional Services",NEW,,2026-11-18 19:02:24.157265
+1183,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,"Vice President & Deputy General Counsel, Corporate",NEW,,2026-11-18 19:02:24.157265
+1182,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-18 19:02:24.157265
+1181,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Staff Backend AI Platform Engineer,NEW,,2026-11-18 19:02:24.157265
+1180,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Technical Curriculum Developer,NEW,,2026-11-18 19:02:24.157265
+1179,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Technical Curriculum Developer,NEW,,2026-11-18 19:02:24.157265
+1178,2026-11-19,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Site Reliability,NEW,,2026-11-18 19:02:24.157265
+1177,2026-11-19,lever_zeta,ZETA,Executive Assistant/Senior Executive Assistant,NEW,,2026-11-18 19:02:24.157265
+1176,2026-11-19,lever_zeta,ZETA,Director -  Product and Solutions Engineering,UPDATED,"{""title"": {""from"": ""Director - Solution Engineering"", ""to"": ""Director -  Product and Solutions Engineering""}}",2026-11-18 19:02:24.157265
+1175,2026-11-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Banking Alliances",NEW,,2026-11-18 19:02:24.157265
+1174,2026-11-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Frontend Engineer ,NEW,,2026-11-18 19:02:24.157265
+1173,2026-11-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Communication Designer,NEW,,2026-11-18 19:02:24.157265
+1172,2026-11-19,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations",NEW,,2026-11-18 19:02:24.157265
 1171,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
 1170,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
 1169,2026-11-18,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-17 19:01:35.391665
@@ -393,109 +499,3 @@
 780,2026-10-13,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,NEW,,2026-10-12 19:01:56.267399
 779,2026-10-13,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Regional Manger, Enterprise Sales - Bank & Direct",NEW,,2026-10-12 19:01:56.267399
 778,2026-10-13,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Communication Designer,UPDATED,"{""updated_at"": {""from"": ""2026-10-08T07:40:13-04:00"", ""to"": ""2026-10-12T07:36:17-04:00""}}",2026-10-12 19:01:56.267399
-777,2026-10-13,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Analyst, Risk Management ",UPDATED,"{""title"": {""from"": ""Analyst, Risk Management "", ""to"": ""Junior Analyst, Risk Management ""}, ""updated_at"": {""from"": ""2026-10-07T03:03:53-04:00"", ""to"": ""2026-10-12T01:16:45-04:00""}}",2026-10-12 19:01:56.267399
-776,2026-10-13,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Cluster Manager, Enterprise Sales - Bank & Direct",NEW,,2026-10-12 19:01:56.267399
-775,2026-10-13,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Business Operations",NEW,,2026-10-12 19:01:56.267399
-774,2026-10-12,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Alliance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-11 19:02:21.924579
-773,2026-10-12,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-11 19:02:21.924579
-772,2026-10-11,smartrecruiters_freshworks,FRESHWORKS,Lead - Solutions Engineer (Verticals),UPDATED,"{""location"": {""from"": ""Boston, US"", ""to"": ""New York, US""}}",2026-10-10 19:01:38.357836
-771,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Partnerships ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
-770,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
-769,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-09 19:02:07.960520
-768,2026-10-10,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise (SLED),UPDATED,"{""location"": {""from"": ""Dallas, US"", ""to"": ""Austin, US""}}",2026-10-09 19:02:07.960520
-767,2026-10-10,lever_zeta,ZETA,Manager Data Reliability Engineering,UPDATED,"{""title"": {""from"": ""Lead / Manager Data Reliability Engineering"", ""to"": ""Manager Data Reliability Engineering""}}",2026-10-09 19:02:07.960520
-766,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, HRBP Operations (Contract Role)",UPDATED,"{""title"": {""from"": ""Senior Associate, HRBP Operations"", ""to"": ""Senior Associate, HRBP Operations (Contract Role)""}, ""updated_at"": {""from"": ""2026-10-07T04:14:51-04:00"", ""to"": ""2026-10-09T05:28:37-04:00""}}",2026-10-09 19:02:07.960520
-765,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Cross Border",NEW,,2026-10-09 19:02:07.960520
-764,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances",UPDATED,"{""updated_at"": {""from"": ""2026-10-08T09:10:53-04:00"", ""to"": ""2026-10-09T04:59:36-04:00""}}",2026-10-09 19:02:07.960520
-763,2026-10-10,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED," Analyst, Banking Alliances ",NEW,,2026-10-09 19:02:07.960520
-762,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-761,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-760,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Mid Market Sales",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-759,2026-10-09,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-758,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-757,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II - Ads ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-756,2026-10-09,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-755,2026-10-09,lever_zeta,ZETA,Lead Site Reliability Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-754,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-08 19:02:19.443910
-753,2026-10-09,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Full Stack,NEW,,2026-10-08 19:02:19.443910
-752,2026-10-09,smartrecruiters_freshworks,FRESHWORKS,Lead Software Engineer - Systems,NEW,,2026-10-08 19:02:19.443910
-751,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Territory Manager, Bank Retail & Direct Enterprise Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-28T07:02:10-04:00"", ""to"": ""2026-10-08T07:13:46-04:00""}}",2026-10-08 19:02:19.443910
-750,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Communication Designer,NEW,,2026-10-08 19:02:19.443910
-749,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Junior Analyst, Risk Management ",NEW,,2026-10-08 19:02:19.443910
-748,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Assistant Manager, Vigilance",NEW,,2026-10-08 19:02:19.443910
-747,2026-10-09,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances",NEW,,2026-10-08 19:02:19.443910
-746,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-07 19:01:39.891551
-745,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-07 19:01:39.891551
-744,2026-10-08,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-07 19:01:39.891551
-743,2026-10-08,smartrecruiters_freshworks,FRESHWORKS,Director - GTM Systems Architecture,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-07 19:01:39.891551
-742,2026-10-08,smartrecruiters_freshworks,FRESHWORKS,Account Executive - Enterprise ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-07 19:01:39.891551
-741,2026-10-08,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-10-07 19:01:39.891551
-740,2026-10-08,smartrecruiters_freshworks,FRESHWORKS,Business Development Manager,NEW,,2026-10-07 19:01:39.891551
-739,2026-10-08,smartrecruiters_freshworks,FRESHWORKS,Lead - Workplace Management (Travel & Transport Operations),NEW,,2026-10-07 19:01:39.891551
-738,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Learning Business Partner",NEW,,2026-10-07 19:01:39.891551
-737,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, HRBP Operations",NEW,,2026-10-07 19:01:39.891551
-736,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Alliance",NEW,,2026-10-07 19:01:39.891551
-735,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Partnerships ",NEW,,2026-10-07 19:01:39.891551
-734,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Manager, Mid Market Sales",UPDATED,"{""updated_at"": {""from"": ""2026-09-28T07:02:10-04:00"", ""to"": ""2026-10-07T07:57:14-04:00""}}",2026-10-07 19:01:39.891551
-733,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management ",NEW,,2026-10-07 19:01:39.891551
-732,2026-10-08,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances",NEW,,2026-10-07 19:01:39.891551
-731,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-06 19:03:13.670521
-730,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-06 19:03:13.670521
-729,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Senior Director - Business Execution,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-06 19:03:13.670521
-728,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,"Vice President, Corporate Legal & Compliance ",NEW,,2026-10-06 19:03:13.670521
-727,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Commercial Sales Director,NEW,,2026-10-06 19:03:13.670521
-726,2026-10-07,smartrecruiters_freshworks,FRESHWORKS,Commercial Sales Director,NEW,,2026-10-06 19:03:13.670521
-725,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,NEW,,2026-10-06 19:03:13.670521
-724,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,NEW,,2026-10-06 19:03:13.670521
-723,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Product Manager,NEW,,2026-10-06 19:03:13.670521
-722,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,NEW,,2026-10-06 19:03:13.670521
-721,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,UPDATED,"{""title"": {""from"": ""Product Manager II - AI "", ""to"": ""Product Manager II""}, ""updated_at"": {""from"": ""2026-09-28T07:02:10-04:00"", ""to"": ""2026-10-06T06:56:48-04:00""}}",2026-10-06 19:03:13.670521
-720,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,NEW,,2026-10-06 19:03:13.670521
-719,2026-10-07,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations",NEW,,2026-10-06 19:03:13.670521
-718,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
-717,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
-716,2026-10-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Enterprise Partnership",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
-715,2026-10-06,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-05 19:02:02.186767
-714,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Sales Commission,NEW,,2026-10-05 19:02:02.186767
-713,2026-10-06,smartrecruiters_freshworks,FRESHWORKS,Lead - Program Management,NEW,,2026-10-05 19:02:02.186767
-712,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-03 19:01:41.397062
-711,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Global Head of Partner Strategy & Operations,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-03 19:01:41.397062
-710,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-10-03 19:01:41.397062
-709,2026-10-04,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,NEW,,2026-10-03 19:01:41.397062
-708,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-707,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Site Reliability Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-706,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-705,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-704,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Customer Success Manager — Key & Enterprise,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-703,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Analyst, Group Compliance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-702,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Specialist - Content Creation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-701,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Senior Business Development Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-02 11:57:44.940309
-700,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive,NEW,,2026-10-02 11:57:44.940309
-699,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Enterprise Account Executive,NEW,,2026-10-02 11:57:44.940309
-698,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Machine Learning,NEW,,2026-10-02 11:57:44.940309
-697,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Principal Engineer - Machine Learning,NEW,,2026-10-02 11:57:44.940309
-696,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,NEW,,2026-10-02 11:57:44.940309
-695,2026-10-02,smartrecruiters_freshworks,FRESHWORKS,Lead Customer Success Manager,NEW,,2026-10-02 11:57:44.940309
-694,2026-10-02,lever_zeta,ZETA,Product Manager II,NEW,,2026-10-02 11:57:44.940309
-693,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Solutions",UPDATED,"{""updated_at"": {""from"": ""2026-09-29T01:01:43-04:00"", ""to"": ""2026-10-01T06:12:07-04:00""}}",2026-10-02 11:57:44.940309
-692,2026-10-02,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager,NEW,,2026-10-02 11:57:44.940309
-691,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Lead - Procurement Systems,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
-690,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
-689,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
-688,2026-10-01,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Engineering Manager ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
-687,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Analyst (EX SMB),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
-686,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Lead Account Executive (Spanish speaking),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-01 03:22:23.165761
-685,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Executive(Benelux and Nordics),NEW,,2026-10-01 03:22:23.165761
-684,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,NEW,,2026-10-01 03:22:23.165761
-683,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Director - Demand Generation,NEW,,2026-10-01 03:22:23.165761
-682,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Machine Learning,NEW,,2026-10-01 03:22:23.165761
-681,2026-10-01,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager(Italian and Spanish Speaking),NEW,,2026-10-01 03:22:23.165761
-680,2026-10-01,lever_zeta,ZETA,Manager - Talent Management,UPDATED,"{""location"": {""from"": ""Bengaluru, India"", ""to"": ""Hyderabad, India""}}",2026-10-01 03:22:23.165761
-679,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
-678,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Channel Sales,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
-677,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Senior Account Manager (EX Top Tier - North America),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
-676,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
-675,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate, Learning Business Partner",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
-674,2026-09-30,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
-673,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Corporate Strategy",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-09-29 23:57:05.116265
-672,2026-09-30,smartrecruiters_freshworks,FRESHWORKS,Lead - Procurement Systems,NEW,,2026-09-29 23:57:05.116265
