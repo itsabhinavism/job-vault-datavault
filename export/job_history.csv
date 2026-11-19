@@ -1,7 +1,6 @@
 ﻿batch_date,source,source_job_id,company_name,title,location,status
 2026-08-27,lever_cred,09022710-e79a-4cf0-8060-df0e1cd64263,CRED,business development & partnerships,"Bengaluru, India",open
 2026-08-27,lever_cred,a65bef0e-0f4c-40af-b662-9313f255189e,CRED,business development & strategic partnerships - d2c,"Bengaluru, India",open
-2026-08-27,lever_cred,aa501081-1787-4617-bfa9-9f4ecaf68f30,CRED,lead – on deck payments,"Bengaluru, India",open
 2026-08-27,lever_cred,84aa0489-b7e1-4670-bfa9-7a9654197cc3,CRED,long form content writer/editor,"Bengaluru, India",open
 2026-08-27,lever_cred,fa6c100a-0fe0-4892-a8a3-8d2169d5005e,CRED,area collections manager bangalore -flows,Bengaluru,open
 2026-08-27,lever_cred,fa6c100a-0fe0-4892-a8a3-8d2169d5005e,CRED,area collections manager bangalore -flows,"Bengaluru, India",open
@@ -37,12 +36,7 @@
 2026-08-27,smartrecruiters_freshworks,744000145469919,FRESHWORKS,Lead - Solution Engineer,"Bengaluru, India",open
 2026-08-27,smartrecruiters_freshworks,744000145469389,FRESHWORKS,Lead - Solution Engineer,"Chennai, India",open
 2026-08-27,smartrecruiters_freshworks,744000145274960,FRESHWORKS,Specialist - Bots Strategy,"Chennai, India",closed
-2026-08-27,smartrecruiters_freshworks,744000144771319,FRESHWORKS,Deal Desk Strategy Manager,"London, UK",open
-2026-08-27,smartrecruiters_freshworks,744000144466115,FRESHWORKS,Deal Desk Strategist ,"Chennai, India",open
-2026-08-27,smartrecruiters_freshworks,744000144138769,FRESHWORKS,Account Executive - Enterprise (SLED),"Austin, US",open
-2026-08-27,smartrecruiters_freshworks,744000144138719,FRESHWORKS,Account Executive - Enterprise (SLED),"Chicago, US",open
 2026-08-27,smartrecruiters_freshworks,744000143642119,FRESHWORKS,Senior Analyst - Order Management,"Chennai, India",closed
-2026-08-27,smartrecruiters_freshworks,744000142843669,FRESHWORKS,Solution Architect,"Chennai, India",open
 2026-08-27,smartrecruiters_freshworks,744000145904509,FRESHWORKS,Staff Engineer - Full Stack,"Chennai, India",open
 2026-08-27,smartrecruiters_freshworks,744000145753155,FRESHWORKS,Vice President - Corporate Communications,"San Mateo, US",open
 2026-08-27,smartrecruiters_freshworks,744000145701049,FRESHWORKS,Lead - Solution Engineer,"Bengaluru, India",open
@@ -980,7 +974,6 @@
 2026-10-09,lever_zeta,5eb7a75b-312c-4759-8813-70e67b5d4109,ZETA,Lead Site Reliability Engineer,"Hyderabad, India",closed
 2026-10-09,lever_zeta,5eb7a75b-312c-4759-8813-70e67b5d4109,ZETA,Lead Site Reliability Engineer,"Hyderabad, India",closed
 2026-10-10,smartrecruiters_freshworks,744000144138279,FRESHWORKS,Account Executive - Enterprise (SLED),"Austin, US",open
-2026-10-10,smartrecruiters_freshworks,744000144138279,FRESHWORKS,Account Executive - Enterprise (SLED),"Austin, US",open
 2026-10-10,greenhouse_razorpay,4729051005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,"Bengaluru, India",closed
 2026-10-10,greenhouse_razorpay,4741226005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Banking Alliances","Chennai, India",open
 2026-10-10,greenhouse_razorpay,4729051005,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Solutions Consultant,"Bengaluru, India",closed
@@ -1083,7 +1076,6 @@
 2026-10-17,smartrecruiters_freshworks,744000155478634,FRESHWORKS,Senior Engineering Manager - Billing Platform,"Bengaluru, India",closed
 2026-10-17,smartrecruiters_freshworks,744000155413339,FRESHWORKS,Senior Account Executive - Inside Sales (CX NA Inbound),"Chennai, India",closed
 2026-10-17,smartrecruiters_freshworks,744000156077279,FRESHWORKS,"Senior Manager, Revenue Accounting","San Mateo, US",open
-2026-10-17,greenhouse_razorpay,4738327005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Solutions","Mumbai, India",closed
 2026-10-17,greenhouse_razorpay,4736965005,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,"Bengaluru, India",closed
 2026-10-17,greenhouse_razorpay,4738819005,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Consultant,"Bengaluru, India",closed
 2026-10-17,greenhouse_razorpay,4740333005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Software Development Engineer,"Bengaluru, India",closed
@@ -1430,7 +1422,6 @@
 2026-11-07,greenhouse_razorpay,4738319005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Group Manager, Banking Solutions","Bengaluru, India",closed
 2026-11-07,greenhouse_razorpay,4750978005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Risk Management","Bengaluru, India",closed
 2026-11-07,lever_zeta,7c0e0301-f6e0-4092-980d-7e7ec3b566f1,ZETA,Vice President - Business Development,US,open
-2026-11-07,lever_zeta,7c0e0301-f6e0-4092-980d-7e7ec3b566f1,ZETA,Vice President - Business Development,US,open
 2026-11-08,smartrecruiters_freshworks,744000156661809,FRESHWORKS,Account Executive - Mid-Market,"San Mateo, US",closed
 2026-11-08,smartrecruiters_freshworks,744000156661749,FRESHWORKS,Account Executive - Mid-Market ,"Boston, US",closed
 2026-11-08,smartrecruiters_freshworks,744000156661619,FRESHWORKS,"Account Manager, Mid-Market","San Mateo, US",closed
@@ -1625,6 +1616,99 @@
 2026-11-18,smartrecruiters_freshworks,744000161911229,FRESHWORKS,Account Executive (Canada),"Toronto, Canada",open
 2026-11-19,lever_cred,9a746e68-0858-4190-9144-54b19a2cbf2c,CRED,cloud security engineer,"Bengaluru, India",closed
 2026-11-19,lever_cred,b3da0ae4-d0a8-45ce-a1e5-73be12b4bfe3,CRED,threat detection engineer,"Bengaluru, India",closed
+2026-11-19,lever_cred,9a746e68-0858-4190-9144-54b19a2cbf2c,CRED,cloud security engineer,"Bengaluru, India",closed
+2026-11-19,lever_cred,b3da0ae4-d0a8-45ce-a1e5-73be12b4bfe3,CRED,threat detection engineer,"Bengaluru, India",closed
+2026-11-19,smartrecruiters_freshworks,744000145601274,FRESHWORKS,"GTM Engineer, Revenue Operations ","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000144407189,FRESHWORKS,Staff Program Manager - Voice of the Customer Programs,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000144399138,FRESHWORKS,Deal Desk Strategy Manager,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000144352309,FRESHWORKS,Senior Corporate PR Manager,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000142011529,FRESHWORKS,"FP&A Manager, Product & Engineering","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000141973031,FRESHWORKS,Lead - Solution Engineer,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000141975441,FRESHWORKS,Lead - Vendor Management,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000141842029,FRESHWORKS,Lead - Business Systems Services,"Chennai, India",closed
+2026-11-19,smartrecruiters_freshworks,744000140034955,FRESHWORKS,Specialist - Content Creation,"London, UK",closed
+2026-11-19,smartrecruiters_freshworks,744000148884819,FRESHWORKS,"Senior Director, People Analytics and Workforce Planning","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000149594042,FRESHWORKS,Senior Manager - Events,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000149736389,FRESHWORKS,Director - Global Talent Management,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000150461415,FRESHWORKS,Technical Curriculum Developer,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000150458940,FRESHWORKS,Technical Curriculum Developer,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000139157999,FRESHWORKS,Lead - Solution Engineer,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000139157259,FRESHWORKS,Lead - Solution Engineer,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000151674109,FRESHWORKS,"Senior Solution Architect, Professional Services","Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000151673419,FRESHWORKS,"Senior Solution Architect, Professional Services","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000139050259,FRESHWORKS,Lead - Business Systems Services (Workday Technical Lead),"Bengaluru, India",closed
+2026-11-19,smartrecruiters_freshworks,744000151805094,FRESHWORKS,Lead - Solution Engineer,Singapore,closed
+2026-11-19,smartrecruiters_freshworks,744000152411953,FRESHWORKS,Lead - Channel Sales,"Bengaluru, India",closed
+2026-11-19,smartrecruiters_freshworks,744000152685425,FRESHWORKS,Director - Demand Generation,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000152687609,FRESHWORKS,Director - Demand Generation,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000153038761,FRESHWORKS,Lead Customer Success Manager,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000155564119,FRESHWORKS,"Director, Digital Experience","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000155615027,FRESHWORKS,"Staff Engineer, Web Operations","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000156077279,FRESHWORKS,"Senior Manager, Revenue Accounting","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000156328949,FRESHWORKS,Lead - Program Management,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000157923619,FRESHWORKS,Senior Legal Counsel- Commercial Transactions,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000158790545,FRESHWORKS,"SVP, Corporate Communications & Brand Marketing","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000158852264,FRESHWORKS,Business Development Manager,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000158851830,FRESHWORKS,Business Development Manager,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000159731750,FRESHWORKS,"Vice President & Deputy General Counsel, Corporate","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160306729,FRESHWORKS,Mid-Market Account Executive,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160306549,FRESHWORKS,Mid-Market Account Executive ,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160304849,FRESHWORKS,Mid-Market Account Manager,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160303829,FRESHWORKS,Mid-Market Account Manager,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160691749,FRESHWORKS,Enterprise Account Executive,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160691579,FRESHWORKS,Enterprise Account Executive,"San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160691119,FRESHWORKS,Enterprise Account Executive,"Chicago, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160689837,FRESHWORKS,Account Executive - Strategic,"Chicago, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160690079,FRESHWORKS,Account Executive - Strategic,"Boston, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160725954,FRESHWORKS,Lead - Solution Engineer,"Guarulhos, Brazil",closed
+2026-11-19,smartrecruiters_freshworks,744000161137799,FRESHWORKS,"Director, Sales (Enterprise/Strategic)","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000160971309,FRESHWORKS,Account Executive Enterprise -  Manufacturing ,"New York, US",closed
+2026-11-19,smartrecruiters_freshworks,744000161322320,FRESHWORKS,"Head of Solution Engineering, Americas","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000161179969,FRESHWORKS,"Senior Manager, Sales (Manufacturing)","San Mateo, US",closed
+2026-11-19,smartrecruiters_freshworks,744000161911229,FRESHWORKS,Account Executive (Canada),"Toronto, Canada",closed
+2026-11-19,smartrecruiters_freshworks,744000162362973,FRESHWORKS,Lead Software Engineer - Site Reliability,"Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162322510,FRESHWORKS,Technical Curriculum Developer,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162320983,FRESHWORKS,Technical Curriculum Developer,"Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162321220,FRESHWORKS,Staff Backend AI Platform Engineer,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162319087,FRESHWORKS,Lead - Solution Engineer,"Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162321230,FRESHWORKS,"Vice President & Deputy General Counsel, Corporate","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162318131,FRESHWORKS,"Senior Solution Architect, Professional Services","Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162320582,FRESHWORKS,"Senior Solution Architect, Professional Services","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162318104,FRESHWORKS,"GTM Engineer, Revenue Operations ","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162319504,FRESHWORKS,Director - Global Talent Management,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162320869,FRESHWORKS,"Senior Director, Marketing Intelligence & Decision Science","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162318227,FRESHWORKS,Staff Engineer - Machine Learning,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162318257,FRESHWORKS,Investor Relations Manager,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162318740,FRESHWORKS,Lead - Procurement Systems,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162318729,FRESHWORKS,Principal Engineer — Product & Application Security,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162318479,FRESHWORKS,Lead - Vendor Management,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162312584,FRESHWORKS,Staff Program Manager - Voice of the Customer Programs,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162313440,FRESHWORKS,Senior Corporate PR Manager,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162317264,FRESHWORKS,Deal Desk Strategy Manager,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162316989,FRESHWORKS,Lead Customer Success Manager,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162314367,FRESHWORKS,Senior Manager - Events,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162316081,FRESHWORKS,Lead - Program Management,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162313207,FRESHWORKS,"Senior Director, People Analytics and Workforce Planning","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162315880,FRESHWORKS,Business Development Manager,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162310862,FRESHWORKS,Business Development Manager,"Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162310705,FRESHWORKS,"Staff Engineer, Web Operations","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162312450,FRESHWORKS,Director - Demand Generation,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162314829,FRESHWORKS,Director - Demand Generation,"Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162313141,FRESHWORKS,Lead - Solution Engineer,"Guarulhos, Brazil",open
+2026-11-19,smartrecruiters_freshworks,744000162313739,FRESHWORKS,"Senior Manager, Revenue Accounting","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162312793,FRESHWORKS,Enterprise Account Executive,"Chicago, US",open
+2026-11-19,smartrecruiters_freshworks,744000162309736,FRESHWORKS,Enterprise Account Executive,"Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162312519,FRESHWORKS,Enterprise Account Executive,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162310390,FRESHWORKS,Account Executive - Strategic,"Chicago, US",open
+2026-11-19,smartrecruiters_freshworks,744000162312179,FRESHWORKS,Account Executive - Strategic,"Boston, US",open
+2026-11-19,smartrecruiters_freshworks,744000162311979,FRESHWORKS,Senior Legal Counsel- Commercial Transactions,"San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162307235,FRESHWORKS,Account Executive Enterprise -  Manufacturing ,"New York, US",open
+2026-11-19,smartrecruiters_freshworks,744000162310899,FRESHWORKS,"Senior Manager, Sales (Manufacturing)","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162310549,FRESHWORKS,"Director, Sales (Enterprise/Strategic)","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162309230,FRESHWORKS,Account Executive (Canada),"Toronto, Canada",open
+2026-11-19,smartrecruiters_freshworks,744000162309679,FRESHWORKS,"SVP, Corporate Communications & Brand Marketing","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162307950,FRESHWORKS,"Head of Solution Engineering, Americas","San Mateo, US",open
+2026-11-19,smartrecruiters_freshworks,744000162292809,FRESHWORKS,Sales Manager (Individual Contributor),"Paris, France",open
 2026-11-19,smartrecruiters_freshworks,744000145601274,FRESHWORKS,"GTM Engineer, Revenue Operations ","San Mateo, US",closed
 2026-11-19,smartrecruiters_freshworks,744000144407189,FRESHWORKS,Staff Program Manager - Voice of the Customer Programs,"San Mateo, US",closed
 2026-11-19,smartrecruiters_freshworks,744000144399138,FRESHWORKS,Deal Desk Strategy Manager,"San Mateo, US",closed
@@ -1726,6 +1810,43 @@
 2026-11-19,greenhouse_razorpay,4754957005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations","Bengaluru, India",open
 2026-11-19,greenhouse_razorpay,4754926005,RAZORPAY SOFTWARE PRIVATE LIMITED,Communication Designer,"Bengaluru, India",open
 2026-11-19,greenhouse_razorpay,4754975005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Banking Alliances","Bengaluru, India",open
+2026-11-19,greenhouse_razorpay,4746948005,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Security Engineer,"Bengaluru, India",closed
+2026-11-19,greenhouse_razorpay,4731054005,RAZORPAY SOFTWARE PRIVATE LIMITED,Frontend Engineer ,"Bengaluru, India",open
+2026-11-19,greenhouse_razorpay,4754957005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations","Bengaluru, India",open
+2026-11-19,greenhouse_razorpay,4754926005,RAZORPAY SOFTWARE PRIVATE LIMITED,Communication Designer,"Bengaluru, India",open
+2026-11-19,greenhouse_razorpay,4754975005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Manager, Banking Alliances","Bengaluru, India",open
 2026-11-19,lever_zeta,fe9b2558-10da-4a2c-907f-0dee2a1d76be,ZETA,Director -  Product and Solutions Engineering,East Coast,open
 2026-11-19,lever_zeta,38accd53-250f-4e8f-b635-261f31f78b65,ZETA,Analyst II - SIEM/SecOps,"Hyderabad, India",closed
 2026-11-19,lever_zeta,210a0182-d6a2-4e80-85ff-a3e9a5df20e7,ZETA,Executive Assistant/Senior Executive Assistant,"Bengaluru, India",open
+2026-11-19,lever_zeta,fe9b2558-10da-4a2c-907f-0dee2a1d76be,ZETA,Director -  Product and Solutions Engineering,East Coast,open
+2026-11-19,lever_zeta,38accd53-250f-4e8f-b635-261f31f78b65,ZETA,Analyst II - SIEM/SecOps,"Hyderabad, India",closed
+2026-11-19,lever_zeta,210a0182-d6a2-4e80-85ff-a3e9a5df20e7,ZETA,Executive Assistant/Senior Executive Assistant,"Bengaluru, India",open
+2026-11-20,lever_cred,aa501081-1787-4617-bfa9-9f4ecaf68f30,CRED,lead – on deck payments,"Bengaluru, India",closed
+2026-11-20,smartrecruiters_freshworks,744000144771319,FRESHWORKS,Deal Desk Strategy Manager,"London, UK",closed
+2026-11-20,smartrecruiters_freshworks,744000144466115,FRESHWORKS,Deal Desk Strategist ,"Chennai, India",closed
+2026-11-20,smartrecruiters_freshworks,744000144138769,FRESHWORKS,Account Executive - Enterprise (SLED),"Austin, US",closed
+2026-11-20,smartrecruiters_freshworks,744000144138719,FRESHWORKS,Account Executive - Enterprise (SLED),"Chicago, US",closed
+2026-11-20,smartrecruiters_freshworks,744000144138279,FRESHWORKS,Account Executive - Enterprise (SLED),"Austin, US",closed
+2026-11-20,smartrecruiters_freshworks,744000142843669,FRESHWORKS,Solution Architect,"Chennai, India",closed
+2026-11-20,smartrecruiters_freshworks,744000162314019,FRESHWORKS,"Director, Digital Experience","San Mateo, US",closed
+2026-11-20,smartrecruiters_freshworks,744000162310954,FRESHWORKS,Mid-Market Account Executive,"San Mateo, US",closed
+2026-11-20,smartrecruiters_freshworks,744000162313020,FRESHWORKS,Mid-Market Account Executive ,"Boston, US",closed
+2026-11-20,smartrecruiters_freshworks,744000162313328,FRESHWORKS,Mid-Market Account Manager,"San Mateo, US",closed
+2026-11-20,smartrecruiters_freshworks,744000162310540,FRESHWORKS,Mid-Market Account Manager,"Boston, US",closed
+2026-11-20,smartrecruiters_freshworks,744000162469181,FRESHWORKS,Senior Business Development Manager,"Bengaluru, India",open
+2026-11-20,smartrecruiters_freshworks,744000162466134,FRESHWORKS,Senior Account Executive - Inside Sales,"Bengaluru, India",open
+2026-11-20,smartrecruiters_freshworks,744000162459509,FRESHWORKS,Sales Manager Enterprise (Field Sales) - MEA ,"Bengaluru, India",open
+2026-11-20,smartrecruiters_freshworks,744000162442049,FRESHWORKS,Senior Director - Sales (SMB & Scaled) International,"Bengaluru, India",open
+2026-11-20,smartrecruiters_freshworks,744000162433899,FRESHWORKS,Lead - Customer Success (Top Tier) MEA ,"Chennai, India",open
+2026-11-20,smartrecruiters_freshworks,744000162433129,FRESHWORKS,Account Executive (Japan Territory),Singapore,open
+2026-11-20,smartrecruiters_freshworks,744000162406599,FRESHWORKS,"Director, Digital Experience","San Mateo, US",open
+2026-11-20,smartrecruiters_freshworks,744000162405849,FRESHWORKS,Mid-Market Account Executive,"San Mateo, US",open
+2026-11-20,smartrecruiters_freshworks,744000162405659,FRESHWORKS,Mid-Market Account Executive ,"Boston, US",open
+2026-11-20,smartrecruiters_freshworks,744000162404369,FRESHWORKS,Mid-Market Account Manager,"San Mateo, US",open
+2026-11-20,smartrecruiters_freshworks,744000162404329,FRESHWORKS,Mid-Market Account Manager,"Boston, US",open
+2026-11-20,greenhouse_razorpay,4738327005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Solutions","Mumbai, India",open
+2026-11-20,greenhouse_razorpay,4753866005,RAZORPAY SOFTWARE PRIVATE LIMITED,"Associate Director, Risk Management ","Bengaluru, India",open
+2026-11-20,lever_zeta,7c0e0301-f6e0-4092-980d-7e7ec3b566f1,ZETA,Vice President - Business Development,US,closed
+2026-11-20,lever_zeta,e9e396a8-c328-46d0-b03c-c2686ddb9982,ZETA,House Manager,"Bengaluru, India",open
+2026-11-20,lever_zeta,078ed081-2d3e-4120-ab19-36063272cf8d,ZETA,Lead UX Designer,"Bengaluru, India",open
+2026-11-20,lever_zeta,d7608271-a46f-4783-b5a9-05737398d320,ZETA,Technical Support Engineer I,"Hyderabad, India",open
