@@ -1,4 +1,6 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1322,2026-11-22,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, AI Platform (Product Management)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-21 19:01:51.571744
+1321,2026-11-22,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-21 19:01:51.571744
 1320,2026-11-21,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Events,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-20 19:02:01.905100
 1319,2026-11-21,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Analyst, Financial Operations",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-20 19:02:01.905100
 1318,2026-11-21,smartrecruiters_freshworks,FRESHWORKS,Lead - Account Manager,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-20 19:02:01.905100
@@ -497,5 +499,3 @@
 825,2026-10-16,lever_zeta,ZETA,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
 824,2026-10-16,lever_zeta,ZETA,Product Manager I,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
 823,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
-822,2026-10-16,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
-821,2026-10-16,smartrecruiters_freshworks,FRESHWORKS,"Staff Engineer, Web Operations",NEW,,2026-10-15 19:02:36.827714
