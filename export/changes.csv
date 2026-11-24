@@ -1,4 +1,17 @@
 ﻿change_id,batch_date,source,company_name,title,change_type,changed_fields,occurred_at
+1335,2026-11-24,smartrecruiters_freshworks,FRESHWORKS,"GTM Engineer, Revenue Operations ",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-24 01:36:38.343810
+1334,2026-11-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Frontend Engineer ,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-24 01:36:38.343810
+1333,2026-11-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,AI Builder (Senior Product Designer),CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-24 01:36:38.343810
+1332,2026-11-24,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-24 01:36:38.343810
+1331,2026-11-24,smartrecruiters_freshworks,FRESHWORKS,Account Executive (SG Territory),NEW,,2026-11-24 01:36:38.343810
+1330,2026-11-24,smartrecruiters_freshworks,FRESHWORKS,GTM AI Engineer,NEW,,2026-11-24 01:36:38.343810
+1329,2026-11-24,lever_cred,CRED,product design,NEW,,2026-11-24 01:36:38.343810
+1328,2026-11-24,lever_cred,CRED,fraud analytics engineer,UPDATED,"{""title"": {""from"": ""fraud analyst"", ""to"": ""fraud analytics engineer""}}",2026-11-24 01:36:38.343810
+1327,2026-11-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Senior Software Development Engineer,NEW,,2026-11-24 01:36:38.343810
+1326,2026-11-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Regional Manager, Enterprise Sales - Bank & Direct",UPDATED,"{""title"": {""from"": ""Regional Manger, Enterprise Sales - Bank & Direct"", ""to"": ""Regional Manager, Enterprise Sales - Bank & Direct""}, ""updated_at"": {""from"": ""2026-10-27T08:07:37-04:00"", ""to"": ""2026-11-23T15:10:24-05:00""}}",2026-11-24 01:36:38.343810
+1325,2026-11-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,UPDATED,"{""updated_at"": {""from"": ""2026-11-10T01:17:41-05:00"", ""to"": ""2026-11-23T05:37:43-05:00""}}",2026-11-24 01:36:38.343810
+1324,2026-11-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Designer II,NEW,,2026-11-24 01:36:38.343810
+1323,2026-11-24,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Lead Communication Designer,UPDATED,"{""updated_at"": {""from"": ""2026-10-12T07:36:17-04:00"", ""to"": ""2026-11-23T08:59:09-05:00""}}",2026-11-24 01:36:38.343810
 1322,2026-11-22,smartrecruiters_freshworks,FRESHWORKS,"Senior Director, AI Platform (Product Management)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-21 19:01:51.571744
 1321,2026-11-22,smartrecruiters_freshworks,FRESHWORKS,Lead - Solution Engineer,NEW,,2026-11-21 19:01:51.571744
 1320,2026-11-21,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Events,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-11-20 19:02:01.905100
@@ -486,16 +499,3 @@
 838,2026-10-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Technical Consultant,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-17 08:50:26.620395
 837,2026-10-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-17 08:50:26.620395
 836,2026-10-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, Banking Solutions",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-17 08:50:26.620395
-835,2026-10-17,smartrecruiters_freshworks,FRESHWORKS,Manager - Services Sourcing,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-17 08:50:26.620395
-834,2026-10-17,smartrecruiters_freshworks,FRESHWORKS,Senior Manager - Employee Relations,NEW,,2026-10-17 08:50:26.620395
-833,2026-10-17,smartrecruiters_freshworks,FRESHWORKS,Senior Analyst - Cybersecurity Risk & Compliance,NEW,,2026-10-17 08:50:26.620395
-832,2026-10-17,smartrecruiters_freshworks,FRESHWORKS,Lead - Business Systems Services,NEW,,2026-10-17 08:50:26.620395
-831,2026-10-17,smartrecruiters_freshworks,FRESHWORKS,"Senior Manager, Revenue Accounting",NEW,,2026-10-17 08:50:26.620395
-830,2026-10-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, Mid Market Sales",NEW,,2026-10-17 08:50:26.620395
-829,2026-10-17,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Executive, Finance",NEW,,2026-10-17 08:50:26.620395
-828,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Senior Associate, HRBP Operations (Contract Role)",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
-827,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,Forward Deployed Engineer,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
-826,2026-10-16,smartrecruiters_freshworks,FRESHWORKS,Staff Engineer - Machine Learning,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
-825,2026-10-16,lever_zeta,ZETA,Product Manager II,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
-824,2026-10-16,lever_zeta,ZETA,Product Manager I,CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
-823,2026-10-16,greenhouse_razorpay,RAZORPAY SOFTWARE PRIVATE LIMITED,"Manager, AEO",CLOSED,"{""status"": {""from"": ""open"", ""to"": ""closed""}}",2026-10-15 19:02:36.827714
